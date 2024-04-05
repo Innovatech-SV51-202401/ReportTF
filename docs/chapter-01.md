@@ -1,13 +1,22 @@
-# Capítulo I: Introducción
+# Capitulo I: Introducción
 ## 1.1. Startup Profile
-### 1.1.1. Descripción de la Startup
-#### TechConnect Solutions
-Somos GlideGo una innovadora Startup de tecnología perteneciente a nuestro equipo de InnovaTech, dedicada a facilitar la movilidad a las personas a través de la reserva y mantenimiento de vehículos menores o ligeros como bicicletas, Skateboards, scooters y motos eléctricos. Nuestro enfoque se centra en brindar soluciones tanto para usuarios que buscan vehículos para fines de actividades deportivas o para personas que los utilizan en su día a día, nuestra objetivo es facilitar el acceso a vehículos ligeros de forma segura y conveniente para nuestros usuarios, nuestro sitio web ofrecerá una experiencia excepcional, garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehículos. 
+### 1.1.1. Descripción del startup
+Somos InnovaTech, un startup conformado por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), que trabajará en el desarrollo del producto GlideGo, dedicada a facilitar la movilidad a las personas a través de 
+la reserva y mantenimiento de vehículos menores o ligeros como bicicletas, Skateboards, scooters y motos eléctricos. Nuestro enfoque se centra en brindar 
+soluciones tanto para usuarios que buscan vehículos para fines de actividades deportivas o para personas que los utilizan en su día a día, nuestra objetivo 
+es facilitar el acceso a vehículos ligeros de forma segura y conveniente para nuestros usuarios, nuestro sitio web ofrecerá una experiencia excepcional, 
+garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehículos. 
 
-|Mision|Vision|Valores|
-|:-:|:-:|:-:|
-|wdwd|dwdwd|wdwd|
-#### 1.1.2. Perfiles de integrantes del equipo
-| Miembros del equipo                                                                                                        | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|----------------------------------------------------------------------------------------------------------------------------|-|-|-| 
-| , Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">        |U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|                                                     Misión                                                    	|                                                     Visión                                                     	|                                                           Valores                                                          	|
+|:-------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------------------:	|
+| Transformar la movilidad urbana y recreativa con un acceso conveniente y seguro a vehículos menores o ligeros 	| Ser líderes en el mercado de movilidad sostenible ofreciendo una amplia gama de opciones de vehículos menores. 	| Innovación: La innovación constante para ofrecer soluciones creativas. Calidad: Buscamos la exelencia en nuestro producto. 	|
+
+### 1.1.2. Perfiles de integrantes del negocio
+
+|   	| Miembros del equipo               	| Código de estudiante 	| Carrera                	| Conocimientos/Habilidades                                                                                                                                                                                                                                                                                                                                                      	|
+|---	|-----------------------------------	|----------------------	|------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+|   	| Velarde Gonzales Néstor Hernán    	| u20211c221           	| Ingeniería de Software 	| Estudiante de la carrera de Ingeniería de Software, actualmente cursando el Quinto ciclo con especialización en el desarrollo de software y la automatización industrial, poseo habilidades avanzadas en diversos lenguajes de programación y base de datos SQL. Tengo la capacidad demostrada para colaborar eficazmente en proyectos multidiciplinarios y trabajo en equipo. 	|
+|   	| Aru Acevedo Yair Christofer       	| u202125984           	| Ingeniería de Software 	|                                                                                                                                                                                                                                                                                                                                                                                	|
+|   	| Jara Benites Quique Vladimir      	| u202022365           	| Ingeniería de Software 	| Conocimiento intermedio en el lenguaje de programación C++, Java, HTML, y UML. Habilidades que puede aportar en el equipo: participación comunicativa, creatividad, análisis de problemas.                                                                                                                                                                                     	|
+|   	| Hurtado Palomino Francisco Juan   	| u202117498           	| Ingeniería de Software 	| Conocimiento intermedio en lenguajes de C++, HTML y CSS. Para aportación al equipo cuenta con conocimientos en edición de videos y exposiciones.                                                                                                                                                                                                                               	|
+|   	| Flores Manrique Sebastian Enrique 	| u201611430           	| Ingeniería de Software 	| Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                        	|
