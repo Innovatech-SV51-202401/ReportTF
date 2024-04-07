@@ -41,6 +41,22 @@ garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehícu
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
+#### Problem Statement 1
+En nuestra ciudad de Lima, el tráfico se ha convertido en un problema crítico que afecta la calidad de vida y pérdida de tiempo de muchos usuarios principalmente en horas puntas del día.
+Según el diario el comercio menciona, a nivel general, en los últimos años los niveles de congestión vehicular se elevaron en comparación con el año anterior, como consecuencia del paulatino retorno a las actividades presenciales en todo el mundo post pandemia.
+“Del mismo modo, el dinero que gasta en combustible por manejar en las horas más congestionadas suma S/ 2,231 al año, de los cuales S/ 582 es el gasto adicional causado por la congestión. Además, las emisiones de CO2 producidas anualmente por un auto que se moviliza en hora punta es de 990 kg., de los cuales 258 kg corresponde al tiempo adicional que se genera por la congestión”, así lo señaló Alberto Morisaki.
+
+¿Cómo podemos implementar un sistema de transporte alternativo eficiente, y moderno en nuestra ciudad de Lima?
+
+#### Problem Statement 2
+Según un informe de Cuore, hay un gran sector de la población que no ve futuro a este tipo de transporte debido a que no creen en la revolución de los micro movilidad. Eso se ve reflejado en que el porcentaje de interés en adquirir o rentar un vehículo liviano o eléctrico entre los años 2021 y 2022 ha crecido muy levemente mostrando el poco interés de las personas por este tipo de vehículos livianos. Asimismo, el porcentaje de personas que rechazan más este tipo de vehículos livianos, son las personas mayores mostrando que mientras más años tenga una persona, más rechazo tiene a la idea ya que tienden a preferir utilizar transporte público o vehículos privado donde la mayor parte de ellos se encuentra.
+¿Cómo podemos lograr que las personas opten por usar este medio de transporte?
+
+#### Problem Statement 3
+Según un informe de Datum 5 de cada 10 peruanos sufren para llegar a fin de mes. El alza del costo de vida se ve reflejado en el costo promedio diario de pasajes en el transporte que actualmente es de más de 12 soles. Asimismo, el pasaje todos los años sube un 5.5%. Según un informe de Infobae de 2023 el gasto mensual en pasajes se ha aumentado en casi 100 soles desde 2010
+
+¿Cómo podemos ayudar a las personas de Lima metropolitana a reducir sus gastos en transporte público?
+
 #### 1.2.2.2. Lean UX Assumptions.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
