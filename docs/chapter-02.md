@@ -62,13 +62,21 @@ Ofreceremos programas de fidelización y tarifas competitivas para motivar el us
 
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
+### Entrevistas segmento 1: Owners
+**Entrevistas 1:**
+
+* Nombre: 
+* Edad: 
+* Ocupación: 
+
+![Imagen de entrevista]()  
+{texto mucho}
+
 Nombre: _____
 Edad: _ años
 Ocupación: _____  
 ![Imagen de entrevista](image.jpg)  
 {texto mucho}
-
 **Segmento 2**  
 Nombre: _____
 Edad: _ años
