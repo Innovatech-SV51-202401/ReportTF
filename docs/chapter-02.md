@@ -191,16 +191,25 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**   
-![Imagen User Persona 1](../assets/requirements-images/user_persona_user.png)
+![Imagen User Persona 1](../assets/uxpressia/userpersona1.jpg)
 
-**Segmento 2:** 
-![Imagen User Persona 1](../assets/requirements-images/user_persona_tecnico.png)
+**Segmento 2:**
+![Imagen User Persona 2](../assets/uxpressia/userpersona2.jpg)
 
+**Segmento 3:**
+![Imagen User Persona 3](../assets/uxpressia/userpersona3.jpg)
 ### 2.3.2. User Task Matrix.
 **Segmento 1:**
 
 ### 2.3.3. User Journey Mapping.
+**Segmento 1:**   
+![Imagen User Journey Mapping 1](../assets/uxpressia/mapping1.jpg)
 
+**Segmento 2:**   
+![Imagen User Journey Mapping 2](../assets/uxpressia/mapping2.jpg)
+
+**Segmento 3:**   
+![Imagen User Journey Mapping 3](../assets/uxpressia/mapping3.jpg)
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
