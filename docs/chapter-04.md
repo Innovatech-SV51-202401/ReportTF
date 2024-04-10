@@ -120,6 +120,7 @@ Link de figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type
 ![img.png](../assets/img/landing-3.png)
 ![img.png](../assets/img/landing-4.png)
 ![img.png](../assets/img/landing-5.png)
+-
 
 ### 4.3.2 Landing Page Mock-up.
 Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=75%3A2&mode=design&t=vmMKxEV2F816IZC1-1
