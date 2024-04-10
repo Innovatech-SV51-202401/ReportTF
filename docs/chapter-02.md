@@ -130,7 +130,7 @@ Arturo es un joven estudiante de 21 años, él vive en San Juan de Miraflores  y
 
 Aldhair utiliza principalmente el transporte público y a veces una bicicleta para desplazarse. Dedica alrededor de 2 horas diarias al transporte público y enfrenta desafíos como la congestión del tráfico y la pérdida de tiempo. Gasta aproximadamente entre 200 y 300 soles al mes en transporte convencional y se siente neutral respecto a su satisfacción con este medio de transporte. Considera una buena idea contar con servicios de vehículos alternativos como bicicletas y scooters, prefiriendo el scooter por su practicidad pero la bicicleta por su seguridad. Valora aspectos como el precio y las condiciones del alquiler al elegir un servicio de vehículos. Estaría dispuesto a pagar una suscripción mensual que incluya el uso de bicicletas y scooters. Cree que este servicio podría ayudar a reducir sus costos mensuales de transporte y lo utilizará diariamente si estuviera disponible en varios distritos. Considera importante la disponibilidad de vehículos en distintos puntos de la ciudad. Sugiere que la aplicación sea intuitiva y que los vehículos reciban mantenimiento constante para garantizar una experiencia óptima para los usuarios. La entrevista concluyó con agradecimientos mutuos.
 
-## Entrevista 3:
+### Entrevista 3:
 
 * Nombre: Juan Mendivil Quispe
 * Edad: 26
@@ -173,12 +173,21 @@ Santiago Velarde es un mecánico de mantenimiento con 24 años de edad y actualm
 El para comunicarse con sus clientes usa la herramienta de whatsapp o llamadas telefónicas y en cuanto a las tarifas el cuenta con aplicaciones de yape o plin para obtener los pagos de servicios, Por otro lado él no cuenta con plataformas de marketing y muchos menos no usa una aplicación web para ofrecer su servicio, él maneja perfectamente los equipos sea laptop o celular android.
 Al proponer y presentar nuestro proyecto de GlideGo, él siente el interés de contar con nuestra aplicación web, ya que para él y para sus compañeros de rubro sería una herramienta de oportunidad para tener más oportunidades de trabajo.
 
-
+---
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Segmento 1: Owner**
+
+De las entrevistas se obtuvo que el 66.66% de los participantes prefiere que los pagos se realicen a través de plataformas digitales. Asimismo, todos indican que gastan mas de 200 soles mensuales en transporte.
+Solo el 33.33% cuenta con experiencia en el alquiler de vehículos. Por último, todos los participantes consideran  importante el uso de casco y la implementación de un seguro para daños y desgaste.
+
+**Segmento 2: Cliente**
+
+De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 200 soles  mensuales en transporte. Asimismo, mencionaron que su mayor desafío son los tiempos de viaje largos y la congestión vehicular. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
+
+**Segmento 3:: Mecánico**
+De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan de 5 a 9 vehículos menores. Se comunican con sus clientes mediante whatsapp o llamadas telefónicas. Todos los participantes indicaron que sus principales plataformas son windows en dispositivos de escritorio y android en móviles, también indicaron que como navegador preferido es chrome. Asimismo, muestran interés por la implementación de un servicio que ofrezca alquiler y mantenimiento de vehículos menores.
+---
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**   
