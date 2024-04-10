@@ -213,16 +213,24 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+
+![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+
+![Empathy Map Segmento2](../assets/uxpressia/empathy2.png)
+
+**Segmento 3:**
+
+![Empathy Map Segmento3](../assets/uxpressia/empathy3.png)
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+![As-IS Scenario Mapping 1](../assets/uxpressia/scenario1.jpg)
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+![As-IS Scenario Mapping 2](../assets/uxpressia/scenario2.jpg)
 
+**Segmento 3**  
+![As-IS Scenario Mapping 3](../assets/uxpressia/scenario3.jpg)
 ## 2.4. Ubiquitous Language.
