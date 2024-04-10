@@ -2,10 +2,15 @@
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
 
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Implementaremos estrategias específicas para enfrentar a los competidores de manera efectiva. Nos distinguiremos destacando el enfoque en la mejora de seguridad y mantenimiento de los vehículos ligeros, que será respaldado por garantías y servicios exclusivos. Además, mejoraremos la experiencia del usuario con una plataforma fácil de usar y un excelente soporte al cliente. Aumentaremos nuestra red de puntos de alquiler y estaciones de mantenimiento utilizando datos para optimizar nuestra ubicación, para asegurar una amplia cobertura y disponibilidad de vehículos.
+Ofreceremos programas de fidelización y tarifas competitivas para motivar el uso continuo y la recomendación de amigos y familiares. Para promover nuestra marca como una opción de movilidad sostenible y conveniente, también implementaremos estrategias de marketing digital dirigidas y colaboraremos con eventos locales. Por último, pero no menos importante, mantendremos una ventaja competitiva a largo plazo mediante la inversión en investigación y desarrollo para estar al día con las últimas innovaciones en tecnología y movilidad.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+
+#### Entrevistas segmento 01: Owner(Ofrece vehiculos menores)
 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
