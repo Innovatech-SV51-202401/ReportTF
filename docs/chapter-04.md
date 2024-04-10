@@ -50,10 +50,10 @@
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+<img src="../assets/Domain-Driven-Design/Diagrama-Context.png" alt="Diagrama de contexto" style="width:80%;">
 
-   <img src="../assets/Context Diagram.png" alt="Imagen del compañero" style="width:80%;">
- 
 ### 4.6.2. Software Architecture Container Diagrams.
+<img src="../assets/Domain-Driven-Design/Diagrama-contenedores.png" alt="Diagrama de contexto" style="width:80%;"> 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
