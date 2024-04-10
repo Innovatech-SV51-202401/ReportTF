@@ -6,7 +6,7 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Implementaremos estrategias específicas para enfrentar a los competidores de manera efectiva. Nos distinguiremos destacando el enfoque en la mejora de seguridad y mantenimiento de los vehículos ligeros, que será respaldado por garantías y servicios exclusivos. Además, mejoraremos la experiencia del usuario con una plataforma fácil de usar y un excelente soporte al cliente. Aumentaremos nuestra red de puntos de alquiler y estaciones de mantenimiento utilizando datos para optimizar nuestra ubicación, para asegurar una amplia cobertura y disponibilidad de vehículos.
 Ofreceremos programas de fidelización y tarifas competitivas para motivar el uso continuo y la recomendación de amigos y familiares. Para promover nuestra marca como una opción de movilidad sostenible y conveniente, también implementaremos estrategias de marketing digital dirigidas y colaboraremos con eventos locales. Por último, pero no menos importante, mantendremos una ventaja competitiva a largo plazo mediante la inversión en investigación y desarrollo para estar al día con las últimas innovaciones en tecnología y movilidad.
-
+- - -
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
@@ -60,29 +60,119 @@ Ofreceremos programas de fidelización y tarifas competitivas para motivar el us
 10. ¿Qué incentivos considera más atractivos para participar en un programa de mantenimiento de vehículos menores dentro de un servicio de alquileres?
 11. ¿Hay alguna característica que te gustaría ver implementado en la aplicación?
 
-
+- - -
 ### 2.2.2. Registro de entrevistas.
 ### Entrevistas segmento 1: Owners
-**Entrevistas 1:**
+### Entrevista 1:
 
-* Nombre: 
-* Edad: 
-* Ocupación: 
+* Nombre: Francisco Mogollon Murray
+* Edad: 34
+* Ocupación: Dueño de restaurante
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ETyU0L1m7YtErhnG8MIhzF0BQrIQm9zaJ09tKn3gvRLngA?e=CUtDCd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![Imagen de entrevista]()  
-{texto mucho}
+<img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
 
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Informe del resumen de la entrevista:**
+
+Francisco Mogollon es un adulto de 34 años que vive en Barranco, el cuenta actualmente con un vehículo motorizado y una bicicleta, a el le gustaria alquilar vehiculos menores tomando en cuenta el precio de los vehículos y le gustaría cobrar por hora, el no cuenta con una experiencia previa pero le gustaría entrar en este sector. El nos comenta que sería bueno que la aplicación cuente con un sistema de tarifas que se ofrezcan a los owners por sus vehículos y que cuente con un sector de análisis de mercado, en el cual se muestre cuales son los vehículos con más demanda para quizás, en un futuro, poder invertir. Además, nos comenta que sería bueno que se limite el rango de uso del vehículo, osea, que este dentro de un límite de distancia al sector donde se alquila. El también estaría de acuerdo con que la aplicación cubra los gastos de mantenimiento y que la aplicación pueda mostrar quien es el cliente y cuál es su historial. A él le gustaría que la aplicación sea intuitiva para el owner y el usuario para su fácil manejo.
+
+### Entrevista 2:
+
+* Nombre: David Beltran Burgos
+* Edad: 23
+* Ocupación: Call Center
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EWeIGZeWfg5GqivXnXyTYckBWI6LDU_-O9YzBf_O4g1uyQ?e=CqCjq8)
+
+<img src="../assets/entrevistas/entrevista-2.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+La entrevista fue realizada a David Beltrán, residente de San Borja. Beltrán posee una bicicleta y un patinete eléctrico como vehículos menores y no tiene experiencia previa en el alquiler de estos. Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin. Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima. En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa. Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes. Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito. No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento con el tiempo. Le gustaría alquilar sus vehículos a diario y considera útil tener un historial de mantenimiento y la capacidad de limitar el uso de ciertas rutas en la aplicación. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
+
+### Entrevista 3:
+
+* Nombre: Erick Alfaro Meneses
+* Edad: 34
+* Ocupación: Ingeniero Petroquimico
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/ESwfGB1BUr9Nqp5arB_j1WgBlnhX3xFNvmBiEmUK6kz4gg?e=TiOzLO)
+
+<img src="../assets/entrevistas/entrevista-3.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+La entrevista fue realizada a Eric Alfaro, residente de San Borja y poseedor de un scooter eléctrico. Eric menciona que su presupuesto para alquilar cada tipo de vehículo sería de 20 soles diarios. Tiene experiencia previa en el alquiler de vehículos por aplicaciones, incluyendo scooters y autos. Sugiere que las tarifas de alquiler de scooters podrían basarse en el tiempo recorrido por minuto. Prefiere medios de pago como billeteras electrónicas y pagos con tarjeta. Propone un límite de tiempo para el alquiler, con un máximo de 8 horas. En caso de daño durante el uso, espera un acuerdo que lo proteja como propietario del vehículo. Considera importante visualizar la identidad del cliente y recomienda medidas de seguridad como el uso de casco y luces. Está interesado en que la aplicación ofrezca un seguro para cubrir posibles daños y desgaste por el tiempo de uso. Prefiere entregar sus vehículos en su espacio laboral en San Borja. Estima que podría haber al menos 20 personas por día que alquilen su vehículo. Prefiere alquilar sus vehículos de lunes a viernes. Sugiere mejoras en la aplicación, como la incorporación de un botón de reporte de accidentes o averías. La entrevista concluyó con agradecimientos mutuos.
+
+---
+### Entrevistas segmento 2: Clientes
+### Entrevista 1:
+
+* Nombre: Arturo Reyes Rodriguez
+* Edad: 21
+* Ocupación: Estudiante
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EcPZoWGIzEFAsGGzdblOl5gBXiIyL84yEvW4ZPyZC7bxsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9gOckO)
+
+<img src="../assets/entrevistas/entrevista-4.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+Arturo es un joven estudiante de 21 años, él vive en San Juan de Miraflores  y nos comenta que usa de manera interdiaria el servicio de transporte público, ya que, es indispensable para él ya que es la única manera de llegar a su centro académico. Lamentablemente, nos comenta que el uso de este transporte, por más que sea económico, es realmente incómodo, por los tiempos de viaje y la falta de buenos modales de conducción de los choferes de los buses. El nos comenta que estaría muy interesado en el alquiler de motos eléctricas  por medio de nuestra app, ya que, aunque sea un costo mayor al que lleva hoy en día, se le haría mucho más cómodo el movilizarse de manera diaria a su centro académico.
+
+### Entrevista 2:
+
+* Nombre: Aldahir Valenzuela
+* Edad: 20
+* Ocupación: Estudiante
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EVb5PqGJp2FMvSd4M-XckpQBKrP0D8b8dCQr5IxKFEtJ3g?e=1AfIE6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<img src="../assets/entrevistas/entrevista-5.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+Aldhair utiliza principalmente el transporte público y a veces una bicicleta para desplazarse. Dedica alrededor de 2 horas diarias al transporte público y enfrenta desafíos como la congestión del tráfico y la pérdida de tiempo. Gasta aproximadamente entre 200 y 300 soles al mes en transporte convencional y se siente neutral respecto a su satisfacción con este medio de transporte. Considera una buena idea contar con servicios de vehículos alternativos como bicicletas y scooters, prefiriendo el scooter por su practicidad pero la bicicleta por su seguridad. Valora aspectos como el precio y las condiciones del alquiler al elegir un servicio de vehículos. Estaría dispuesto a pagar una suscripción mensual que incluya el uso de bicicletas y scooters. Cree que este servicio podría ayudar a reducir sus costos mensuales de transporte y lo utilizará diariamente si estuviera disponible en varios distritos. Considera importante la disponibilidad de vehículos en distintos puntos de la ciudad. Sugiere que la aplicación sea intuitiva y que los vehículos reciban mantenimiento constante para garantizar una experiencia óptima para los usuarios. La entrevista concluyó con agradecimientos mutuos.
+
+## Entrevista 3:
+
+* Nombre: Juan Mendivil Quispe
+* Edad: 26
+* Ocupación: Transporte
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EXUxf6j8eSFFkB4vP8bzozwBsxrEDKFGaj8K9MbjSpsHFw?e=EwCMRh)
+
+<img src="../assets/entrevistas/entrevista-6.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+Sebastián Flores entrevistó a Juan, quien reside en José Gálvez Villa, María del Triunfo, y se dedica al transporte. Juan utiliza principalmente un automóvil como medio de transporte y enfrenta desafíos como el tráfico y los choques. Gasta aproximadamente entre 300 y 400 soles al mes en transporte convencional y está poco satisfecho con el servicio debido a la cantidad de gente en el transporte público. Considera que sería genial contar con un servicio de vehículos alternativos como bicicletas o scooters, y estaría dispuesto a pagar una suscripción mensual por este servicio. Cree que incluir el mantenimiento del vehículo en la suscripción sería beneficioso y ayudaría a reducir sus costos mensuales de transporte y el tiempo perdido en el tráfico. Utilizará el servicio de alquiler de vehículos interdiariamente y considera importante la disponibilidad de vehículos en distintos puntos de la ciudad. Sugiere la mejora de disponibilidad de puntos de carga para vehículos eléctricos en la aplicación.
+
+---
+### Entrevistas segmento 3: Mecánicos
+### Entrevista 1:
+
+* Nombre: Rodrigo Loaiza Gallegos
+* Edad: 24
+* Ocupación: Asistente mecánico
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_u )
+
+<img src="../assets/entrevistas/entrevista-7.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+La entrevista fue realizada a Rodrigo Loaiza, un residente de San Borja y trabajador en el mismo distrito. Él realiza mantenimiento y reparaciones de distintos tipos de vehículos. Atiende aproximadamente de 8 a 9 vehículos  menores por semana, principalmente realizando cambios de batería, parches de llantas, ajustes de cadenas y mantenimiento de frenos. El tiempo para estos servicios varía, con cambios de batería que dura alrededor de 10 minutos y parches de llantas que pueden tardar entre 15 y 20 minutos. Valora mantener informados a sus clientes sobre los problemas y el progreso de las reparaciones, ofreciendo tarifas de mantenimiento variables y accesibles. Comunica a los clientes cuando el mantenimiento ha finalizado y ofrece opciones de recogida. Consideraría atractivo en un programa de mantenimiento el acompañamiento en el uso de los vehículos. Sugiere implementar en la aplicación la posibilidad de tener diferentes direcciones de locales para referir a los clientes cuando un local esté lleno. La entrevista concluyó con la esperanza de volver a hacerla en el futuro con un prototipo y recibir feedback.
+
+### Entrevista 2:
+
+* Nombre: Velarde Ninahuamán Santiago
+* Edad: 24
+* Ocupación: Mecánico
+* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/Eda2PT540eJJiKC5O1937BgBIiDXIkhKwy9z_qme-S0RCw?e=nWS0Gz)
+
+<img src="../assets/entrevistas/entrevista-8.png" alt="Imagen de la entrevista"> 
+
+**Informe del resumen de la entrevista:**
+
+Santiago Velarde es un mecánico de mantenimiento con 24 años de edad y actualmente vive en San Juan de Lurigancho, Lima, actualmente trabaja en su taller propio y también trabaja en otros talleres si es que lo solicitan su servicio, el tiene como experiencia 2 años en el rubro de mantenimiento de vehículos menores y su motivo de este trabajo es por su pasión y por salir adelante con su familia, Santiago trabaja de Lunes a Sábado desde las tempranas horas, él al día recibe de 5 a 12 motos para dar su mantenimiento o que algunos viene para reparar algunos daños a repara con mayor tiempo, en cuanto a los bicicletas o scooters suele recibir pocas veces, a la semana de 5 o 15 vehículos de estas.
+El para comunicarse con sus clientes usa la herramienta de whatsapp o llamadas telefónicas y en cuanto a las tarifas el cuenta con aplicaciones de yape o plin para obtener los pagos de servicios, Por otro lado él no cuenta con plataformas de marketing y muchos menos no usa una aplicación web para ofrecer su servicio, él maneja perfectamente los equipos sea laptop o celular android.
+Al proponer y presentar nuestro proyecto de GlideGo, él siente el interés de contar con nuestra aplicación web, ya que para él y para sus compañeros de rubro sería una herramienta de oportunidad para tener más oportunidades de trabajo.
+
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
