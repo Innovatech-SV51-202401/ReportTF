@@ -184,8 +184,10 @@ Solo el 33.33% cuenta con experiencia en el alquiler de vehículos. Por último,
 
 De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 200 soles  mensuales en transporte. Asimismo, mencionaron que su mayor desafío son los tiempos de viaje largos y la congestión vehicular. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
 
-**Segmento 3:: Mecánico**
+**Segmento 3: Mecánico**
+
 De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan de 5 a 9 vehículos menores. Se comunican con sus clientes mediante whatsapp o llamadas telefónicas. Todos los participantes indicaron que sus principales plataformas son windows en dispositivos de escritorio y android en móviles, también indicaron que como navegador preferido es chrome. Asimismo, muestran interés por la implementación de un servicio que ofrezca alquiler y mantenimiento de vehículos menores.
+
 ---
 
 ## 2.3. Needfinding.
@@ -199,7 +201,19 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 **Segmento 3:**
 ![Imagen User Persona 3](../assets/uxpressia/userpersona3.jpg)
 ### 2.3.2. User Task Matrix.
-**Segmento 1:**
+| 	                                                                          |   **Owner**  	    |  **Owner**    	   | **Cliente**    	  |  **Cliente**   	  | **Mecánico**   	  |  **Mecánico**  	  |
+|----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+| **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
+| Pública servicio en redes                                            	     |  varias veces 	   |     alta    	     |     -       	     |     -      	      |  varias veces 	   |     alta    	     |
+| Realiza y recibe pagos mediante plataformas digitales                	     |  varias veces 	   |     alta    	     |  varicas veces 	  |     alta    	     |  varias veces 	   |    media    	     |
+| Buscar mecánico de confianza                                         	     |  varias veces 	   |     alta    	     |   rara vez   	    |    media    	     |     -      	      |     -      	      |
+| Separar cita con mecánico                                            	     |  varias veces 	   |    media    	     |   rara vez   	    |    media    	     |     -      	      |     -      	      |
+| Analizar costo y tiempo de mantenimiento                             	     |   rara vez   	    |    media    	     |   rara vez   	    |    media    	     |     -      	      |     -      	      |
+| Comunicarse por whatsapp con la persona a la que ofreció el servicio 	     |  muchas veces 	   |     alta    	     |     -       	     |     -      	      |  varias veces 	   |     alta    	     |
+| Búsqueda de servicio en redes                                        	     |     -      	      |     -      	      |   rara vez   	    |    media    	     |     -      	      |     -      	      |
+| Salir mucho antes de casa para evitar el tráfico                     	     |  varias veces 	   |     alta    	     |  varias veces 	   |     alta    	     |  varias veces 	   |    media    	     |
+| Llevar cuentas sobre gasto en pasajes en lo que va del mes           	     |    siempre   	    |     alta    	     |   siempre    	    |     alta    	     |    siempre   	    |    media    	     |
+| Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |     -      	      |     -      	      |
 
 ### 2.3.3. User Journey Mapping.
 **Segmento 1:**   
