@@ -234,3 +234,18 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 **Segmento 3**  
 ![As-IS Scenario Mapping 3](../assets/uxpressia/scenario3.jpg)
 ## 2.4. Ubiquitous Language.
+
+| Terms and definitions 	| Términos y definiciones                                                                              	|
+|-----------------------	|------------------------------------------------------------------------------------------------------	|
+| Owner                 	| Cualquier persona que utiliza la plataforma para poner en alquiler su vehículo                       	|
+| Cliente               	| Cualquier persona que utiliza la plataforma para alquilar un vehículo                                	|
+| Go                    	| Comenzar a utilizar el servicio                                                                      	|
+| MyWallet              	| Ingreso obtenido por alquilar tu vehículo                                                            	|
+| Routes                	| Registro de rutas seguidas en trayecto del viaje                                                     	|
+| Benefits              	| Beneficios adicionales que obtienes por alquilar                                                     	|
+| Technician support    	| Profesional especializado en mantenimiento y reparacion de vehiculos                                 	|
+| Subscription plan     	| Modelo de pago que permiten a los usuarios acceder a los servicios ofrecidos                         	|
+| Device                	| Cualquier parte del vehículo que ha sido reportada por el técnico                                    	|
+| Service history       	| Registro de todas las solicitudes de servicio blindadas y ofrecidas por parte de los usuarios        	|
+| Issue                 	| Descripción detallada de falla en el vehículo                                                        	|
+| Warrantly             	| Compromiso de reparar o darle mantenimiento de un vehículo dentro de un periodo de tiempo específico 	|
