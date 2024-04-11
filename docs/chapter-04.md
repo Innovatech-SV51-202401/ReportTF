@@ -130,3 +130,78 @@ Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=de
 ![img.png](../assets/img/landing-8.png)
 ![img.png](../assets/img/landing-9.png)
 ![img.png](../assets/img/landing-10.png)
+
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-owner-reservas.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-mechanic.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-owner.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-user.png)
+
+### 4.4.2. Web Applications Wireflow Diagram
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/web-app-wireflow.png)
+
+### 4.4.3. Web Applications Mock-ups
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-login.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-mechanic.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-owner.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-user.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-balance.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-localizacion-mantenimiento.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-reservas.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner_mantenimiento.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-recuperar-contrasenia.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-registro.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-registro_completo.png)
+
+### 4.4.4. Web Applications User Flow Diagrams
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/web-app-user-flow.png)
+
+## 4.5. Web Applications Prototyping
+Link del prototipo: https://www.figma.com/proto/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=200-1238&t=aAU6xJx7nPHgsRyD
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/
+
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Diagrama-Context.png)
+
+### 4.6.2. Software Architecture Container Diagrams
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Diagrama-contenedores.png)
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
+![Software-Object-Oriented-Design](../assets/Software-Object-Oriented-Design/class-diagram.PNG)
+Fuente: Imagen propia
+Link: https://lucid.app/lucidchart/0f72fb11-fe3b-4ad5-8b62-a201354f531b/edit?viewport_loc=-2533%2C-2114%2C5817%2C2432%2C0_0&invitationId=inv_31b6a745-b508-40b3-92e3-08ec5e032b70
+
+### 4.7.2. Class Dictionary
+**Usuario**
+
+|Atributo|Tipo de dato|Descripción|
+|-|-|-|
+|id_usuario|int|Código de 4 dígitos para identificar al usuario.|
+|nombres|string|Nombre y apellidos completos del usuario.|
+|edad|int|Edad de la persona, principalmente para validar al usuario que es mayor de edad.|
+|direccion|string|Dirección de la persona donde vive actualmente.|
+|numero_telefono|string|Número telefónico de la persona asociado a whatsapp.|
+|usuario|string|Usuario de la persona para acceder a la aplicación web.|
+|contraseña|string|Clave personal de la persona|
+
+**Owner**
+
+|Atributo|Tipo de dato|Descripción|
+|-|-|-|
+|id_usuario|int|Código de 4 dígitos para identificar al usuario.|
+|nombres|string|Nombre y apellidos completos del usuario.|
+|edad|int|Edad de la persona, principalmente para validar al usuario que es mayor de edad.|
+|direccion|string|Dirección de la persona donde vive actualmente.|
+|numero_telefono|string|Número telefónico de la persona asociado a whatsapp.|
+|vehiculo|string|Vehiculo que dispone para poner en alquiler.|
+|usuario|string|Usuario de la persona para acceder a la aplicación web.|
+|contraseña|string|Clave personal de la persona.|
+
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
+![Database-Design](../assets/Database-Design/database-diagram.png)
