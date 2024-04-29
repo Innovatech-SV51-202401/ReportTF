@@ -2,7 +2,75 @@
 
 ## 5.1. Software Configuration Management.
 
-Para la elaboración del proyecto se utilizaron diversas herramientas. A continuación, mencionaremos las herramientas que se utilizaran para el proyecto. 
+**Project Management**
+
+- Google Drive
+
+Plataforma gratuita que te permite almacenar archivos y acceder a ellos desde 
+cualquier lugar utilizando la nube. 
+
+Propósito en el proyecto: El equipo ha utilizado Google 
+Drive como centro de organización principal para llevar un registro de los puntos pendientes
+realizados y por realizar. También han utilizado la herramienta Trello para establecer hitos 
+y plazos. En cuanto a las consultas y dudas, se han resuelto mediante reuniones grupales por meet.
+
+**Requirements Management**
+
+
+El trabajo asignado a cada estudiante ha sido revisado y evaluado por todo el equipo Innovatech para
+asegurar que cumpla con los criterios y para sugerir posibles cambios que eviten errores al
+presentar el proyecto en la entrega del trabajo. 
+
+
+**Product UX/UI Design**
+
+
+- Figma:
+
+Descripción: Un programa de edición gráfica y prototipado. Una plataforma que se utiliza
+principalmente para el diseño digital de Wireframe y Mock-Up, es decir, para diseñar los interfaces 
+de nuestra aplicación web.
+Propósito en el proyecto: Para el diseño del proyecto, nuestro equipo ha utilizado Figma para la
+creación de los wireframes de alta fidelidad, así como para la elaboración de los prototipos
+de la aplicación web.
+
+Ruta: 
+
+- Lucidchart:
+Descripción: Permite que los usuarios creen borradores y compartan diagramas de flujo
+profesionales, proporcionando diseños para todo, desde procesos de lluvia de ideas hasta
+administración de proyectos.
+
+Propósito en el proyecto: Para los wireflows, user flows y diagramas de clases.
+
+Ruta:
+
+**Software Development**
+- VUE: 
+
+- HTML:
+Descripción: Código que se usó para estructurar nuestra landing page y tambien en nuestra aplicación 
+web, los estándares de desarrollo web, modificando el código existente para solucionar problemas y
+actualizándolo a las nuevas necesidades de hoy en día.
+
+
+**Software Deployment**
+
+
+- GitHub:
+
+
+Descripción: Permite subir tus repositorios de código para que sean almacenados en la
+nube a través del sistema de control de versiones de Git y participar en los avancen de sprint 
+de código en nuestro equipo.
+Propósito en el proyecto: Para alojar y desplegar el landing page y frontend, asi como
+poder visualizar e interactuar con el trabajo presentado. Git para poder realizar el control de
+versions.
+
+Ruta: <td>https://github.com/</td>
+
+
+Ruta:
 
 <table>
 	<tbody>
@@ -66,25 +134,64 @@ Booststrap: Nos apoyaremos del framework para facilitar el desarrollo de landing
 WebStorm: Ide que nos permite la elaboración del landing page
 
 
-5.2. Landing Page, Services & Applications Implementation.
-5.2.1. Sprint 1
-5.2.1.1. Sprint Planning 1.
-5.2.1.2. Sprint Backlog 1.
-5.2.1.3. Development Evidence for Sprint Review.
-5.2.1.4. Testing Suite Evidence for Sprint Review.
-5.2.1.5. Execution Evidence for Sprint Review.
-5.2.1.6. Services Documentation Evidence for Sprint Review.
-5.2.1.7. Software Deployment Evidence for Sprint Review.
-5.2.1.8. Team Collaboration Insights during Sprint.
-5.2.2. Sprint 2
-5.2.2.1.Sprint Planning 2.
-5.2.2.2.Sprint Backlog 2.
-5.2.2.3.Development Evidence for Sprint Review.
-5.2.2.4.Testing Suite Evidence for Sprint Review.
-5.2.2.5.Execution Evidence for Sprint Review.
-5.2.2.6.Services Documentation Evidence for Sprint Review.
-5.2.2.7.Software Deployment Evidence for Sprint Review.
-5.2.2.8.Team Collaboration Insights during Sprint.
+## 5.2. Landing Page, Services & Applications Implementation.
+
+
+#### 5.2.1. Sprint 1
+
+
+#### 5.2.1.1. Sprint Planning 1.
+
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+
+#### 5.2.2. Sprint 2
+
+
+#### 5.2.2.1.Sprint Planning 2.
+
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
 
 
 ## Conclusiones
