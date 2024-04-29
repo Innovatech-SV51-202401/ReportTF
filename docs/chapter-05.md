@@ -125,6 +125,9 @@ WebStorm: Ide que nos permite la elaboración del landing page
 #### 5.2.1. Sprint 1
 
 
+
+#### 5.2.1.1. Sprint Planning 1.
+
 <table>
 	<tbody>
 		<tr>
@@ -175,7 +178,7 @@ WebStorm: Ide que nos permite la elaboración del landing page
 		</tr>
 		<tr>
 			<td>Sprint 1 Goal</td>
-			<td>Nuestros segmentos objetovos puedan acceder y registrar datos:
+			<td>Nuestros segmentos objetivos puedan acceder y registrar datos:
                 Owner: Registrar sus vehiculos y establecer sus tarifas.
                 Client: Visualizar el catalogo de vehiculos y su perfil.
                 Mechanic: Registrar su taller y establecer sus tarifas de servicio. 
@@ -191,11 +194,6 @@ WebStorm: Ide que nos permite la elaboración del landing page
 		</tr>
 	</tbody>
 </table>
-
-
-
-#### 5.2.1.1. Sprint Planning 1.
-
 
 #### 5.2.1.2. Sprint Backlog 1.
 
