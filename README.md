@@ -18,13 +18,26 @@ Nombre del producto: GlideGo
 Abril, 2024
 - - -
 # Registro de Versiones del Informe
-| Version | Fecha      | Autor      | Descripcion de Modificacion |
-|---------|------------|------------|----------------|
-| 0.0     | 29/03/2024 | InnovaTech | Se crea el documento |
-| 1.0     | 29/03/2024 | InnovaTech | Busqueda de antecendetes |
-| 2.0     | 04/04/2024 | InnovaTech | Entrevistas y analsiis competitivo |
-| 3.0     | 05/04/2024 | InnovaTech |                |
-| 4.0     | 09/04/2024 | InnovaTech | Se crea el documento |
+| Version | Fecha      | Autor                        | Descripcion de Modificacion                      |
+|---------|------------|------------------------------|--------------------------------------------------|
+| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir | Creé el documento                                |
+| 1.0     | 29/03/2024 | Velarde Gonzales Nestor                 | Busqueda de antecendetes                         |
+| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer               | Entrevistas y analsiis competitivo               |
+| 1.2     | 05/04/2024 | Sebastian Flores Manrique    | Agregué definición, antecedentes y problemática  |
+| 1.3     | 07/04/2024 | Velarde Gonzales Nestor                  | Agregué el lean ux process                       |
+| 1.4     | 07/04/2024 | Sebastian Flores Manrique                   | Agregué el segmento objetivo                     |
+| 2.0     | 07/04/2024 | Velarde Gonzales Nestor                   | Agregué los competidores y el análisis           |
+| 2.1     | 07/04/2024 | Hurtado Palomino, Francisco Juan                | Agregué las entrevistas y el análisis            |
+| 2.2     | 09/04/2024 | Jara Benites Quique Vladimir                 | Agregué el needfinding y ubiquitous language     |
+| 2.3     | 09/04/2024 | Velarde Gonzales Nestor                    | Agregué el Scenario mapping y user stories       |
+| 2.4     | 09/04/2024 | Sebastian Flores Manrique                    | Agregué el impact mapping y product backlog      |
+| 3.0     | 10/04/2024 |Hurtado Palomino, Francisco Juan              | Agregué los style guidelines                     |
+| 3.1     | 10/04/2024 | Aru Acevedo, Yair Christofer               | Agregué information architecture                 |
+| 3.2     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el landing page                          |
+| 3.3     | 10/04/2024 | Hurtado Palomino, Francisco Juan              | Agregué los wireframes y mockups                 |
+| 3.4     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el diagrama de base de datos y de clases |
+| 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué el software configuration managment      |
+| 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué sprint número 1                          |
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/Innovatech-SV51-202401/ReportTF.git)
 
@@ -159,7 +172,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                                                                                	| Acciones realizadas 	| Conclusiones 	|
-|----------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
-| Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. 	|                     	|              	|
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                           	|                     	|              	|
+| Criterio específico                                                                                                                                	| Acciones realizadas 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones 	                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. 	| TB1:<br/><br/>Sebastian Flores Manrique: Como equipo,participamos en reuniones con frecuencia para ponernos   de   acuerdo en   la   asignación   y revisión   de   partes  del trabajo.<br/><br/>Jara Benites Quique Vladimir:En   esta   entrega   se escogió   lap roblemática   a resolver,   tomando   encuenta   su sostenibilidad   y relevancia   en   las ociedad   actual.   Se entrevistaron   a   los posibles usuarios.<br/> <br/>Velarde Gonzales Nestor: Utilicé técnicas de Lean UX para la creación de prototipos, validando conceptos y ajustando problemas de usabilidad antes de avanzar en el desarrollo completo.<br/> <br/>Aru Acevedo, Yair Christofer: Participé de reuniones con el equipo donde revisamos avances del proyecto y recopilamos retroalimentación.                   	 | Esta experiencia me ha proporcionado una comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.	              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                           	| TB1:<br/> <br/> Sebastian Flores Manrique: Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos. <br/> <br/> Jara Benites Quique Vladimir:Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/> <br/>Velarde Gonzales Nestor:Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas. <br/> <br/>Aru Acevedo, Yair Christofer:Mantuve un seguimiento de las tendencias y cambios en el sector para adaptar nuestra solución.	                                                                                                                                                                                               | La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.             	 |
