@@ -34,7 +34,7 @@ Abril, 2024
 
 [Capítulo I: Introducción]()
 
-[1.1 Startup Profile](/docs/chapter-01.md#-Capitulo-I:-Introducción) 
+[1.1 Startup Profile](/docs/chapter-01.md) 
 [1.1.1. Descripción de la Startup]()
 
 [1.1.2. Perfiles de integrantes del equipo]()
