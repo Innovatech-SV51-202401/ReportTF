@@ -70,7 +70,21 @@ versions.
 Ruta: <td>https://github.com/</td>
 
 
-Ruta:
+Github: Es la herramienta de control de versiones que permite que alojemos nuestro
+código en un repositorio, agilizando el trabajo en grupo. Para el desarrollo usaremos el
+flujo de trabajo Git Flow.
+Webstorm: Un entorno de desarrollo que permite trabajar con una variedad de lenguajes 
+de programación. Al igual que otros IDE de JetBrains, hace que el desarrollo sea más 
+fácil y divertido, ayudándole a automatizar tareas repetitivas y gestionar tareas 
+complejas con facilidad.
+Structurizr:Es una colección de herramientas que nos permitirá diagramar modelos C4 de 
+nuestros productos de manera colaborativa. 
+#### 5.1.1. Software Development Environment Configuration.
+#### 5.1.2. Source Code Management.
+repositorio GitHub: https://github.com/Innovatech-SV51-202401/ReportTF.git
+WorkFlow:
+
+
 
 <table>
 	<tbody>
@@ -86,40 +100,11 @@ Ruta:
 			<td>Webstorm</td>
 			<td>https://www.jetbrains.com/webstorm/</td>
 		</tr>
-		
+
 	</tbody>
 </table>
 
-Github: Es la herramienta de control de versiones que permite que alojemos nuestro
-código en un repositorio, agilizando el trabajo en grupo. Para el desarrollo usaremos el
-flujo de trabajo Git Flow.
-Webstorm: Un entorno de desarrollo que permite trabajar con una variedad de lenguajes de programación. Al igual que otros IDE de JetBrains, hace que el desarrollo sea más fácil y divertido, ayudándole a automatizar tareas repetitivas y gestionar tareas complejas con facilidad.
-Structurizr:Es una colección de herramientas que nos permitirá diagramar modelos C4 de nuestros productos de manera colaborativa. 
-#### 5.1.1. Software Development Environment Configuration.
-#### 5.1.2. Source Code Management.
-repositorio GitHub: https://github.com/Innovatech-SV51-202401/ReportTF.git
-WorkFlow:
-El flujo de trabajo empleado fue GitFlow, porque ayuda a mantener el código organizado, facilita la colaboración y permite releases controladas.
 
-Ramas principales:
-main:
-develop
-
-Ramas de función:
-
-
-Conventional Commits:
-Para la redacción de las siguientes convenciones de commits se utilizó de referencia el artículo Conventional Commits 1.0.0.
-El “commit” debe estructurarse de la siguiente manera:
-<tipo>(ámbito opcional): <descripción>
-[cuerpo opcional]
-[nota(s) al pie opcional(es)]
-
-Los tipos que hemos usado son:
-feat: cuando se añade una nueva funcionalidad.
-fix: cuando se arregla un error.
-chore: tareas rutinarias que no sean específicas de una feature o un error como por ejemplo añadir contenido al fichero .gitignore o instalar una dependencia.
-docs: cuando solo se modifica documentación.
 #### 5.1.3. Source code Style Guide & Conventions.
 Convenciones de idiomas:
 Nomenclatura:
@@ -138,6 +123,75 @@ WebStorm: Ide que nos permite la elaboración del landing page
 
 
 #### 5.2.1. Sprint 1
+
+
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Planning Background</center></td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>17 de Abril del 2024</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>2 horas</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Reunión virtual mediante la plataforma de Meet.</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Vladimir Jara Benites</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Flores Manrique, Sebastian</li>
+                    <li>Jara Benites, Vladimir</li>
+                    <li>Hurtado Palomino, Francisco</li>
+                    <li>Aru Acevedo, Yair</li>
+                    <li>Velarde Gonzales, Néstor</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint n-1 Review Summary</td>
+			<td>Registration management</td>
+		</tr>
+		<tr>
+			<td>Sprint n-1 Retrospective Summary</td>
+			<td>Implementación de registros y visualizacón de datos </td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Goal</td>
+			<td>Nuestros segmentos objetovos puedan acceder y registrar datos:
+                Owner: Registrar sus vehiculos y establecer sus tarifas.
+                Client: Visualizar el catalogo de vehiculos y su perfil.
+                Mechanic: Registrar su taller y establecer sus tarifas de servicio. 
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Velocity</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 
 
 #### 5.2.1.1. Sprint Planning 1.
