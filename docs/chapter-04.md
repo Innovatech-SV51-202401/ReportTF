@@ -97,7 +97,7 @@ Para la página es importante, un sistema de etiquetado efectivo para permitir q
 
 Title:
 
-![img.png](../assets/img/SEO%20Tags.png)
+![img.png](../assets/img/seo-tags.png)
 
 
 ### 4.2.4. Searching Systems.
