@@ -26,11 +26,6 @@ Justificación porque usamos Open sans(googlear), pistas sencillo minimalista
 
 ![img.png](../assets/img/typography.png)
 
-- Colors
-- Primarios
-- Secundarios
-- Terciarios
-
 Pulcritud, elegancia y sofisticación, a su vez crea un contraste suave
  
 ![img.png](../assets/img/colors-1.png)
