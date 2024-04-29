@@ -1,40 +1,50 @@
 # Capitulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-Especificamos los estilos generales de la aplicación web para el proceso de Front-End
+
+En esta sección se especifican los estilos generales de la aplicación web para el proceso de Front-End.
 
 ### 4.1.1. General Style Guidelines.
 
-Definimos los colores y el tipo de tipografías que se utilizarán de forma global en el proyecto. A Continuación mostramos una paleta de colores. 
+Nuestro prototipo web integrará ciertos ajustes de colores, fuente de letra o tipografía
+y creación de un diseño estructural de la plataforma.
+El color verde brillante de nuestro logo y nuestros interfaces anima a las personas a tomar otras alternativas 
+de deciones en su transporte diarío, ya que dicho color representa la naturaleza y frescura.
+La tipografía que aplicamos en nuestro prototipo es Open Sans, ya que, ayuda a darle un estilo
+amigable a nuestra aplicación web, gracias a la tipografía cierta información que se encuentre en
+el sitio web se verá ordenada y entendible por nuestros segmentos objetivos.
 
-![img.png](../assets/img/GSG-1.png)
+#### Paleta de colores
+
+- **Verde Brillante:** #ADE366 (Es el color primario que se aplicará a nuestro aplicación web en la mayor parte)
+- **Gris Azulado:** #5D6D7E (Color que se aplicará de manera simultanea en los botones)
+- **Blanco:** #E4E4E4 (Dicho color se aplicará en textos o fondo de aplicación web)
+
+![img.png](../assets/Components/Color-palette.png)
+
+#### Tipografía
+
+Se define el tipo de tipografía que se utilizará en todo el proyecto.
+
+![img.png](../assets/img/typography.png)
 
 ![img.png](../assets/img/GSG-2.png)
 
 #### Logo de GlideGo:
-Nuestro logo representa un tono de verde limón opaco con el código hexadecimal ADE366, combina una bicicleta y una hoja de planta. La bicicleta simboliza movilidad, libertad y sostenibilidad, por otro lado la hoja representa la naturaleza y el compromiso con el medio ambiente. Esta combinación refleja nuestra visión de ofrecer soluciones de movilidad ecológica y sostenible. 
+Nuestro logo representa un tono de verde con el código hexadecimal #ADE366, combina una bicicleta y 
+una hoja de planta. La bicicleta simboliza movilidad, libertad y sostenibilidad, por otro lado la 
+hoja representa la naturaleza y el compromiso con el medio ambiente. Esta combinación refleja nuestra 
+visión de ofrecer soluciones de movilidad ecológica y sostenible. 
+
+#### Logo vertical:
 
 ![img.png](../assets/img/Logo-1.png)
 
-#### Horizontal Logo:
+#### Logo horizontal:
 
 ![img.png](../assets/img/logo-h-1.png)
+
 ![img.png](../assets/img/logo-h-2.png)
-
-#### Typography:
-Justificación porque usamos Open sans(googlear), pistas sencillo minimalista 
-
-![img.png](../assets/img/typography.png)
-
-- Colors
-- Primarios
-- Secundarios
-- Terciarios
-
-Pulcritud, elegancia y sofisticación, a su vez crea un contraste suave
- 
-![img.png](../assets/img/colors-1.png)
-![img.png](../assets/img/colors-2.png)
 
 ### 4.1.2. Web Style Guidelines.
 Nuestra web utiliza el Patrón Z, una estructura diseñada para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono verde grisáceo, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como “Conocenos”, “Servicios”, “Planes” y “Obtener”. El boton de obtener es de color naranja que añade un toque de energia y atencion al diseño, contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación. 
