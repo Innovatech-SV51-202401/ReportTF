@@ -39,7 +39,7 @@ Abril, 2024
 | 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué el software configuration managment      |
 | 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué sprint número 1                          |
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/Innovatech-SV51-202401/ReportTF.git)
+[https://github.com/Innovatech-SV51-202401/ReportTF.git](https://github.com/Innovatech-SV51-202401/ReportTF.git)
 
 # Contenido 
 
