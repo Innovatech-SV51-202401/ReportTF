@@ -1,3 +1,5 @@
+# Capítulo V: Product Implementation, Validation & Deployment.
+
 ## 5.1. Software Configuration Management.
 
 Para la elaboración del proyecto se utilizaron diversas herramientas. A continuación, mencionaremos las herramientas que se utilizaran para el proyecto. 
@@ -50,12 +52,12 @@ feat: cuando se añade una nueva funcionalidad.
 fix: cuando se arregla un error.
 chore: tareas rutinarias que no sean específicas de una feature o un error como por ejemplo añadir contenido al fichero .gitignore o instalar una dependencia.
 docs: cuando solo se modifica documentación.
-5.1.3. Source code Style Guide & Conventions.
+#### 5.1.3. Source code Style Guide & Conventions.
 Convenciones de idiomas:
 Nomenclatura:
 tecnologia:
 Herramientas:
-5.1.4. Software Deployment Configuration.
+#### 5.1.4. Software Deployment Configuration.
 Se utilizaron las siguiente tecnologías para el Landing Page:
 HTML: Con este lenguaje de etiquetas, logramos realizar la estructura de la landing page
 CSS: Con este lenguaje manejaremos el diseño y la presentación de la landing page
@@ -64,12 +66,33 @@ Booststrap: Nos apoyaremos del framework para facilitar el desarrollo de landing
 WebStorm: Ide que nos permite la elaboración del landing page
 
 
+5.2. Landing Page, Services & Applications Implementation.
+5.2.1. Sprint 1
+5.2.1.1. Sprint Planning 1.
+5.2.1.2. Sprint Backlog 1.
+5.2.1.3. Development Evidence for Sprint Review.
+5.2.1.4. Testing Suite Evidence for Sprint Review.
+5.2.1.5. Execution Evidence for Sprint Review.
+5.2.1.6. Services Documentation Evidence for Sprint Review.
+5.2.1.7. Software Deployment Evidence for Sprint Review.
+5.2.1.8. Team Collaboration Insights during Sprint.
+5.2.2. Sprint 2
+5.2.2.1.Sprint Planning 2.
+5.2.2.2.Sprint Backlog 2.
+5.2.2.3.Development Evidence for Sprint Review.
+5.2.2.4.Testing Suite Evidence for Sprint Review.
+5.2.2.5.Execution Evidence for Sprint Review.
+5.2.2.6.Services Documentation Evidence for Sprint Review.
+5.2.2.7.Software Deployment Evidence for Sprint Review.
+5.2.2.8.Team Collaboration Insights during Sprint.
+
+
 ## Conclusiones
 Nuestro equipo Innovatech ha identificado un nicho de mercado específico dentro del sector de transporte, centrándose en vehículos menores o ligeros como bicicletas, skateboards, scooters y motos eléctricas. Esta especialización puede ayudarles a diferenciarse y destacar en un mercado cada vez más competitivo y nuestra propuesta está orientada hacia la innovación y la calidad en el transporte.
 
 La misión de Innovatech es transformar la movilidad urbana y recreativa, mientras que su visión es convertirse en líderes en el mercado de movilidad sostenible. Estas declaraciones proporcionan una dirección clara y un propósito definido para nuestra startup, lo que puede ayudar a alinear a los miembros del equipo y a mantener el enfoque en los objetivos a largo plazo. Al centrarse en la movilidad sostenible y ofrecer una amplia gama de opciones de vehículos menores, Innovatech demuestra su compromiso con la sostenibilidad ambiental. Este enfoque puede atraer a consumidores conscientes del medio ambiente y respaldar la imagen de la empresa como una marca responsable.
 
-### Conclusiones preliminares: 
+### Conclusiones preliminares:
 TB1:
 Concluimos que para desarrollar este proyecto de software vamos a necesitar hacer uso de nuevos conocimientos que adquiriremos a lo largo del curso. • Concluimos que el diseño de la base de datos, software y la UI que se implemente será fundamental para que cumpla con los estándares planteados para la plataforma LifeTravel. 
 
