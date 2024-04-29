@@ -18,13 +18,26 @@ Nombre del producto: GlideGo
 Abril, 2024
 - - -
 # Registro de Versiones del Informe
-| Version | Fecha      | Autor      | Descripcion de Modificacion |
-|---------|------------|------------|----------------|
-| 0.0     | 29/03/2024 | InnovaTech | Se crea el documento |
-| 1.0     | 29/03/2024 | InnovaTech | Busqueda de antecendetes |
-| 2.0     | 04/04/2024 | InnovaTech | Entrevistas y analsiis competitivo |
-| 3.0     | 05/04/2024 | InnovaTech |                |
-| 4.0     | 09/04/2024 | InnovaTech | Se crea el documento |
+| Version | Fecha      | Autor                        | Descripcion de Modificacion                      |
+|---------|------------|------------------------------|--------------------------------------------------|
+| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir | Creé el documento                                |
+| 1.0     | 29/03/2024 | Velarde Gonzales Nestor                 | Busqueda de antecendetes                         |
+| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer               | Entrevistas y analsiis competitivo               |
+| 1.2     | 05/04/2024 | Sebastian Flores Manrique    | Agregué definición, antecedentes y problemática  |
+| 1.3     | 07/04/2024 | Velarde Gonzales Nestor                  | Agregué el lean ux process                       |
+| 1.4     | 07/04/2024 | Sebastian Flores Manrique                   | Agregué el segmento objetivo                     |
+| 2.0     | 07/04/2024 | Velarde Gonzales Nestor                   | Agregué los competidores y el análisis           |
+| 2.1     | 07/04/2024 | Hurtado Palomino, Francisco Juan                | Agregué las entrevistas y el análisis            |
+| 2.2     | 09/04/2024 | Jara Benites Quique Vladimir                 | Agregué el needfinding y ubiquitous language     |
+| 2.3     | 09/04/2024 | Velarde Gonzales Nestor                    | Agregué el Scenario mapping y user stories       |
+| 2.4     | 09/04/2024 | Sebastian Flores Manrique                    | Agregué el impact mapping y product backlog      |
+| 3.0     | 10/04/2024 |Hurtado Palomino, Francisco Juan              | Agregué los style guidelines                     |
+| 3.1     | 10/04/2024 | Aru Acevedo, Yair Christofer               | Agregué information architecture                 |
+| 3.2     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el landing page                          |
+| 3.3     | 10/04/2024 | Hurtado Palomino, Francisco Juan              | Agregué los wireframes y mockups                 |
+| 3.4     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el diagrama de base de datos y de clases |
+| 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué el software configuration managment      |
+| 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué sprint número 1                          |
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/Innovatech-SV51-202401/ReportTF.git)
 
