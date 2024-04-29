@@ -132,7 +132,7 @@ WebStorm: Ide que nos permite la elaboración del landing page
 	<tbody>
 		<tr>
 			<td>  Sprint #  </td>
-			<td>Sprint 1</td>
+			<td>Sprint 2</td>
 		</tr>
 		<tr>
 			<td colspan="2"><center>Sprint Planning Background</center></td>
@@ -166,18 +166,18 @@ WebStorm: Ide que nos permite la elaboración del landing page
             </td>
         </tr>
 		<tr>
-			<td>Sprint n-1 Review Summary</td>
+			<td>Sprint 2 Review Summary</td>
 			<td>Registration management</td>
 		</tr>
 		<tr>
-			<td>Sprint n-1 Retrospective Summary</td>
+			<td>Sprint 2 Retrospective Summary</td>
 			<td>Implementación de registros y visualizacón de datos </td>
 		</tr>
 		<tr>
 			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
 		</tr>
 		<tr>
-			<td>Sprint 1 Goal</td>
+			<td>Sprint 2 Goal</td>
 			<td>Nuestros segmentos objetivos puedan acceder y registrar datos:
                 Owner: Registrar sus vehiculos y establecer sus tarifas.
                 Client: Visualizar el catalogo de vehiculos y su perfil.
@@ -185,7 +185,7 @@ WebStorm: Ide que nos permite la elaboración del landing page
             </td>
 		</tr>
 		<tr>
-			<td>Sprint 1 Velocity</td>
+			<td>Sprint 2 Velocity</td>
 			<td></td>
 		</tr>
 		<tr>
