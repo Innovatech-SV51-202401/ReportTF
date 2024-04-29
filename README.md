@@ -18,10 +18,13 @@ Nombre del producto: GlideGo
 Abril, 2024
 - - -
 # Registro de Versiones del Informe
-| Version | Fecha | Autor      | Descripcion de Modificacion |
-| ----------- | ----------- |------------| ----------- |
-| 0.0 | 24/03/2024 | InnovaTech |Se crea el documento |
-
+| Version | Fecha      | Autor      | Descripcion de Modificacion |
+|---------|------------|------------|----------------|
+| 0.0     | 29/03/2024 | InnovaTech | Se crea el documento |
+| 1.0     | 29/03/2024 | InnovaTech | Busqueda de antecendetes |
+| 2.0     | 04/04/2024 | InnovaTech | Entrevistas y analsiis competitivo |
+| 3.0     | 05/04/2024 | InnovaTech |                |
+| 4.0     | 09/04/2024 | InnovaTech | Se crea el documento |
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/Innovatech-SV51-202401/ReportTF.git)
 
