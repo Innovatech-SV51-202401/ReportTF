@@ -34,7 +34,7 @@ Abril, 2024
 
 [Capítulo I: Introducción]()
 
-[1.1 Startup Profile](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md#Capitulo-I:-Introducción) 
+[1.1 Startup Profile](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md) 
 [1.1.1. Descripción de la Startup]()
 
 [1.1.2. Perfiles de integrantes del equipo]()
