@@ -38,8 +38,18 @@ Abril, 2024
 | 3.4     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el diagrama de base de datos y de clases |
 | 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué el software configuration managment      |
 | 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué sprint número 1                          |
-# Project Report Collaboration Insights
-[https://github.com/Innovatech-SV51-202401/ReportTF.git](https://github.com/Innovatech-SV51-202401/ReportTF.git)
+# **Project Report Collaboration Insights**
+El informe del proyecto se encuentra alojado en el repositorio de Github del equipo. El URL del repositorio es: [https://github.com/Innovatech-SV51-202401/ReportTF](https://github.com/Innovatech-SV51-202401/ReportTF)
+
+A lo largo del proyecto, el equipo ha estado comprometido en la creación del informe en diferentes fases. Las tareas principales para la TB1 han abarcado:
+
+- La realización de una investigación del negocio y la problemática a resolver, recopilando información relevante de fuentes confiables que nos permitieron comprender mejor el sector y las necesidades de los usuarios.
+- La redacción de los capítulos del informe, incluyendo la descripción de la startup, el perfil de la solución, los segmentos objetivo, los competidores, las entrevistas, el needfinding, la especificación de requerimientos y el diseño del producto.
+- La revisión y corrección de los capítulos del informe, asegurando la coherencia y calidad del contenido.
+
+Commits del reporte de avance de la TB1:
+
+
 
 # Contenido 
 
