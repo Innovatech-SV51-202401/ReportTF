@@ -47,12 +47,10 @@ visión de ofrecer soluciones de movilidad ecológica y sostenible.
 ![img.png](../assets/img/logo-h-2.png)
 
 ### 4.1.2. Web Style Guidelines.
-Nuestra web utiliza el Patrón Z, una estructura diseñada para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono verde grisáceo, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como “Conocenos”, “Servicios”, “Planes” y “Obtener”. El boton de obtener es de color naranja que añade un toque de energia y atencion al diseño, contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación. 
 
-Las tipografías que se aplicarán para el desarrollo de la web son:
-Open Sans
+Nuestro sitio web presenta una barra de navegación con rutas a "Inicio", "Sobre nosotros", "Servicios", "Planes", "Contactanos" e "Iniciar sesión". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo. Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
 
-## 4.2. information architecture.
+## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
 Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: “About us”, “Services”, “Plans”, “Contact” y “Register”.
@@ -99,7 +97,7 @@ Para la página es importante, un sistema de etiquetado efectivo para permitir q
 
 Title:
 
-![img.png](../assets/img/SEO%20Tags.png)
+![img.png](../assets/img/seo-tags.png)
 
 
 ### 4.2.4. Searching Systems.
