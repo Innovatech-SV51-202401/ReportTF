@@ -18,10 +18,13 @@ Nombre del producto: GlideGo
 Abril, 2024
 - - -
 # Registro de Versiones del Informe
-| Version | Fecha | Autor      | Descripcion de Modificacion |
-| ----------- | ----------- |------------| ----------- |
-| 0.0 | 24/03/2024 | InnovaTech |Se crea el documento |
-
+| Version | Fecha      | Autor      | Descripcion de Modificacion |
+|---------|------------|------------|----------------|
+| 0.0     | 29/03/2024 | InnovaTech | Se crea el documento |
+| 1.0     | 29/03/2024 | InnovaTech | Busqueda de antecendetes |
+| 2.0     | 04/04/2024 | InnovaTech | Entrevistas y analsiis competitivo |
+| 3.0     | 05/04/2024 | InnovaTech |                |
+| 4.0     | 09/04/2024 | InnovaTech | Se crea el documento |
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/Innovatech-SV51-202401/ReportTF.git)
 
@@ -29,19 +32,19 @@ Abril, 2024
 
 [Student Outcome](#student-outcome)
 
-[Capítulo I: Introducción]()
+[Capítulo I: Introducción](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md#Capitulo-I:-Introducción)
 
-[1.1 Startup Profile]()  
-[1.1.1. Descripción de la Startup]()
+[1.1 Startup Profile](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md) 
+[1.1.1. Descripción de la Startup](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)
 
-[1.1.2. Perfiles de integrantes del equipo]()
+[1.1.2. Perfiles de integrantes del equipo](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)
 
-[1.2. Solution Profile]()  
-[1.2.1 Antecedentes y problemática]()  
-[1.2.2 Lean UX Process.]()  
-[1.2.2.1. Lean UX Problem Statements.]()  
-[1.2.2.2. Lean UX Assumptions.]()  
-[1.2.2.3. Lean UX Hypothesis Statements.]()  
+[1.2. Solution Profile](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)  
+[1.2.1 Antecedentes y problemática](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)  
+[1.2.2 Lean UX Process.](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)  
+[1.2.2.1. Lean UX Problem Statements.](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)  
+[1.2.2.2. Lean UX Assumptions.](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)  
+[1.2.2.3. Lean UX Hypothesis Statements.](https://github.com/Innovatech-SV51-202401/ReportTF/blob/545c6a3696ccf6f0813785d88299b3d0f1d2ae18/docs/chapter-01.md)  
 [1.2.2.4. Lean UX Canvas.]()
 
 [1.3. Segmentos objetivo.]()
