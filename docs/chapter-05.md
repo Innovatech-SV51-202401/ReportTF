@@ -199,6 +199,88 @@ WebStorm: Ide que nos permite la elaboración del landing page
 
 #### 5.2.1.2. Sprint Backlog 1.
 
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work-Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-Do / In-Progress / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US27</td>
+			<td>Visualizacion de planes</td>
+			<td>S1</td>
+			<td>Visualizacion de planes</td>
+			<td>Como cliente quiero ver los planes del servicio para elegir uno adecuado.</td>
+			<td>Numero</td>
+			<td>Vladimir</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US28</td>
+			<td>Contacto para el cliente</td>
+			<td>S2</td>
+			<td>Contacto para el cliente</td>
+			<td>Como cliente quiero contactarme a un soporte para resolver mis dudas.</td>
+			<td>Numero</td>
+			<td>Sebastian</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US29</td>
+			<td>Servicios</td>
+			<td>S3</td>
+			<td>Servicios</td>
+			<td>Como cliente quiero saber que servicio realiza la empresa.</td>
+			<td>Numero</td>
+			<td>Servicios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US30</td>
+			<td>Conocer al equipo</td>
+			<td>S4</td>
+			<td>Conocer al equipo</td>
+			<td>Como cliente quiero conocer al equipo del proyecto para ver si me interesa el servicio.</td>
+			<td>Numero</td>
+			<td>Francisco</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US31</td>
+			<td>Información del producto</td>
+			<td>S5</td>
+			<td>Información del producto</td>
+			<td>Como cliente quiero conocer un resumen del servicio para saber si se adapta a mis necesidades.</td>
+			<td>Numero</td>
+			<td>Yair</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US32</td>
+			<td>Iniciar sesión</td>
+			<td>S6</td>
+			<td>Iniciar sesión</td>
+			<td>Como cliente quiero ingresar a mi cuenta para revisar mi información y suscripción.</td>
+			<td>Numero</td>
+			<td>Nestor</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
