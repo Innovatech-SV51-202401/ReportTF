@@ -124,6 +124,12 @@ WebStorm: Ide que nos permite la elaboración del landing page
 
 #### 5.2.1. Sprint 1
 
+En este primer sprint, el equipo desarrollo una landing page estatica para la visita de potenciales clientes, para el desarrollo de se utilizaron los lengUajes de HTML, CSS Y JavaScript
+
+Link del Repositorio: https://github.com/Innovatech-SV51-202401/Innovatech-LandingPage
+
+Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/
+
 
 #### 5.2.1.1. Sprint Planning 1.
 
