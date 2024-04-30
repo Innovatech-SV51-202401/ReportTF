@@ -174,16 +174,42 @@ La opción "Contac" muestra un interfas de comunicación.
 ### 4.3.2 Landing Page Mock-up.
 Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=75%3A2&mode=design&t=vmMKxEV2F816IZC1-1
 
+Frond end  de la aplicación web principal.
+
 ![img.png](../assets/img/lading-6.png)
+
+Sección About Us, donde nuestros usuarios pueden conocer a nuestro aplicación web los servicios que ofrecemos. 
+
 ![img.png](../assets/img/landing-7.png)
+
+Sección services, donde mostramos los servicios y oportunidades a cada nuestro segmento objetivo.
+
 ![img.png](../assets/img/landing-8.png)
+
+Sección Plans, donde nuestros client pueden ver los diferentes tipos de planes que ofrecemos.
+
 ![img.png](../assets/img/landing-9.png)
+
+Sección Contact, donde nuestros segmentos objetivos pueden realizar sus consultas.
+
 ![img.png](../assets/img/landing-10.png)
 
 ## 4.4. Web Applications UX/UI Design
+
+Para desarrollar nuestra diseños wireframes de aplicación web usamos la herramienta Figma. 
+
 ### 4.4.1. Web Applications Wireframes
-![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-owner-reservas.png)
+
+Cuenta del mecánico, muestradistintas operaciones. 
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-mechanic.png)
+
+Sección para reservar un vehiculo. 
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-owner-reservas.png)
+
+Cuenta del client, muestra las opciones de reservas y datos personales. 
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-owner.png)
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-user.png)
 
@@ -191,9 +217,17 @@ Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=de
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/web-app-wireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
+ 
+Login de nuestra aplicación web.
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-login.png)
+
+Sección de perfil de susario.
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-mechanic.png)
-![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-owner.png)
+
+Reserva de vehiculo menores
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-user.png)
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-balance.png)
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-localizacion-mantenimiento.png)
