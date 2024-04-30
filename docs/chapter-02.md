@@ -350,7 +350,12 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ---
 
 ## 2.3. Needfinding.
+En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
+
 ### 2.3.1. User Personas.
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
+Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
 **Segmento 1:**   
 ![Imagen User Persona 1](../assets/uxpressia/userpersona1.jpg)
 
@@ -360,6 +365,10 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 **Segmento 3:**
 ![Imagen User Persona 3](../assets/uxpressia/userpersona3.jpg)
 ### 2.3.2. User Task Matrix.
+En esta sección se presenta el user task matrix de los tres segmentos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se
+refleja la importancia de determinadas tareas.
+
+
 | 	                                                                          |   **Owner**  	    |  **Owner**    	   | **Cliente**    	  |  **Cliente**   	  | **Mecánico**   	  |  **Mecánico**  	  |
 |----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
@@ -375,6 +384,9 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 | Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |     -      	      |     -      	      |
 
 ### 2.3.3. User Journey Mapping.
+En esta sección se presentan los User Journey Mapping de los tres segmentos, que realizamos con el fin de dar a entender 
+cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
 **Segmento 1:**   
 ![Imagen User Journey Mapping 1](../assets/uxpressia/mapping1.jpg)
 
@@ -385,6 +397,8 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ![Imagen User Journey Mapping 3](../assets/uxpressia/mapping3.jpg)
 
 ### 2.3.4. Empathy Mapping.
+En esta sección mostramos los empathy mapping de los tres segmentos realizados con la información recopilada de componentes anteriores.
+
 **Segmento 1:**
 
 ![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
@@ -397,6 +411,10 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 
 ![Empathy Map Segmento3](../assets/uxpressia/empathy3.png)
 ### 2.3.5. As-is Scenario Mapping.
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia
+de ideas individual, revisión e identificación de fases como columnas,
+para conseguir los As-is Scenario Mapping de los tres segmentos.
+objetivos.
 
 **Segmento 1**  
 ![As-IS Scenario Mapping 1](../assets/uxpressia/scenario1.jpg)
