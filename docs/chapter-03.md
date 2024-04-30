@@ -1,5 +1,6 @@
 # CAPÍTULO III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 ### Segmento 1:
 
 <img src="../assets/to-be-escenario/to-be-owner.png" alt="To be Owner" >
@@ -57,6 +58,7 @@
 | US26            | Comunicación con soporte                   | Como mecánico quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.                      | Escenario 1: Comunicación con el soporte a través del apartado de soporte <br/>Given Soy un mecánico registrado en la plataforma. <br/>When Accedo al apartado de soporte desde la plataforma. <br/>And Envío mi solicitud de ayuda o reclamo detallando el problema. <br/>Then El equipo de soporte recibe mi solicitud y se comunica conmigo para brindar la asistencia necesaria o resolver el reclamo. <br/> <br/>Escenario 2: Problema al comunicarme con el soporte <br/>Given Soy un mecánico registrado en la plataforma. <br/>When Intento comunicarme con el soporte pero encuentro un problema técnico. <br/>Then Verifico mi conexión a internet y refresco la página. <br/>And Si persiste, busco información de contacto alternativa para comunicarme. <br/>And Una vez establecida la comunicación, presento mi solicitud al equipo de soporte.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP07                      | 
 ## 3.3. Impact Mapping.
 
+En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
 ### Segmento 1:
 
 <img src="/assets/impact-mapping/Owner.png" alt="IM Owner" >
