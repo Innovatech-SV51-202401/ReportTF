@@ -222,12 +222,12 @@ Para el planteamiento de las soluciones, se utilizo la herramienta affinity mapp
 | Owner                                                            | cliente                                                              | mecanico                                                |
 |------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|
 | Plataforma de gestión de alquiler de vehículos menores	          | Aplicación de reserva de vehículos menores por suscripcion           | Plataforma de gestión de mantenimiento y reparacion     | 
-| Servicio de inspección y mantenimiento	                          | Aplicacion de reserva de bicitaxi	                                   | Servicio de recogida y entrega                          
-| Programa de seguro y asistencia en carretera	                    | Programa de fidelización y descuentos en buses de transporte publico	 | Programa de referidos y testimonios                     
-| Sistema de alertas para mantenimiento preventivo	                | Servicio de asistencia en carretera	                                 | Servicio de diagnóstico remoto                          
-| Herramientas de seguimiento de ingresos y gastos	                | Rastreo de buses en tiempo real	                                     | Programa de capacitación para propietarios de vehículos 
-| Programa de incentivos para arrendatarios 	                      | Aplicacion de trafico en tiempo real	                                | Sistema de gestión de clientes y seguimiento                    
-| Asesoramiento legal y administrativo para alquiler de vehiculos	 | 	                                                                    | Herramientas de marketing digital                       
+| Servicio de inspección y mantenimiento	                          | Aplicacion de reserva de bicitaxi	                                   | Servicio de recogida y entrega                        |  
+| Programa de seguro y asistencia en carretera	                    | Programa de fidelización y descuentos en buses de transporte publico	 | Programa de referidos y testimonios                     |
+| Sistema de alertas para mantenimiento preventivo	                | Servicio de asistencia en carretera	                                 | Servicio de diagnóstico remoto                          |
+| Herramientas de seguimiento de ingresos y gastos	                | Rastreo de buses en tiempo real	                                     | Programa de capacitación para propietarios de vehículos |
+| Programa de incentivos para arrendatarios 	                      | Aplicacion de trafico en tiempo real	                                | Sistema de gestión de clientes y seguimiento          |          
+| Asesoramiento legal y administrativo para alquiler de vehiculos	 | 	                                                                    | Herramientas de marketing digital                       |
 
 Despues de la votacion las soluciones que se eligieron fueron:
 
