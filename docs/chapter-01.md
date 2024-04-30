@@ -78,32 +78,33 @@ Sabremos que tenemos exito cuando veamos una reduccion en el gasto mensual de tr
 #### 1.2.2.2. Lean UX Assumptions.
 ##### Business outcomes: 
 
+Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
 
-- Los usuarios de la aplicación están dispuestos a rentar el servicio.
-- Los usuarios deben poder visualizar la distancia y tiempo recorrido.
-- Los usuarios de la aplicación están dispuestos a usar las medidas de seguridad al transportarse.
+<img src="../assets/metrics-mountain/metrics-mountain.png">
 
+1. Adquisicion:
+- Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
+- Porcentaje de propietarios que publican al menos un vehiculo en la plataforma
+- Porcentaje de mecanicos que completan su registro en la plataforma
+2. Activacion:
+- Porcentaje de usuarios que completan el proceso de reserva de un vehiculo en los primeros 7 dias de registro.
+- Porcentaje de vehiclulos registrados que reciben al menos una solicitud de alquiler.
+- Porcentaje de mecanicos que completan su primer servicio dentro de los 7 dias de registro.
+3. Retencion:
+- Porcentaje de usuarios que realizan al menos 3 solicitudes de alquiler por semana.
+- Porcentaje de propietarios que mantienen al menos un vehiculo activo en la plataforma durante tres meses consecutivos.
+- Porcentaje de mecanicos que reciben por lo menos 5 solicitudes de reparacion a la semana
+4. Ingresos:
+- Ingresos mensuales por suscripciones de arrendatarios
+- Ingresos mensuales por comisiones de alquiler
+- Ingresos mensuales por comisiones de servicios de reparaciones
 
-- Los usuarios pueden visualizar cuánto han ahorrado en transporte.
+Usando estas metricas se evaluaron los siguientes outcomes:
+- Aumento en el número total reservas por parte de nuevos usuarios.
+- Mejora en la utilización de vehículos, reduciendo los períodos de inactividad y aumentando la rentabilidad por vehículo.
+- Lograr un crecimiento significativo en los ingresos mensuales por suscripciones de arrendatarios y comisiones de alquiler
+- Reducir al menos en un 30% el tiempo de viaje diario de los usuarios.
 
-
-- Los usuarios son notificados cuando llegan el limite de su suscripción. 
-
-
-- Los usuarios pueden visualizar qué calles tienen mayor afluencia de tráfico.
-
-
-- Los mecánicos pueden recibir notificaciones de reportes de fallas de vehículos menores por parte de usuarios. 
-
-
-- Los usuarios pueden reportar fallas mecánicas en tiempo real mediante la aplicación web. 
-
-
-- La aplicación debe ser compatible con múltiples plataformas.
-
-
- - Los usuarios pueden visualizar los vehículos disponibles. 
- 
 ##### User assumptions 
 
 
