@@ -4,7 +4,7 @@
 ### Ciclo: 5
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN: SV51
  Profesor: Velasquez Nuñez Angel Augusto
-# Informe de TB1
+# Informe de TP1
 Nombre del startup: InnovaTech 
 
 Nombre del producto: GlideGo
