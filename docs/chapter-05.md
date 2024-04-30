@@ -220,9 +220,29 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>Status (To-Do / In-Progress / To-Review / Done)</td>
 		</tr>
 		<tr>
+			<td>US25</td>
+			<td>Comunicación con soporte</td>
+			<td>TA1</td>
+			<td>Comunicación con soporte</td>
+			<td>Como cliente quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
+			<td>1</td>
+			<td>Sebastian Flores</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US26</td>
+			<td>Comunicación con soporte</td>
+			<td>TA2</td>
+			<td>Comunicación con soporte</td>
+			<td>Como mecánico quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
+			<td>1</td>
+			<td>Sebastian Flores</td>
+			<td>Done</td>
+		</tr>
+		<tr>
 			<td>US27</td>
 			<td>Visualizacion de planes</td>
-			<td>S1</td>
+			<td>TA3</td>
 			<td>Visualizacion de planes</td>
 			<td>Como cliente quiero ver los planes del servicio para elegir uno adecuado.</td>
 			<td>2</td>
@@ -231,52 +251,42 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 		</tr>
 		<tr>
 			<td>US28</td>
-			<td>Contacto para el cliente</td>
-			<td>S2</td>
-			<td>Contacto para el cliente</td>
-			<td>Como cliente quiero contactarme a un soporte para resolver mis dudas.</td>
+			<td>Servicio</td>
+			<td>TA4</td>
+			<td>Servicio</td>
+			<td>Como cliente quiero saber los beneficios del servicio para elegir un plan de suscripción.</td>
 			<td>2</td>
-			<td>Sebastian</td>
+			<td>Nestor Velarde</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>US29</td>
-			<td>Servicios</td>
-			<td>S3</td>
-			<td>Servicios</td>
-			<td>Como cliente quiero saber que servicio realiza la empresa.</td>
+			<td>Conocer al equipo</td>
+			<td>TA5</td>
+			<td>Conocer al equipo</td>
+			<td>Como cliente quiero informarme sobre el equipo a cargo del proyecto para conocer sus objetivos.</td>
 			<td>2</td>
-			<td>Servicios</td>
+			<td>Francisco Hurtado</td>
 			<td>Done</td>
 		</tr>
-		<tr>
+        <tr>
 			<td>US30</td>
-			<td>Conocer al equipo</td>
-			<td>S4</td>
-			<td>Conocer al equipo</td>
-			<td>Como cliente quiero conocer al equipo del proyecto para ver si me interesa el servicio.</td>
+			<td>Información del producto</td>
+			<td>TA6</td>
+			<td>Información del producto</td>
+			<td>Como cliente quiero ver informacion general sobre el servicio.</td>
 			<td>2</td>
-			<td>Francisco</td>
+			<td>Yair Aru</td>
 			<td>Done</td>
 		</tr>
-		<tr>
+        <tr>
 			<td>US31</td>
-			<td>Información del producto</td>
-			<td>S5</td>
-			<td>Información del producto</td>
-			<td>Como cliente quiero conocer un resumen del servicio para saber si se adapta a mis necesidades.</td>
+			<td>Ingreso de cuenta</td>
+			<td>TA7</td>
+			<td>Ingreso de cuenta</td>
+			<td>Como cliente quiero ingresar a una cuenta para ver mi suscripción, mi información y la disponibilidad de vehiculos.</td>
 			<td>2</td>
-			<td>Yair</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>US32</td>
-			<td>Iniciar sesión</td>
-			<td>S6</td>
-			<td>Iniciar sesión</td>
-			<td>Como cliente quiero ingresar a mi cuenta para revisar mi información y suscripción.</td>
-			<td>2</td>
-			<td>Nestor</td>
+			<td>Nestor Velarde</td>
 			<td>Done</td>
 		</tr>
 	</tbody>
