@@ -2,6 +2,165 @@
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
 
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">Glidego</td>
+    <td valign="top">City Bike</td>
+    <td valign="top">Grin</td>
+    <td valign="top">Emove</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="../assets/logos/glidego.png" alt="Logo of glidego"  height="100px"></td>
+    <td valign="top"><img src="../assets/logos/citybike.png" alt="Logo of citybike" height="100px"></td>
+    <td valign="top"><img src="../assets/logos/grin.png" alt="Logo of grin" height="100px"></td>
+    <td valign="top"><img src="../assets/logos/emove.png" alt="Logo of emove" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Servicio de alquiler de bicicletas, Skateboards, scooters y motos eléctricas para la ciudad de Lima metropolitana.</td>
+    <td valign="top">Servicio de alquiler de bicicletas en Miraflores, Lima.</td>
+    <td valign="top">Servicio de alquiler de scooters  para Lima metropolitana.</td>
+    <td valign="top">Servicio de alquiler de vehículos, servicios de reparaciones, venta de equipos y accesorios.</td>
+
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Crear una cuenta en GlideGo y acceder a diferentes opciones de suscripciones y equipos según preferible de cada usuario, también incluye el mantenimiento de cada equipo por fallas técnicas.</td>
+    <td valign="top">La forma de alquiler es mediante registros por plataforma web o móvil, la suscripción está disponible desde pase diario, mensual y anual. </td>
+    <td valign="top">Permite a los usuarios alquilar mediante suscripción sus scooters. Además , ofrece mantenimiento gratuito.</td>
+    <td valign="top">Permite a los usuarios el alquiler de vehículos, la compra y venta de accesorios nuevos como de segunda mano, a través de su sitio web. </td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Personas mayores a 18 años que requieren los servicios solo para ciudad de Lima. </td>
+    <td valign="top">Personas mayores a 18 años, para habitantes de Lima, visitantes y turistas. </td>
+    <td valign="top">Personas mayores de 15 años que se deben movilizar por Lima Metropolitana diariamente.</td>
+    <td valign="top">Personas mayores de 18 años que busquen promover los vehículos de micromovilidad.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Publicidad por redes sociales y anuncios en plataformas (YouTube).</td>
+    <td valign="top">Publicidad en redes sociales.</td>
+    <td valign="top">Publicidad en redes sociales y afiches</td>
+    <td valign="top">Publicidad en redes sociales.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Alquiler de vehículos menores</td>
+    <td valign="top">Alquiler de bicicletas.</td>
+    <td valign="top">Alquiler de scooters y mantenimiento.</td>
+    <td valign="top">Alquiler de vehículos y servicio de reparaciones.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Planes de suscripción:<br/>
+    - Plan base: s/.130<br/>
+    - Plan premium: s/.230
+</td>
+    <td valign="top">Planes de suscripción:<br/> 
+- Diario: s/4.33 <br/>   
+- Mensual: s/19.50<br/> 
+- Anual: s/ 151.73 <br/> 
+</td>
+    <td valign="top">Planes de suscripción:<br/>
+- Mensual: S/. 139<br/>
+- Bimestral: S/239<br/>
+- Trimestral: S/329<br/>
+</td>
+    <td valign="top">Costo de alquiler:<br/>
+- 2 horas: s/. 60<br/>
+- 4 horas: s/. 80<br/>
+- 1 día: s/. 120<br/>
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial</td>
+    <td valign="top">Principalmente a través de su sitio web, con posibilidad de acceso móvil. </td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+    	a
+    </td>
+    <td valign="top">
+      Posibilidad para personas que optan por un transporte eficiente y sano. 
+    </td>
+    <td valign="top">
+        Base de clientes establecida, está presente en lugares con mayor afluencia de tráfico 
+    </td>
+    <td valign="top">
+        -Variedad de servicios<br>
+        -Movilidad sostenible<br>
+        -Flexibilidad de precios<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+        No contamos con un sistema de rastreo sofisticado
+    </td>
+    <td valign="top">
+        No cuenta con servicio de mantenimiento. 
+    </td>
+    <td valign="top">
+        No cuenta con aplicación móvil, costos elevados. Poca publicidad
+    </td>
+    <td valign="top">
+        -Dependencia tecnológica<br>
+        -Competencia<br>
+        -Costos de mantenimiento<br>
+        -Dependencia climática<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+        Es innovador y no afecta al medio ambiente. Asimismo, tiene un impacto positivo en la economía y salud de los usuarios.
+    </td>
+    <td valign="top">
+        La ciudad de Miraflores cuenta con vías exclusivas para bicicletas y posibilidad para expandir a más distritos Limeños.
+    </td>
+    <td valign="top">
+        Expandir su base de usuarios ya sea con mayor publicidad o mas alcance a zonas de cobertura del servicio.
+    </td>
+    <td valign="top">
+        -Expansión de mercado<br>
+        -Alianzas estratégicas<br>
+        -Diversificación de servicios<br>
+        -Tendencia de movilidad urbana<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+        Las personas no confían en el servicio
+    </td>
+    <td valign="top">
+        Las invasiones de motorizados a ciclovías y los robos de equipos (bicicletas) en lugares con poca seguridad. 
+    </td>
+    <td valign="top">
+        a
+    </td>
+    <td valign="top">
+        Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.
+    </td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Implementaremos estrategias específicas para enfrentar a los competidores de manera efectiva. Nos distinguiremos destacando el enfoque en la mejora de seguridad y mantenimiento de los vehículos ligeros, que será respaldado por garantías y servicios exclusivos. Además, mejoraremos la experiencia del usuario con una plataforma fácil de usar y un excelente soporte al cliente. Aumentaremos nuestra red de puntos de alquiler y estaciones de mantenimiento utilizando datos para optimizar nuestra ubicación, para asegurar una amplia cobertura y disponibilidad de vehículos.
