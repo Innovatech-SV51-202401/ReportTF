@@ -507,7 +507,7 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 			<td>Cómo Owner quiero inscribir los vehículos a la aplicación para poder ofrecerlos a potenciales usuarios.</td>
 			<td>2</td>
 			<td>Vladimir</td>
-			<td>Done</td>
+			<td>To-Review</td>
 		</tr>
 		<tr>
 			<td>US02</td>
@@ -517,7 +517,7 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 			<td>Cómo Owner quiero establecer tarifas y disponibilidad del vehículo para poder gestionar de manera efectiva la rentabilidad y accesibilidad de los vehículos.</td>
 			<td>2</td>
 			<td>Sebastian</td>
-			<td>Done</td>
+			<td>To-Review</td>
 		</tr>
 		<tr>
 			<td>US08</td>
@@ -527,7 +527,7 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 			<td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente</td>
 			<td>2</td>
 			<td>Servicios</td>
-			<td>Done</td>
+			<td>To-Review</td>
 		</tr>
 		<tr>
 			<td>US10</td>
@@ -537,7 +537,7 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 			<td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades.</td>
 			<td>2</td>
 			<td>Francisco</td>
-			<td>Done</td>
+			<td>To-Review</td>
 		</tr>
 		<tr>
 			<td>US11</td>
@@ -547,7 +547,7 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 			<td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad.</td>
 			<td>2</td>
 			<td>Yair</td>
-			<td>Done</td>
+			<td>To-Review</td>
 		</tr>
 		<tr>
 			<td>US16</td>
@@ -557,14 +557,61 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 			<td>Cómo mecánico quiero inscribir mi taller a la aplicación, para ofrecer mis servicios.</td>
 			<td>2</td>
 			<td>Nestor</td>
-			<td>Done</td>
+			<td>To-Review</td>
 		</tr>
 	</tbody>
 </table>
 
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
-
+<table>
+	<tbody>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit message</td>
+			<td>Commit Message Body</td>
+			<td>Commit on (date)</td>
+		</tr>
+		<tr>
+			<td rowspan="9">https://github.com/Innovatech-SV51-202401/innovatech-front-end</td>
+			<td>feature/registration-management</td>
+			<td>008c9d66f26e1417581e23bab4701f4ca65b4bfe</td>
+			<td>feat(registration-management): add workshop card and list.</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/registration-management</td>
+			<td>8b2227fe6607b078f43507878282b86d00ca9636</td>
+			<td>feat(registration-management): visualization vehicle componentices</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/registration-management</td>
+			<td>c9049f7622e6179476839d1fd3acf3c317729715</td>
+			<td>feat(app): added navbar in app.vue</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/registration-management</td>
+			<td>ad27a20cd9013fb31b91b390b38fe30ad74e00fa</td>
+			<td>feat(created-users): added content for main view</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/registration-management</td>
+			<td>c942686d4fe4cf939109f1e4b81347845dee57bd</td>
+			<td>feat(registration-management): implemented vehicle visualization.</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
