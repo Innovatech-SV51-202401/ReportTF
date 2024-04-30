@@ -23,83 +23,44 @@ garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehícu
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Nuestra capital Lima, es una de las ciudades con ayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023, nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. 
 
-Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
+Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial.
 
-
-#### Who (Quienes)
-
-¿Quienes somos?
-
-Somos una startup tecnológica compuesta por estudiantes de la Universidad Peruana de Ciencias Aplicadas que buscamos solucionar problemáticas con tecnologías de software. 
-
-¿Quiénes son los usuarios?
-
-Nuestros usuarios van dirigida a tres segmentos, como primer segmento son personas de mayores a 18 años que buscan soluciones de movilidad urbana más eficiente, ecológico y sostenible en nuestra ciudad de Lima, asi como transportarse o ámbito deportivo, el segundo segmento son personas interesadas en poner de alquiler de sus vehículos menores ya se a moto electrico, bicicleta para uso común o deportivo, skateboard, y finalmente personas con especialidades en mecánica,
+Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.
 
 #### What (Qué)
 
-¿Qué hacemos?
+El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.
 
-
-Desarrollamos una aplicación web que facilite la reserva y mantenimiento de vehículos ligeros como bicicletas, skateboards, scooter y motos eléctricas para la movilidad urbana en Lima. 
-
-
-¿Qué problema abordamos?
-Abordamos la congestión de tráfico vehicular en nuestra capital Lima, la ineficiencia en el transporte existe mucho caos especialmente en horas puntas.	
-		  
 #### When (Cuándo)
-  
-¿Cuándo sucede el problema?  
 
-Esta problemática sucede en horas puntas con mayor frecuencia y en algunas fechas de festividades.
+¿Cuándo estamos viendo el problema?</br>
+El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.
 
+#### Where (Dónde)
 
-¿Cuándo utiliza el cliente el producto?  
+¿Dónde estamos viendo los problemas?</br>
+El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.
 
-Nuestro usuario puede optar por nuestro servicio en el momento necesario para desplazarse en nuestra ciudad, ya sea para evitar pérdida de tiempo o para ahorro de dinero. 
+#### Who (Quienes)
 
-#### Where (Dónde) 
-  
-¿Dónde está el cliente cuando usa el producto?  
+¿A quien le sucede?</br>
+El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.
 
+#### Why (Por qué)
 
-En cualquier parte de Lima metropolitana y que desea optar por un transporte sostenible. 
+¿Por qué sucede el problema?</br>
+La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.
 
+#### How (Cómo)
 
-¿Dónde surge el problema? 
+¿Cómo se diferencia el problema del estado normal?</br>
+Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
 
-Surge en la mayor parte en vías de tránsito con mayor afluencia, sobre todo en las horas puntas (Mañana o tarde).
-	
+#### How much (Cuánto)
 
-
-#### Why (Por qué)  
- 
-¿Por qué se genera el problema? 
-
-Genera por varios impactos, sea por mala infraestructura de vías de tránsito y por otro lado por conductores imprudentes que existen.
- 
-¿Por qué desarrollamos la aplicación?
-
-Desarrollamos para mejorar la calidad de vida de las personas y motivar el transporte ecológico para el cuidado del medio ambiente.   
-
-#### How (Cómo)  
- 
-¿Cómo funciona la aplicación web?
-
-La aplicación web permite a nuestros usuarios reservar y acceder a los vehículos ligeros garantizando la disponibilidad y seguridad y mantenimiento óptimo. 
-
-¿Cómo llegaremos a más clientes? 
-
-Optamos por publicidades en diferentes plataformas digitales como facebook, tiktok, instagram y otros. 
-  
-#### How much (Cuánto) 
-
-¿Cuánto costará utilizar la aplicación web?
-
-Los costos pueden variar según el tipo de membresías o servicios seleccionados, contamos con tres diferentes suscripciones (suscripción semanal, mensual y trimestral) cada opciones cuenta con servicios especiales. 
-
+¿Cuánto dinero están implicando? </br>
+La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
