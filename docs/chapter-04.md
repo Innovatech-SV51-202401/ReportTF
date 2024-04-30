@@ -53,6 +53,7 @@ Nuestro sitio web presenta una barra de navegación con rutas a "Inicio", "Sobre
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
+
 Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: “About us”, “Services”, “Plans”, “Contact” y “Register”.
 
 Para el proceso de reservas de vehículos haremos uso de la organización secuencial:
@@ -100,35 +101,75 @@ Title:
 ![img.png](../assets/img/seo-tags.png)
 
 
-### 4.2.4. Searching Systems.
-En esta sección implementaremos dos métodos para facilitar la experiencia de búsqueda a nuestros usuarios.
-Se utilizará un sistema de búsqueda por texto para que nuestros usuarios puedan buscar su vehículo y tener una elección más personalizada.
+### 4.2.4. Sistemas de Búsqueda
 
-Además, se incluirá filtros de la siguiente manera:
-- Filtros por tipo de vehículo
-- Filtros por marca de vehiculo
-- Filtros por color de vehículo
-- Filtros por disponibilidad de ubicación
+En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por texto que permitirá a los usuarios encontrar su vehículo de manera más rápida y personalizada.
+
+Además, se incluirán filtros para refinar las búsquedas de la siguiente manera:
+
+#### Filtros Disponibles:
+
+1. **Tipo de Vehículo:** Nuestros usuarios podrán filtrar los resultados según el tipo de vehículo, 
+como bicicletas, Skateboard o motos eléctricos.
+
+2. **Marca de Vehículo:** Se proporcionarán opciones de filtrado por marca de vehículo para 
+permitir a nuestros usuarios buscar específicamente dentro de una marca deseada.
+
+3. **Disponibilidad de Ubicación:** Este filtro permitirá a los usuarios buscar vehículos 
+disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar 
+opciones cercanas a ellos.
+
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente 
+la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.
+
 
 ### 4.2.5. Navigation Systems.
-Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación.
-Nuestra barra de menú contará con las siguientes secciones:
+Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes 
+secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y 
+así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
 
-- **About us:** El usuario podrá visualizar a qué se dedica la empresa, su misión y visión, y el equipo detrás de esta aplicación
-- **Services:** El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner, un cliente o un mecanico.
+- **About us:** El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
+- **Services:** El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner, un Clien o un Mechanic.
 - **Plans:** Aquí podrá obtener toda la información de los planes semanales, mensuales y trimestrales que la aplicación le ofrece y además de poder registrarse.
 - **Contact us:** Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros .
 
 ## 4.3. Landing Page UI Design.
+
+Para el diseño de nuestro landing page, hemos optado por utilizar como principales colores
+el verde brillante y blanco, ya que representan la naturaleza y frescura respectivamente,
+creando así un ambiente armonioso.
+Hemos distribuido los elementos de nuestro landing para poder resaltar la información
+importante, y hemos utilizado diferentes tamaños de botones para captar la atención del
+usuario hacia temas específicos. Además, hemos implementado una arquitectura jerárquica
+y un sistema de navegación interactivo para facilitar la exploración y la interacción con la
+página
+
 ### 4.3.1. Landing Page Wireframe.
+
+En los wireframes de nuestra landing page, se han tenido en cuenta la usabilidad y la
+experiencia de los usuarios. Los wireframes reflejan un diseño intuitivo y fácil de
+navegar, con una disposición de los elementos y jerarquía visual clara, garantizando
+que nuestros usuarios puedan acceder fácilmente a la información relevante y
+completar las acciones que deseen sin problemas.
+
+
 Link de figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=0-1&mode=design&t=QeMym2oXpQQRRkGe-0 
 
+Es es una interfas principal de nuestro landing page.
 ![img.png](../assets/img/landing-1.png)
+
+La opción "About Us" tendrá el siguiente interfás detallando quienes somos nuestra visión, visión y los desarrolladores del sistema.
 ![img.png](../assets/img/landing-2.png)
+
+La opción "Services" tendrá informaciones detalladas a quienes van nuestr
 ![img.png](../assets/img/landing-3.png)
+
+La opción de "Plans" muestra los diferentes suscripciones del servicio.
 ![img.png](../assets/img/landing-4.png)
+
+La opción "Contac" muestra un interfas de comunicación. 
 ![img.png](../assets/img/landing-5.png)
--
+
 
 ### 4.3.2 Landing Page Mock-up.
 Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=75%3A2&mode=design&t=vmMKxEV2F816IZC1-1
