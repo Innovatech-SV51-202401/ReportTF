@@ -146,12 +146,17 @@ Como un tipo de transporte amigable con el medio ambiente y económico a largo p
 <img src="../assets/Solution-Profile/LeanUxCanvas.png" alt="Lean Ux Canvas">
 
 ## 1.3. Segmentos objetivo.
-**Segmento 1**
-Segmento arrendatario (Owner): Se refiere a todos los individuos que posean algún vehículo ligero y deseen ponerlo en alquiler para ganar algo de dinero. 
 
-**Segmento 2**
-Segmento arrendador (User): Se refiere a todos los individuos que requieran movilizarse diariamente en Lima metropolitana ya sea por el trabajo, estudios o simplemente ocio.
+Dentro de nuestros segmentos objetivos hemos identificado tres usuarios:
 
-**Segmento 3**
-Segmento mecánico (Mechanic): Se refiere a las personas capaces de reparar y dar mantenimiento a vehiculos menores
+- **Segmento 1 - Segmento Arrendatario (Owner):**
 
+Este segmento incluye a individuos que poseen vehículos ligeros, como bicicletas, patinetas, scooters o motocicletas eléctricas, y desean ponerlos en alquiler para generar ingresos adicionales. Estos propietarios pueden ser de diversas edades y procedencias, desde jóvenes estudiantes hasta profesionales o adultos mayores.
+
+- **Segmento 2 - Segmento Arrendador (User):**
+
+Este segmento abarca a individuos que necesitan desplazarse diariamente en Lima metropolitana por motivos laborales, educativos o recreativos. Pueden ser trabajadores de oficina, estudiantes universitarios, turistas o residentes locales. En términos demográficos, este segmento puede abarcar una amplia gama de edades y niveles socioeconómicos, desde jóvenes adultos hasta personas mayores, con diferentes niveles de educación y ocupación. Según la Inei en Lima Metropolitana el 87% de la población depende del transporte público o vehículos privados para su desplazamiento.
+
+- **Segmento 3 - Segmento Mecánico (Mechanic):**
+
+Este segmento se compone de personas con habilidades técnicas en reparación y mantenimiento de vehículos menores. Pueden ser mecánicos profesionales, técnicos en reparación de bicicletas o personas con experiencia en el mantenimiento de patinetas y scooters eléctricos. En términos demográficos, estos individuos pueden variar en edad y formación educativa, pero comparten la habilidad técnica necesaria para ofrecer servicios de calidad en la reparación y mantenimiento de vehículos.
