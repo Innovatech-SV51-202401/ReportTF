@@ -95,7 +95,7 @@
     <td rowspan="4" valign="top">Análisis SWOT</td>
     <td valign="top">Fortalezas</td>
     <td valign="top">
-    	a
+    	Contar con un sistema confiable y seguro para el alquiler de vehículos menores.
     </td>
     <td valign="top">
       Posibilidad para personas que optan por un transporte eficiente y sano. 
@@ -154,7 +154,7 @@
         Las invasiones de motorizados a ciclovías y los robos de equipos (bicicletas) en lugares con poca seguridad. 
     </td>
     <td valign="top">
-        a
+        Cambios en la regulación del transporte.
     </td>
     <td valign="top">
         Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.
@@ -163,8 +163,10 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Implementaremos estrategias específicas para enfrentar a los competidores de manera efectiva. Nos distinguiremos destacando el enfoque en la mejora de seguridad y mantenimiento de los vehículos ligeros, que será respaldado por garantías y servicios exclusivos. Además, mejoraremos la experiencia del usuario con una plataforma fácil de usar y un excelente soporte al cliente. Aumentaremos nuestra red de puntos de alquiler y estaciones de mantenimiento utilizando datos para optimizar nuestra ubicación, para asegurar una amplia cobertura y disponibilidad de vehículos.
-Ofreceremos programas de fidelización y tarifas competitivas para motivar el uso continuo y la recomendación de amigos y familiares. Para promover nuestra marca como una opción de movilidad sostenible y conveniente, también implementaremos estrategias de marketing digital dirigidas y colaboraremos con eventos locales. Por último, pero no menos importante, mantendremos una ventaja competitiva a largo plazo mediante la inversión en investigación y desarrollo para estar al día con las últimas innovaciones en tecnología y movilidad.
+* Ofrece una amplia gama de vehículos menores para alquilar, incluyendo bicicletas, scooters y otros. Esto te permitirá capturar a una audiencia más amplia y satisfacer las necesidades de diferentes tipos de usuarios.
+* Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
+* Incluir a nuestra producto características como navegación GPS, notificaciones en tiempo real sobre disponibilidad de vehículos y opciones de pago seguras.
+* Ofrecer servicios de mantenimiento gratuitos o con descuento como parte de un programa de fidelización para los usuarios frecuentes.
 - - -
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -221,13 +223,17 @@ Ofreceremos programas de fidelización y tarifas competitivas para motivar el us
 
 - - -
 ### 2.2.2. Registro de entrevistas.
+En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
 ### Entrevistas segmento 1: Owners
 ### Entrevista 1:
 
-* Nombre: Francisco Mogollon Murray
+* Nombres: Francisco 
+* Apellidos: Mogollon Murray
 * Edad: 34
-* Ocupación: Dueño de restaurante
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ETyU0L1m7YtErhnG8MIhzF0BQrIQm9zaJ09tKn3gvRLngA?e=CUtDCd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Distrito: Barranco
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 00:01 
+* Duración de la entrevista: 11:23
 
 <img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
 
@@ -237,10 +243,13 @@ Francisco Mogollon es un adulto de 34 años que vive en Barranco, el cuenta actu
 
 ### Entrevista 2:
 
-* Nombre: David Beltran Burgos
+* Nombres: David 
+* Apellidos: Beltran Burgos
 * Edad: 23
-* Ocupación: Call Center
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EWeIGZeWfg5GqivXnXyTYckBWI6LDU_-O9YzBf_O4g1uyQ?e=CqCjq8)
+* Distito: San Borja
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 11:24
+* Duración de la entrevista: 05:51
 
 <img src="../assets/entrevistas/entrevista-2.png" alt="Imagen de la entrevista"> 
 
@@ -250,10 +259,13 @@ La entrevista fue realizada a David Beltrán, residente de San Borja. Beltrán p
 
 ### Entrevista 3:
 
-* Nombre: Erick Alfaro Meneses
+* Nombres: Erick 
+* Apellidos: Alfaro Meneses
 * Edad: 34
-* Ocupación: Ingeniero Petroquimico
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/ESwfGB1BUr9Nqp5arB_j1WgBlnhX3xFNvmBiEmUK6kz4gg?e=TiOzLO)
+* Distrito: San Borja
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 17:16
+* Duración de la entrevista: 09:12
 
 <img src="../assets/entrevistas/entrevista-3.png" alt="Imagen de la entrevista"> 
 
@@ -265,10 +277,13 @@ La entrevista fue realizada a Eric Alfaro, residente de San Borja y poseedor de 
 ### Entrevistas segmento 2: Clientes
 ### Entrevista 1:
 
-* Nombre: Arturo Reyes Rodriguez
+* Nombres: Arturo 
+* Apellidos: Reyes Rodriguez
 * Edad: 21
-* Ocupación: Estudiante
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EcPZoWGIzEFAsGGzdblOl5gBXiIyL84yEvW4ZPyZC7bxsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9gOckO)
+* Distrito: San Juan de Miraflores
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 26:28
+* Duración de la entrevista: 09:26
 
 <img src="../assets/entrevistas/entrevista-4.png" alt="Imagen de la entrevista"> 
 
@@ -278,10 +293,13 @@ Arturo es un joven estudiante de 21 años, él vive en San Juan de Miraflores  y
 
 ### Entrevista 2:
 
-* Nombre: Aldahir Valenzuela
+* Nombres: Aldahir 
+* Apellidos: Valenzuela Paredes
 * Edad: 20
-* Ocupación: Estudiante
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EVb5PqGJp2FMvSd4M-XckpQBKrP0D8b8dCQr5IxKFEtJ3g?e=1AfIE6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Distrito: Villa el Salvador
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 35:54
+* Duración de la entrevista: 10:31
 
 <img src="../assets/entrevistas/entrevista-5.png" alt="Imagen de la entrevista"> 
 
@@ -291,10 +309,13 @@ Aldhair utiliza principalmente el transporte público y a veces una bicicleta pa
 
 ### Entrevista 3:
 
-* Nombre: Juan Mendivil Quispe
+* Nombres: Juan 
+* Apellidos: Mendivil Quispe
 * Edad: 26
-* Ocupación: Transporte
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EXUxf6j8eSFFkB4vP8bzozwBsxrEDKFGaj8K9MbjSpsHFw?e=EwCMRh)
+* Distrito: Villa María del Triunfo
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 46:26
+* Duración de la entrevista: 5:20
 
 <img src="../assets/entrevistas/entrevista-6.png" alt="Imagen de la entrevista"> 
 
@@ -306,10 +327,13 @@ Sebastián Flores entrevistó a Juan, quien reside en José Gálvez Villa, Marí
 ### Entrevistas segmento 3: Mecánicos
 ### Entrevista 1:
 
-* Nombre: Rodrigo Loaiza Gallegos
+* Nombre: Rodrigo 
+* Apellidos: Loaiza Gallegos
 * Edad: 24
-* Ocupación: Asistente mecánico
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_u )
+* Distrito: San Borja
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 51:46
+* Duración de la entrevista: 5:56
 
 <img src="../assets/entrevistas/entrevista-7.png" alt="Imagen de la entrevista"> 
 
@@ -319,10 +343,13 @@ La entrevista fue realizada a Rodrigo Loaiza, un residente de San Borja y trabaj
 
 ### Entrevista 2:
 
-* Nombre: Velarde Ninahuamán Santiago
+* Nombre: Santiago
+* Apellidos: Velarde Ninahuamán
 * Edad: 24
-* Ocupación: Mecánico
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/Eda2PT540eJJiKC5O1937BgBIiDXIkhKwy9z_qme-S0RCw?e=nWS0Gz)
+* Distrito: San Juan de Lurigancho
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 57:42
+* Duración de la entrevista: 7:43
 
 <img src="../assets/entrevistas/entrevista-8.png" alt="Imagen de la entrevista"> 
 
@@ -350,7 +377,12 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ---
 
 ## 2.3. Needfinding.
+En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
+
 ### 2.3.1. User Personas.
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
+Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
 **Segmento 1:**   
 ![Imagen User Persona 1](../assets/uxpressia/userpersona1.jpg)
 
@@ -360,6 +392,10 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 **Segmento 3:**
 ![Imagen User Persona 3](../assets/uxpressia/userpersona3.jpg)
 ### 2.3.2. User Task Matrix.
+En esta sección se presenta el user task matrix de los tres segmentos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se
+refleja la importancia de determinadas tareas.
+
+
 | 	                                                                          |   **Owner**  	    |  **Owner**    	   | **Cliente**    	  |  **Cliente**   	  | **Mecánico**   	  |  **Mecánico**  	  |
 |----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
@@ -375,6 +411,9 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 | Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |     -      	      |     -      	      |
 
 ### 2.3.3. User Journey Mapping.
+En esta sección se presentan los User Journey Mapping de los tres segmentos, que realizamos con el fin de dar a entender 
+cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
 **Segmento 1:**   
 ![Imagen User Journey Mapping 1](../assets/uxpressia/mapping1.jpg)
 
@@ -385,6 +424,8 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ![Imagen User Journey Mapping 3](../assets/uxpressia/mapping3.jpg)
 
 ### 2.3.4. Empathy Mapping.
+En esta sección mostramos los empathy mapping de los tres segmentos realizados con la información recopilada de componentes anteriores.
+
 **Segmento 1:**
 
 ![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
@@ -397,6 +438,10 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 
 ![Empathy Map Segmento3](../assets/uxpressia/empathy3.png)
 ### 2.3.5. As-is Scenario Mapping.
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia
+de ideas individual, revisión e identificación de fases como columnas,
+para conseguir los As-is Scenario Mapping de los tres segmentos.
+objetivos.
 
 **Segmento 1**  
 ![As-IS Scenario Mapping 1](../assets/uxpressia/scenario1.jpg)
