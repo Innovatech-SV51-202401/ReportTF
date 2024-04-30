@@ -225,7 +225,7 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>S1</td>
 			<td>Visualizacion de planes</td>
 			<td>Como cliente quiero ver los planes del servicio para elegir uno adecuado.</td>
-			<td>Numero</td>
+			<td>2</td>
 			<td>Vladimir</td>
 			<td>Done</td>
 		</tr>
@@ -235,7 +235,7 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>S2</td>
 			<td>Contacto para el cliente</td>
 			<td>Como cliente quiero contactarme a un soporte para resolver mis dudas.</td>
-			<td>Numero</td>
+			<td>2</td>
 			<td>Sebastian</td>
 			<td>Done</td>
 		</tr>
@@ -245,7 +245,7 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>S3</td>
 			<td>Servicios</td>
 			<td>Como cliente quiero saber que servicio realiza la empresa.</td>
-			<td>Numero</td>
+			<td>2</td>
 			<td>Servicios</td>
 			<td>Done</td>
 		</tr>
@@ -255,7 +255,7 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>S4</td>
 			<td>Conocer al equipo</td>
 			<td>Como cliente quiero conocer al equipo del proyecto para ver si me interesa el servicio.</td>
-			<td>Numero</td>
+			<td>2</td>
 			<td>Francisco</td>
 			<td>Done</td>
 		</tr>
@@ -265,7 +265,7 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>S5</td>
 			<td>Información del producto</td>
 			<td>Como cliente quiero conocer un resumen del servicio para saber si se adapta a mis necesidades.</td>
-			<td>Numero</td>
+			<td>2</td>
 			<td>Yair</td>
 			<td>Done</td>
 		</tr>
@@ -275,7 +275,7 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 			<td>S6</td>
 			<td>Iniciar sesión</td>
 			<td>Como cliente quiero ingresar a mi cuenta para revisar mi información y suscripción.</td>
-			<td>Numero</td>
+			<td>2</td>
 			<td>Nestor</td>
 			<td>Done</td>
 		</tr>
@@ -284,6 +284,75 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+<table>
+	<tbody>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit message</td>
+			<td>Commit Message Body</td>
+			<td>Commit on (date)</td>
+		</tr>
+		<tr>
+			<td rowspan="9">https://github.com/Innovatech-SV51-202401/Innovatech-LandingPage</td>
+			<td>main</td>
+			<td>53df2dc4a80008ebed6805398d5a6f3071ef958e</td>
+			<td>Initial commit</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>develop</td>
+			<td>1b7c1edf7a1559e90fee86cc945112e20076a3c9</td>
+			<td>Merge pull request #9 from Innovatech-SV51-202401/feature/services</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/about</td>
+			<td>c6853a35ff8d8355abff2e0e3d39a605d6ae7461</td>
+			<td>feat(about): added about section</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/contact</td>
+			<td>88fcbfef58c3736738fdff51dc584b03c7774bf2</td>
+			<td>feat(contact): add contact section.</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/index</td>
+			<td>2339a1ca5588aebdefef0b84c92f9eb604d2a311</td>
+			<td>feat(index.html): We add the code of the index section.</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/login</td>
+			<td>53915934db932a460989d10a4b2a3ee0150efb25</td>
+			<td>feat: File update login.html</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/plans</td>
+			<td>146d62fd9e0819460b084beff1c70d8c6c0cc030</td>
+			<td>feat(landing-page): added plans for landing apge</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>feature/services</td>
+			<td>4441a2a91eff88b056091f3dc8798971859c118f</td>
+			<td>feat(services): We add the code from the service section.</td>
+			<td>-</td>
+			<td>29/04/2024</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
