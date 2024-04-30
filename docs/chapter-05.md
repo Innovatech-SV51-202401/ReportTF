@@ -125,14 +125,13 @@ WebStorm: Ide que nos permite la elaboración del landing page
 #### 5.2.1. Sprint 1
 
 
-
 #### 5.2.1.1. Sprint Planning 1.
 
 <table>
 	<tbody>
 		<tr>
 			<td>  Sprint #  </td>
-			<td>Sprint 2</td>
+			<td>Sprint 1</td>
 		</tr>
 		<tr>
 			<td colspan="2"><center>Sprint Planning Background</center></td>
@@ -143,7 +142,7 @@ WebStorm: Ide que nos permite la elaboración del landing page
 		</tr>
 		<tr>
 			<td>Time</td>
-			<td>2 horas</td>
+			<td>10 horas</td>
 		</tr>
 		<tr>
 			<td>Location</td>
@@ -158,7 +157,6 @@ WebStorm: Ide que nos permite la elaboración del landing page
             <td>
                 <ul>
                     <li>Flores Manrique, Sebastian</li>
-                    <li>Jara Benites, Vladimir</li>
                     <li>Hurtado Palomino, Francisco</li>
                     <li>Aru Acevedo, Yair</li>
                     <li>Velarde Gonzales, Néstor</li>
@@ -166,34 +164,32 @@ WebStorm: Ide que nos permite la elaboración del landing page
             </td>
         </tr>
 		<tr>
-			<td>Sprint 2 Review Summary</td>
-			<td>Registration management</td>
+			<td>Sprint 1 Review Summary</td>
+			<td>Primer Sprint desarrollado por el team</td>
 		</tr>
 		<tr>
-			<td>Sprint 2 Retrospective Summary</td>
-			<td>Implementación de registros y visualizacón de datos </td>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td>Implementación de la Landing Page </td>
 		</tr>
 		<tr>
 			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
 		</tr>
 		<tr>
-			<td>Sprint 2 Goal</td>
-			<td>Nuestros segmentos objetivos puedan acceder y registrar datos:
-                Owner: Registrar sus vehiculos y establecer sus tarifas.
-                Client: Visualizar el catalogo de vehiculos y su perfil.
-                Mechanic: Registrar su taller y establecer sus tarifas de servicio. 
+			<td>Sprint 1 Goal</td>
+			<td>Desarrollar una landing page usando HTML, CSS y ayuda de Bootstarp V5
             </td>
 		</tr>
 		<tr>
-			<td>Sprint 2 Velocity</td>
-			<td></td>
+			<td>Sprint 1 Velocity</td>
+			<td>10</td>
 		</tr>
 		<tr>
 			<td>Sum of Story Points</td>
-			<td></td>
+			<td>10</td>
 		</tr>
 	</tbody>
 </table>
+
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -201,7 +197,7 @@ WebStorm: Ide que nos permite la elaboración del landing page
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7">Sprint 2</td>
+			<td colspan="7">Sprint 1</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
