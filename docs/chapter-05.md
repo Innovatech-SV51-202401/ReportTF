@@ -356,10 +356,22 @@ Link de la LandingPage desplegada: https://innovatech-sv51-202401.github.io/Inno
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
+La landing page es un sitio web estatico desplegado en el siguiente enlace: https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+Despues de realizar el spirnt 1, finalizamos con la creacion de nuestra landing page statica, implementando diversos elementos que podrian llamar la atencion de potenciales usuarios. Asimismo, hemos implementado botones de navegacion para la facil transicion entre secciones.
 
+Seccion de navbar:
+![img.png](../assets/img/navbar.png)
+Seccion de presentacion:
+![img.png](../assets/img/presentacion.png)
+Seccion de about:
+![img.png](../assets/img/about.png)
+Seccion de planes:
+![img.png](../assets/img/services.png)
+Seccion de footer adicional:
+![img.png](../assets/img/footer.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 
