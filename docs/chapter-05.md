@@ -374,14 +374,28 @@ Seccion de footer adicional:
 ![img.png](../assets/img/footer.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+En el primer sprint hemos realizado el diseño de nuestro landing page, desplegado como glide go, donde se presentara nuestra plataforma
 
+| End Point                                                        | Funciones                         |
+|------------------------------------------------------------------|-----------------------------------|
+| https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/ | Desplegar Landing Page de GlideGo |
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para el desarrollo de nuestra landing page, optamos por trabajar en un repositorio de github y divirlo en ramas para su facil desarrollo. Finalmente elegimos la rama main para desplegar nuestro Laing Page
 
+Link del Repositorio: https://github.com/Innovatech-SV51-202401/Innovatech-LandingPage
+![img.png](../assets/img/ld-1.png)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+La meta del sprint fue el despliegue de nuestro landing page, para su realizacion hicimos uso de diversas herramientas como Github, HTML, CSS, Javascript y Bootstrap v5. Como evidencia del trabajo se mostraran los commits de los integrantes.
 
+![img.png](../assets/img/commits-1.png)
 
+![img.png](../assets/img/commits-2.png)
+
+En la siguiente imagen, se muestra el uso de las ramas.
+
+![img.png](../assets/img/ramas.png)
 #### 5.2.2. Sprint 2
 
 
