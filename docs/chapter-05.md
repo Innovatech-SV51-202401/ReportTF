@@ -408,11 +408,159 @@ En la siguiente imagen, se muestra el uso de las ramas.
 ![img.png](../assets/img/ramas.png)
 #### 5.2.2. Sprint 2
 
+En este segundo sprint, el equipo desarrollo una version temprana de nuestro FrontEnd para la visita de potenciales clientes, para el desarrollo de se utilizaron las herramientas de Vue, PrimeVue, PrimeFlex, PrimeIcons, Axios e Internationalization.
+
+Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front-end
 
 #### 5.2.2.1.Sprint Planning 2.
 
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Planning Background</center></td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>25 de Abril del 2024</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>10 horas</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Reunión virtual mediante la plataforma de Discord.</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Vladimir Jara Benites</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Flores Manrique, Sebastian</li>
+                    <li>Hurtado Palomino, Francisco</li>
+                    <li>Aru Acevedo, Yair</li>
+                    <li>Velarde Gonzales, Néstor</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint 2 Review Summary</td>
+			<td>Segundo Sprint desarrollado por el team</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Retrospective Summary</td>
+			<td>Desarrollar una Version temprana del FrontEnd </td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Goal</td>
+			<td>Desarrollar una Version temprana del FrontEnd utilizando las herramientas de Vue, PrimeVue, PrimeFlex, PrimeIcons, Axios e Internationalization.
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Velocity</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.2.2.Sprint Backlog 2.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work-Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-Do / In-Progress / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US01</td>
+			<td>Inscripcion de vehiculos</td>
+			<td>TA1</td>
+			<td>Inscripcion de vehiculos</td>
+			<td>Cómo Owner quiero inscribir los vehículos a la aplicación para poder ofrecerlos a potenciales usuarios.</td>
+			<td>2</td>
+			<td>Vladimir</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US02</td>
+			<td>Establecer Tarifas</td>
+			<td>TA2</td>
+			<td>Establecer Tarifas</td>
+			<td>Cómo Owner quiero establecer tarifas y disponibilidad del vehículo para poder gestionar de manera efectiva la rentabilidad y accesibilidad de los vehículos.</td>
+			<td>2</td>
+			<td>Sebastian</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US08</td>
+			<td>Perfil del cliente</td>
+			<td>TA3</td>
+			<td>Visualizacion del perfil del cliente</td>
+			<td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente</td>
+			<td>2</td>
+			<td>Servicios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US10</td>
+			<td>Visualizacion del catalogo de vehiculos</td>
+			<td>TA4</td>
+			<td>Visualizacion del catalogo de vehiculos</td>
+			<td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades.</td>
+			<td>2</td>
+			<td>Francisco</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US11</td>
+			<td>Reserva de vehiculo</td>
+			<td>TA5</td>
+			<td>Reserva de vehiculo</td>
+			<td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad.</td>
+			<td>2</td>
+			<td>Yair</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US16</td>
+			<td>Inscripcion de Taller</td>
+			<td>TA6</td>
+			<td>Inscripcion de Taller</td>
+			<td>Cómo mecánico quiero inscribir mi taller a la aplicación, para ofrecer mis servicios.</td>
+			<td>2</td>
+			<td>Nestor</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
 
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
