@@ -615,21 +615,42 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
+Se desarrollo la visualizacion del catalogo, se presenta con errores de presentacion al momento de mostrar algunos datos de los vehiculos en relacion. Tambien nos falto implementar los routes para el uso de los componentes correspondientes.
+
+
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
+Para este sprint, logramos desplegar una nueva navbar interactiva para el uso del usuario, a continuacion se mostrara lo implementado.
 
+![img.png](../assets/img/menubar.png)
+
+Ademas, se despliega el catalogo de vehiculos y talleres con errores que nos falta solucionar.
+
+![img.png](../assets/img/catalogo-vehiculos.png)
+
+![img_1.png](../assets/img/catalogo-talleres.png)
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+El despliegue mostro errores en el lanzamiento por medio de github.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
+Link del respositorio: https://github.com/Innovatech-SV51-202401/innovatech-front-end
+
+![img.png](../assets/img/despliegue-front.png)
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+La meta del sprint fue presentar una verison temprana del front end, el equipo utilizo las herramientas de Vue, PrimeVue, PrimeFlex, PrimeIcons y Axios
 
+![img_1.png](../assets/img/commits-s2.png)
 
+![img.png](../assets/img/contributios-s2.png)
 
+![img.png](../assets/img/trafic-s2.png)
+
+![img.png](../assets/img/ramas-s2.png)
 ## Conclusiones
 Nuestro equipo Innovatech ha identificado un nicho de mercado específico dentro del sector de transporte, centrándose en vehículos menores o ligeros como bicicletas, skateboards, scooters y motos eléctricas. Esta especialización puede ayudarles a diferenciarse y destacar en un mercado cada vez más competitivo y nuestra propuesta está orientada hacia la innovación y la calidad en el transporte.
 
@@ -639,3 +660,5 @@ La misión de Innovatech es transformar la movilidad urbana y recreativa, mientr
 TB1:
 Concluimos que para desarrollar este proyecto de software vamos a necesitar hacer uso de nuevos conocimientos que adquiriremos a lo largo del curso. • Concluimos que el diseño de la base de datos, software y la UI que se implemente será fundamental para que cumpla con los estándares planteados para la plataforma LifeTravel. 
 
+TP:
+Conluimos que para el desarrollo de el nuevo front end necesitamos el feedback presentado tras esta presentacion.
