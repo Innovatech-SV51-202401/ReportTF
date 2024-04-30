@@ -80,8 +80,6 @@ Sabremos que tenemos exito cuando veamos una reduccion en el gasto mensual de tr
 
 Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
 
-- Los usuarios pueden reportar fallas mecánicas en tiempo real mediante la aplicación web. 
-
 1. Adquisicion:
 - Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
 - Porcentaje de propietarios que publican al menos un vehiculo en la plataforma
@@ -143,7 +141,7 @@ Proto persona Owner
 Assumtions:
 - Personas como Juana buscan maximizar el valor de sus activos mediante el alquiler para generar ingresos adicionales.
 - Las personas interesadas en el alquiler de vehiculos menores valoran la seguridad y confiabilidad de la plataforma de alquiler.
-- Las personas interesadas en el  alquiler buscan soluciones que proetjan la integridad de sus activos y aseguren una experiencia positiva para sus arrendatarios. 
+- Las personas interesadas en el  alquiler buscan soluciones que protejan la integridad de sus activos y aseguren una experiencia positiva para sus arrendatarios. 
 
 
 Proto persona mecanico
@@ -191,7 +189,7 @@ Owner<br>
 - Desea sentirse seguro y confiado en la gestión del proceso de alquiler, así como satisfecho con el incremento de sus ingresos mensuales como resultado de esta actividad.
 
 ¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?
-- Nuestra plataforma de alquiler le permite al usuario maximizar el valor de sus activos, brindándole una oportunidad rentable para generar ingresos adicionales y alcanzar su objetivo de comprar su departamento.
+- Nuestra plataforma de alquiler le permite al usuario maximizar el valor de sus activos, brindándole una oportunidad rentable para generar ingresos adicionales y alcanzar sus objetivos financieros.
 
 ¿Por qué buscaría su usuario su producto?
 - Busca nuestra plataforma de alquiler porque valora la seguridad, confiabilidad y soporte que proporcionamos, así como nuestra capacidad para proteger la integridad de sus activos y garantizar una experiencia positiva para sus arrendatarios.
@@ -244,26 +242,29 @@ mecanico:
 Sistema de gestion de reparaciones y mantenimientos a vehiculos menores para taller.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-| Assumption priorizado: |  (Business Assumptions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Descripcion:           | Creemos que implementar un sistema eficiente y económico, como lo son los vehículos menores, en Lima reducirá significativamente la congestión vehicular, mejorará la calidad de vida de los ciudadanos y reducirá significativamente el tiempo que pasan en el tráfico, al ofrecer una alternativa atractiva y confiable para desplazarse en la ciudad. Sabremos que hemos tenido éxito cuando las personas opten más por usar nuestro servicio en lugar del transporte público y privado |
-| Metrica                |Porcentaje de usuarios que optan por el servicio de vehículos menores en lugar del transporte público y privado.|
 
-| Assumption priorizado: |  (Business Assumptions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Descripcion:           | Creemos que implementar estrategias de educación y concienciación sobre los beneficios ambientales, económicos y de movilidad de los vehículos livianos y eléctricos aumentará la aceptación y adopción de este tipo de transporte, especialmente entre los segmentos de la población que muestran mayor escepticismo, como los adultos mayores, creando así una cultura favorable hacia la micro movilidad y fomentando su uso como una alternativa viable y sostenible en el transporte urbano. Sabremos que hemos tenido exito cuando la aceptación del uso de vehículos menores en personas mayores de 30 años aumente en un 20%. |
-| Metrica                | Incremento porcentual en la aceptación del uso de vehículos menores en personas mayores de 30 años.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+Utilizando los bussines outcomes, proto-persona, user outcomes y solutions se formularon las siguientes hipotesis:
 
-| Assumption priorizado: |  (Business Assumptions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Descripcion:           | Creemos que fomentar el uso de vehículos menores, como bicicletas, scooters eléctricos y patinetes, a través de la implementación de infraestructura adecuada, políticas de promoción y educación vial, así como incentivos financieros, permitirá a los residentes de Lima Metropolitana reducir significativamente sus gastos en transporte, al tiempo que disminuye la dependencia de los servicios de transporte tradicionales y contribuye a una movilidad más sostenible y económica. Sabremos que hemos tenido éxito cuando las personas opten por usar nuestro servicio para economizar en vez del  transporte convencional. |
-| Metrica                | Porcentaje de usuarios que eligen nuestro servicio de vehículos menores como forma de transporte para economizar en comparación con el transporte convencional.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+Cliente:<br>
+Creemos que aumentaremos las reservas de nuevos usuarios.<br>
+Si clientes como María buscan soluciones económicas y flexibles para desplazamientos diarios.<br>
+Lograrán una disminución del tiempo de viaje y mayor comodidad.<br>
+Con nuestra solución de movilidad adaptada a sus necesidades.
+
+Owner:<br>
+Creemos que lograremos la permanencia de nuestros usuarios<br>
+Si nuestros usuarios que valoran la seguridad y confiabilidad de la plataforma de alquiler y buscan soluciones que protejan la integridad de sus activos<br>
+Lograrán un aumento en sus ingresos mensuales como resultado del alquiler de sus vehículos<br>
+Con nuestra plataforma de gestión de alquiler de vehículos menores, que proporciona un sistema seguro y confiable para el alquiler.
+
+Mecanico:<br>
+Creemos que lograremos un aumento en lso ingresos mensuales de los talleres<br>
+Si los mecánicos independientes que buscan construir una reputación sólida a través de la prestación de servicios de calidad y confianza.<br>
+Lograrán un aumento en el número de clientes mensuales de su taller, así como una mejora en su reputación y reconocimiento<br>
+Con nuestro sistema de gestión de reparaciones y mantenimientos a vehículos menores para talleres, que proporciona una herramienta digital eficiente y conveniente para la gestión de citas, comunicación con clientes y aumento de la rentabilidad del negocio.<br>
 
 #### 1.2.2.4. Lean UX Canvas.
-<img src="../assets/Solution-Profile/LeanUxCanvas.png" alt="Lean Ux Canvas">
+<img src="../assets/Solution-Profile/Lean-Ux-Canvas.png" alt="Lean Ux Canvas">
 
 ## 1.3. Segmentos objetivo.
 **Segmento 1**
