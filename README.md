@@ -58,6 +58,11 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 
 Commits del reporte de avance de la TB1:
 
+<div align="center">
+  <img src="assets/insights/commits.png" alt="Commits" width="100%">
+  <img src="assets/insights/overview.png" alt="Insights" width="100%">
+  <img src="assets/insights/merged.png" alt="Insights" width="100%">
+</div>
 
 # **Tabla de Contenido**
 
