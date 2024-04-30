@@ -4,7 +4,7 @@
 ### Ciclo: 5
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN: SV51
  Profesor: Velasquez Nuñez Angel Augusto
-# Informe de TP1
+# Informe de TB1
 Nombre del startup: InnovaTech 
 
 Nombre del producto: GlideGo
@@ -18,35 +18,26 @@ Nombre del producto: GlideGo
 Abril, 2024
 - - -
 # Registro de Versiones del Informe
-| Version | Fecha      | Autor                              | Descripcion de Modificacion                      |
-|---------|------------|------------------------------------|--------------------------------------------------|
-| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir       | Creé el documento                                |
-| 1.0     | 29/03/2024 | Velarde Gonzales Nestor            | Busqueda de antecendetes                         |
-| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer       | Entrevistas y analsiis competitivo               |
-| 1.2     | 05/04/2024 | Sebastian Flores Manrique          | Agregué definición, antecedentes y problemática  |
-| 1.3     | 07/04/2024 | Velarde Gonzales Nestor            | Agregué el lean ux process                       |
-| 1.4     | 07/04/2024 | Sebastian Flores Manrique          | Agregué el segmento objetivo                     |
-| 2.0     | 07/04/2024 | Velarde Gonzales Nestor            | Agregué los competidores y el análisis           |
-| 2.1     | 07/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué las entrevistas y el análisis            |
-| 2.2     | 09/04/2024 | Jara Benites Quique Vladimir       | Agregué el needfinding y ubiquitous language     |
-| 2.3     | 09/04/2024 | Velarde Gonzales Nestor            | Agregué el Scenario mapping y user stories       |
-| 2.4     | 09/04/2024 | Sebastian Flores Manrique          | Agregué el impact mapping y product backlog      |
-| 3.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué los style guidelines                     |
-| 3.1     | 10/04/2024 | Aru Acevedo, Yair Christofer       | Agregué information architecture                 |
-| 3.2     | 10/04/2024 | Velarde Gonzales Nestor            | Agregué el landing page                          |
-| 3.3     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué los wireframes y mockups                 |
-| 3.4     | 10/04/2024 | Velarde Gonzales Nestor            | Agregué el diagrama de base de datos y de clases |
-| 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué el software configuration managment      |
-| 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué sprint número 1                          |
-| 4.2.1   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí los Antecedentes y problemáticas         |
-| 4.2.2   | 29/04/2024 | Jara Benites Quique Vladimir       | Corregí parte del Lean Ux Process                |
-| 4.2.3   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí para del Lean UX Process                 |
-| 4.2.4   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí el diseño de entrevistas                 |
-| 4.2.5   | 29/04/2024 | Jara Benites Quique Vladimir       | Corregí el needfinding                           |
-| 4.2.6   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí la redacción de algunas user storres     |
-
-
-
+| Version | Fecha      | Autor                        | Descripcion de Modificacion                      |
+|---------|------------|------------------------------|--------------------------------------------------|
+| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir | Creé el documento                                |
+| 1.0     | 29/03/2024 | Velarde Gonzales Nestor                 | Busqueda de antecendetes                         |
+| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer               | Entrevistas y analsiis competitivo               |
+| 1.2     | 05/04/2024 | Sebastian Flores Manrique    | Agregué definición, antecedentes y problemática  |
+| 1.3     | 07/04/2024 | Velarde Gonzales Nestor                  | Agregué el lean ux process                       |
+| 1.4     | 07/04/2024 | Sebastian Flores Manrique                   | Agregué el segmento objetivo                     |
+| 2.0     | 07/04/2024 | Velarde Gonzales Nestor                   | Agregué los competidores y el análisis           |
+| 2.1     | 07/04/2024 | Hurtado Palomino, Francisco Juan                | Agregué las entrevistas y el análisis            |
+| 2.2     | 09/04/2024 | Jara Benites Quique Vladimir                 | Agregué el needfinding y ubiquitous language     |
+| 2.3     | 09/04/2024 | Velarde Gonzales Nestor                    | Agregué el Scenario mapping y user stories       |
+| 2.4     | 09/04/2024 | Sebastian Flores Manrique                    | Agregué el impact mapping y product backlog      |
+| 3.0     | 10/04/2024 |Hurtado Palomino, Francisco Juan              | Agregué los style guidelines                     |
+| 3.1     | 10/04/2024 | Aru Acevedo, Yair Christofer               | Agregué information architecture                 |
+| 3.2     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el landing page                          |
+| 3.3     | 10/04/2024 | Hurtado Palomino, Francisco Juan              | Agregué los wireframes y mockups                 |
+| 3.4     | 10/04/2024 | Velarde Gonzales Nestor               | Agregué el diagrama de base de datos y de clases |
+| 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué el software configuration managment      |
+| 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan               | Agregué sprint número 1                          |
 # **Project Report Collaboration Insights**
 El informe del proyecto se encuentra alojado en el repositorio de Github del equipo. El URL del repositorio es: [https://github.com/Innovatech-SV51-202401/ReportTF](https://github.com/Innovatech-SV51-202401/ReportTF)
 
@@ -58,11 +49,6 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 
 Commits del reporte de avance de la TB1:
 
-<div align="center">
-  <img src="assets/insights/commits.png" alt="Commits" width="100%">
-  <img src="assets/insights/overview.png" alt="Insights" width="100%">
-  <img src="assets/insights/merged.png" alt="Insights" width="100%">
-</div>
 
 # **Tabla de Contenido**
 
@@ -163,7 +149,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                                                                                	| Acciones realizadas 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Conclusiones 	                                                                                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. 	| Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo<br/>*TP1*<br/>Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend.<br/><br/> Jara Benites, Quique Vladimir<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/> Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/>  Aru Acevedo, Yair Christofer<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/>  Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/>            	                                                                                                                                                                                | Esta experiencia nos ha proporcionado una comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.	             |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                           	| Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>*TP1*<br/>Leí la documentación de las herramientas a usar como PrimeVue y PrimeFlex.<br/><br/> Jara Benites, Quique Vladimir<br/>*TB1*<br/>Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>*TP1*<br/>texto aqui<br/><br/> Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas.<br/>*TP1*<br/>texto aqui<br/><br/>  Aru Acevedo, Yair Christofer<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/>  Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/> 	 | La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.             	 |
+| Criterio específico                                                                                                                                	| Acciones realizadas 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones 	                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. 	| Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/> Jara Benites, Quique Vladimir<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/> Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Durante el desarrollo del proyecto participe en las reuniones grupales y desarrollé de forma colaborativa en los capitulos asiganados en el TB1.<br/>*TP1*<br/>Mi particiapción se enfocó en mejorar los capitos según la guía de la rubrica, participé en el desarrollo de Sprint 1 y el Sprint 2<br/><br/>  Aru Acevedo, Yair Christofer<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/>  Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/>            	                                                                                                                               | Esta experiencia me ha proporcionado una comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.	              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                           	| Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>*TP1*<br/>texto aqui<br/><br/> Jara Benites, Quique Vladimir<br/>*TB1*<br/>Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>*TP1*<br/>texto aqui<br/><br/> Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Organicé y participé en las reuniones junto con mis compañeros del proyecto, desarrollé junto a mis compañeros el landing page.<br/>*TP1*<br/>Desarrollé juntos a mis compañeros el Sprint 2 usando las herramientas de Vue como frameword.<br/><br/>  Aru Acevedo, Yair Christofer<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/><br/>  Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>texto aqui<br/>*TP1*<br/>texto aqui<br/> 	 | La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.             	 |
