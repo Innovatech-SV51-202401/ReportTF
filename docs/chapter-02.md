@@ -95,7 +95,7 @@
     <td rowspan="4" valign="top">Análisis SWOT</td>
     <td valign="top">Fortalezas</td>
     <td valign="top">
-    	a
+    	Contar con un sistema confiable y seguro para el alquiler de vehículos menores.
     </td>
     <td valign="top">
       Posibilidad para personas que optan por un transporte eficiente y sano. 
@@ -154,7 +154,7 @@
         Las invasiones de motorizados a ciclovías y los robos de equipos (bicicletas) en lugares con poca seguridad. 
     </td>
     <td valign="top">
-        a
+        Cambios en la regulación del transporte.
     </td>
     <td valign="top">
         Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.
@@ -163,8 +163,10 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Implementaremos estrategias específicas para enfrentar a los competidores de manera efectiva. Nos distinguiremos destacando el enfoque en la mejora de seguridad y mantenimiento de los vehículos ligeros, que será respaldado por garantías y servicios exclusivos. Además, mejoraremos la experiencia del usuario con una plataforma fácil de usar y un excelente soporte al cliente. Aumentaremos nuestra red de puntos de alquiler y estaciones de mantenimiento utilizando datos para optimizar nuestra ubicación, para asegurar una amplia cobertura y disponibilidad de vehículos.
-Ofreceremos programas de fidelización y tarifas competitivas para motivar el uso continuo y la recomendación de amigos y familiares. Para promover nuestra marca como una opción de movilidad sostenible y conveniente, también implementaremos estrategias de marketing digital dirigidas y colaboraremos con eventos locales. Por último, pero no menos importante, mantendremos una ventaja competitiva a largo plazo mediante la inversión en investigación y desarrollo para estar al día con las últimas innovaciones en tecnología y movilidad.
+* Ofrece una amplia gama de vehículos menores para alquilar, incluyendo bicicletas, scooters y otros. Esto te permitirá capturar a una audiencia más amplia y satisfacer las necesidades de diferentes tipos de usuarios.
+* Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
+* Incluir a nuestra producto características como navegación GPS, notificaciones en tiempo real sobre disponibilidad de vehículos y opciones de pago seguras.
+* Ofrecer servicios de mantenimiento gratuitos o con descuento como parte de un programa de fidelización para los usuarios frecuentes.
 - - -
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
