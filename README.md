@@ -14,6 +14,7 @@ Nombre del producto: GlideGo
 - Aru Acevedo, Yair Christofer - U202125984
 - Flores Manrique Sebastian Enrique - U201611430
 - Hurtado Palomino, Francisco Juan - u202117498
+- Omar Christian Berrocal Ramirez - u20201b529
 
 Abril, 2024
 - - -
