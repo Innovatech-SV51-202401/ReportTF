@@ -166,7 +166,15 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/
 ![Domain-Driven-Design](../assets/Domain-Driven-Design/Diagrama-Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-![Domain-Driven-Design](../assets/Domain-Driven-Design/Diagrama-contenedores.png)
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Glidego-Container-Diagram.png)
+
+### 4.6.3. Software Arquitecture Component Diagrams.
+#### Access Management
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Access%20Management%20Glidego.png)
+#### Service Execution
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Execution%20Glidego.png)
+#### Payments and Subscriptions
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Payments%20Glidego.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
