@@ -615,30 +615,43 @@ Link del Repositorio: https://github.com/Innovatech-SV51-202401/innovatech-front
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
-Se desarrollo la visualizacion del catalogo, se presenta con errores de presentacion al momento de mostrar algunos datos de los vehiculos en relacion. Tambien nos falto implementar los routes para el uso de los componentes correspondientes.
-
-
+Se desarrollo la visualizacion del perfil, home, wallet e historial de reservas para el cada tipo de usuario.
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
 Para este sprint, logramos desplegar una nueva navbar interactiva para el uso del usuario, a continuacion se mostrara lo implementado.
 
-![img.png](../assets/img/menubar.png)
+![img_1.png](../assets/img/front_2.png)
 
-Ademas, se despliega el catalogo de vehiculos y talleres con errores que nos falta solucionar.
+Se desarrollo una ventana de home
 
-![img.png](../assets/img/catalogo-vehiculos.png)
+![img.png](../assets/img/front_1.png)
 
-![img_1.png](../assets/img/catalogo-talleres.png)
+Se desarrollo una visualizacion de perfil dependiendo del tipo de usuario
+
+![img_2.png](../assets/img/front_3.png)
+
+Se desarrollo una seccion de wallet dependiendo del tipo de usuario
+
+![img_3.png](../assets/img/front_4.png)
+
+Se desarrollo una seccion de historial de reservas dependiendo del tipo de usuario
+
+![img_4.png](../assets/img/front_5.png)
+
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
-El despliegue mostro errores en el lanzamiento por medio de github.
+
+| End Point                                                        | Funciones                        |
+|------------------------------------------------------------------|----------------------------------|
+| https://innovatech-sv51-202401.github.io/innovatech-front-end/   | Desplegar el FrontEnd de GlideGo |
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
 Link del respositorio: https://github.com/Innovatech-SV51-202401/innovatech-front-end
 
-![img.png](../assets/img/despliegue-front.png)
+Link del Video-About-The-Product: https://drive.google.com/file/d/1al-rBu5sTOb-3kSTQ2HDWBGIJ2dEblbA/view?usp=sharing
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
@@ -651,6 +664,257 @@ La meta del sprint fue presentar una verison temprana del front end, el equipo u
 ![img.png](../assets/img/trafic-s2.png)
 
 ![img.png](../assets/img/ramas-s2.png)
+
+#### 5.2.3. Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3.
+
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Planning Background</center></td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>25 de Mayo del 2024</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>10 horas</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Reunión virtual mediante la plataforma de Discord.</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Vladimir Jara Benites</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Flores Manrique, Sebastian</li>
+                    <li>Hurtado Palomino, Francisco</li>
+                    <li>Aru Acevedo, Yair</li>
+                    <li>Velarde Gonzales, Néstor</li>
+                    <li>Berrocal Ramirez, Omar</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint 3 Review Summary</td>
+			<td>Tercer Sprint desarrollado por el team</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Retrospective Summary</td>
+			<td>Desarrollar una Version temprana del BackEnd </td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>Desarrollar una Version temprana del BackEnd utilizando las herramientas brindadas en clase.
+            </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 5.2.3.2 Sprint Backlog 3.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work-Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Tittle</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation(Hours)</td>
+			<td>Assigned To</td>
+			<td>Status(To-Do / In-Progress / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US06</td>
+			<td>Historial de reserva</td>
+			<td>TA1</td>
+			<td>Historial de reserva</td>
+			<td>Cómo Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso</td>
+			<td>2</td>
+			<td>Vladimir</td>
+			<td>To-Review</td>
+		</tr>
+		<tr>
+			<td>US08</td>
+			<td>Visualización del perfil de cliente</td>
+			<td>TA2</td>
+			<td>Visualización del perfil de cliente</td>
+			<td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente</td>
+			<td>2</td>
+			<td>Omar</td>
+			<td>To-Review</td>
+		</tr>
+		<tr>
+			<td>US11</td>
+			<td>Reserva de vehiculo</td>
+			<td>TA3</td>
+			<td>Reserva de vehiculo</td>
+			<td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad</td>
+			<td>2</td>
+			<td>Vladimir, Nestor, Sebastian</td>
+			<td>To-Review</td>
+		</tr>
+		<tr>
+			<td>US24</td>
+			<td>Visualizar historial de reservas</td>
+			<td>TA4</td>
+			<td>Visualizar historial de reservas</td>
+			<td>Como cliente quiero ver historial de reservas para llevar un seguimiento de uso</td>
+			<td>2</td>
+			<td>Vladimir, Nestor, Sebastian</td>
+			<td>To-Review</td>
+		</tr>
+		<tr>
+			<td>US31</td>
+			<td>Ingreso de cuenta</td>
+			<td>TA5</td>
+			<td>Ingreso de cuenta</td>
+			<td>Como cliente quiero ingresar a una cuenta para ver mi suscripción, mi información y la disponibilidad de vehiculos.</td>
+			<td>4</td>
+			<td>Omar</td>
+			<td>To-Review</td>
+		</tr>
+		<tr>
+			<td>US10</td>
+			<td>Visualización de catalogo de vehiculos</td>
+			<td>TA6</td>
+			<td>Visualización de catalogo de vehiculos</td>
+			<td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades</td>
+			<td>2</td>
+			<td>Francisco</td>
+			<td>To-Review</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 5.2.3.3 Development Evidence for Sprint Review.
+<table>
+	<tbody>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit Message</td>
+			<td>Commit Message Body</td>
+			<td>Commit on (date)</td>
+		</tr>
+		<tr>
+			<td rowspan="7">https://github.com/Innovatech-SV51-202401/GlideGo-Backend</td>
+			<td>main</td>
+			<td>2b9aafd7eb2e33d759098b123745241f820c831e</td>
+			<td>feat: added package</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+		<tr>
+			<td>develop</td>
+			<td>a7ada4f7654b99369533f810e5221f2e54d12662</td>
+			<td>Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/design</td>
+			<td>a5b99a73397f2dd17aba6d67d64b63ccaa34ea37</td>
+			<td>feat(design): added design bounded context.</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/execution-monitor</td>
+			<td>0bdafde0b8c3373bc9816047c0b80ef22cd31be5</td>
+			<td>Merge remote-tracking branch 'origin/feature/execution-monitor' into feature/execution-monitor</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/identify-access</td>
+			<td>23728df5cfc6354be639f00f80cc1313e8d5078c</td>
+			<td>fix: dependencies</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/identifyAccesTestV</td>
+			<td>1a7cfe3522b34b7e2af8653858e596935739f711</td>
+			<td>feat(shared): added logic from persistence</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/profiles</td>
+			<td>69de7abdf1b66f8ee20ed3bfe153377fcf707ced</td>
+			<td>feat(Profiles): Added base table for profiles</td>
+			<td>-</td>
+			<td>05/06/2024</td>
+		</tr>
+	</tbody>
+</table>
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+Se desarrollo una version temprana de las secciones de login, register, visualizacion de perfiles, reservas y las listas de alquileres.
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Para este sprint, logramos desplegar una version temprana de las secciones de login, register, visualizacion de perfiles, reservas y las listas de alquileres.
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Se presentaron problemas al desplegar esta version del backend.
+
+| End Point | Funciones                       |
+|-----------|---------------------------------|
+| -         | Desplegar el BackEnd de GlideGo |
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Link del respositorio: https://github.com/Innovatech-SV51-202401/GlideGo-Backend
+
+Link del Video-About-The-Product: https://drive.google.com/file/d/1JYJvPQa7Vl5Yj8GnTHJ8YdK9NnsJ4NYm/view?usp=sharing
+
+![img.png](../assets/img/repositorio-backend.png)
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+La meta del sprint fue presentar una verison temprana del Backend, el equipo utilizo las herramientas de C#, .NET, Entity Framework, SQL Server y Swagger
+
+![img.png](../assets/img/back1.png)
+![img_1.png](../assets/img/back2.png)
+![img_2.png](../assets/img/back3.png)
+![img_3.png](../assets/img/back4.png)
+![img_4.png](../assets/img/back5.png)
+
 ## Conclusiones
 Nuestro equipo Innovatech ha identificado un nicho de mercado específico dentro del sector de transporte, centrándose en vehículos menores o ligeros como bicicletas, skateboards, scooters y motos eléctricas. Esta especialización puede ayudarles a diferenciarse y destacar en un mercado cada vez más competitivo y nuestra propuesta está orientada hacia la innovación y la calidad en el transporte.
 
