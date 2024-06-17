@@ -1,22 +1,28 @@
 - - -
-# UPC
-# INGENIERÍA DE SOFTWARE
-### Ciclo: 5
-## CURSO: SI730 Aplicaciones Web | SECCIÓN: SV51
- Profesor: Velasquez Nuñez Angel Augusto
-# Informe de TP1
-Nombre del startup: InnovaTech 
 
-Nombre del producto: GlideGo
-### Integrantes:
-- Jara Benites Quique Vladimir - U202022365
-- Velarde Gonzales Nestor H - U20211C221
-- Aru Acevedo, Yair Christofer - U202125984
-- Flores Manrique Sebastian Enrique - U201611430
-- Hurtado Palomino, Francisco Juan - u202117498
-- Omar Christian Berrocal Ramirez - u20201b529
+<center><img src="upc.png" width="140" align="center"></center>
 
-Abril, 2024
+# <center>Universidad Peruana de Ciencias Aplicadas</center>
+
+## <center>INGENIERÍA DE SOFTWARE</center>
+### <center>Ciclo: 5</center>
+## <center>CURSO: SI730 Aplicaciones Web | SECCIÓN: SV51</center>
+<center> Profesor: Velasquez Nuñez Angel Augusto <center>
+
+## <center>Informe de TP1</center>
+<center> Nombre del startup: InnovaTech <center>
+<center> Nombre del producto: GlideGo <center>
+
+### <center>Integrantes:</center>
+<center>Jara Benites Quique Vladimir - U202022365</center>
+<center>Velarde Gonzales Nestor H - U20211C221</center>
+<center>Aru Acevedo, Yair Christofer - U202125984</center>
+<center>Flores Manrique Sebastian Enrique - U201611430</center>
+<center>Hurtado Palomino, Francisco Juan - u202117498</center>
+<center>Omar Christian Berrocal Ramirez - u20201b529</center>
+
+## <center>Junio, 2024<center>
+
 - - -
 # Registro de Versiones del Informe
 | Version | Fecha      | Autor                              | Descripcion de Modificacion                      |
