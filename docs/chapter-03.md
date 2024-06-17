@@ -1,15 +1,15 @@
 # CAPÍTULO III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
-### Segmento 1:
+### Segmento 1: Owner
 
 <img src="../assets/to-be-escenario/to-be-owner.png" alt="To be Owner" >
 
-### Segmento 2:
+### Segmento 2: User
 
 <img src="../assets/to-be-escenario/to-be-user.png" alt="To be User" >
 
-### Segmento 3:
+### Segmento 3: Mechanic
 
 <img src="../assets/to-be-escenario/to-be-mecanico.png" alt="To be Mecanico" >
 
