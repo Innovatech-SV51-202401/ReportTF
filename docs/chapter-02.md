@@ -171,16 +171,21 @@
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
-#### Entrevistas segmento 01: Owner(Ofrece vehiculos menores)
-1. ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente?
-2. ¿Qué dispositivos de escritorio y móvil usas mayormente? ¿Y cuál consideraría su navegador favorito?
-3. ¿Cuántos y qué tipos de vehículos posees actualmente?
-4. ¿Cuál sería tu presupuesto para alquilar cada tipo de vehículo?
-5. ¿Tienes experiencia previa en el alquiler de vehículos o servicios similares?
+#### Entrevistas segmento 01: Owner (Propietarios de vehículos)
+1. ¿Cual es tu nombre completo? 
+2. ¿Cuántos años tienes? 
+3. ¿En que distrito resides actualmente?
+3. ¿Hace cuantos años te dedicas a rentas sus vehiculos?
+4. ¿Que estrategia de marketing haces a las personas nuevas para que te alquilen tu vehiculo?
+4. ¿Como manejas las tarifas para tus vehiculos?
 6. ¿Cómo te gustaría que sean las tarifas de alquiler?
-7. ¿Con qué medios de pago te gustaría que contemos?
-8. ¿Tienes un límite de tiempo o distancia para el alquiler?
-9. Si el vehículo se daña durante el uso ¿Cómo reaccionarías?
+7. ¿Manejas algún limite o reglas para las personas que te alquilan?
+8. ¿Como te contactas con tus clientes o personas quienes te alquilan?
+9. ¿Que haces cuando tu vehiculo se malogra? 
+10. ¿Tienes un límite de tiempo o distancia para el alquiler?
+7. ¿Usualmente, que equipos electrónicos usas con mayor frecuencia?
+8. Según nuestro proyecto mensionado, ¿Que te parece la idea?
+7. ¿Usarías nuestra aplicación web?
 10. ¿Qué te parecería poder visualizar la identidad del cliente?
 11. ¿Qué te parecería poder visualizar el historial de rentas del cliente?
 12. ¿Qué medidas de seguridad deben tener en cuenta los usuarios al usar los vehículos?
@@ -231,11 +236,11 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 * Apellidos: Mogollon Murray
 * Edad: 34
 * Distrito: Barranco
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [link](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 00:01 
-* Duración de la entrevista: 11:23
-
-<img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
+* Duración de la entrevista: 11:23 
+    
+  <img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
@@ -247,7 +252,7 @@ Francisco Mogollon es un adulto de 34 años que vive en Barranco, el cuenta actu
 * Apellidos: Beltran Burgos
 * Edad: 23
 * Distito: San Borja
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Link](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 11:24
 * Duración de la entrevista: 05:51
 
@@ -426,15 +431,15 @@ cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que
 ### 2.3.4. Empathy Mapping.
 En esta sección mostramos los empathy mapping de los tres segmentos realizados con la información recopilada de componentes anteriores.
 
-**Segmento 1:**
+**Segmento 1:** Owner (Dueño del vehiculo)
 
 ![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
 
-**Segmento 2:**
+**Segmento 2:** User (Cliente)
 
 ![Empathy Map Segmento2](../assets/uxpressia/empathy2.png)
 
-**Segmento 3:**
+**Segmento 3:** Mechanic (Mecánico de mantenimiento)
 
 ![Empathy Map Segmento3](../assets/uxpressia/empathy3.png)
 ### 2.3.5. As-is Scenario Mapping.
