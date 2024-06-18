@@ -6,20 +6,14 @@
 
 - Google Drive
 
-Plataforma gratuita que te permite almacenar archivos y acceder a ellos desde 
-cualquier lugar utilizando la nube. 
+Plataforma gratuita que te permite almacenar archivos y acceder a ellos desde cualquier lugar utilizando la nube. 
 
-Propósito en el proyecto: El equipo ha utilizado Google 
-Drive como centro de organización principal para llevar un registro de los puntos pendientes
-realizados y por realizar. También han utilizado la herramienta Trello para establecer hitos 
-y plazos. En cuanto a las consultas y dudas, se han resuelto mediante reuniones grupales por meet.
+Propósito en el proyecto: El equipo ha utilizado Google Drive como centro de organización principal para llevar un registro de los puntos pendientes realizados y por realizar. También han utilizado la herramienta Trello para establecer hitos y plazos. En cuanto a las consultas y dudas, se han resuelto mediante reuniones grupales por meet.
 
 **Requirements Management**
 
 
-El trabajo asignado a cada estudiante ha sido revisado y evaluado por todo el equipo Innovatech para
-asegurar que cumpla con los criterios y para sugerir posibles cambios que eviten errores al
-presentar el proyecto en la entrega del trabajo. 
+El trabajo asignado a cada estudiante ha sido revisado y evaluado por todo el equipo Innovatech para asegurar que cumpla con los criterios y para sugerir posibles cambios que eviten errores al presentar el proyecto en la entrega del trabajo. 
 
 
 **Product UX/UI Design**
@@ -27,31 +21,19 @@ presentar el proyecto en la entrega del trabajo.
 
 - Figma:
 
-Descripción: Un programa de edición gráfica y prototipado. Una plataforma que se utiliza
-principalmente para el diseño digital de Wireframe y Mock-Up, es decir, para diseñar los interfaces 
-de nuestra aplicación web.
-Propósito en el proyecto: Para el diseño del proyecto, nuestro equipo ha utilizado Figma para la
-creación de los wireframes de alta fidelidad, así como para la elaboración de los prototipos
-de la aplicación web.
-
-Ruta: 
+Descripción: Un programa de edición gráfica y prototipado. Una plataforma que se utiliza principalmente para el diseño digital de Wireframe y Mock-Up, es decir, para diseñar los interfaces de nuestra aplicación web.
+Propósito en el proyecto: Para el diseño del proyecto, nuestro equipo ha utilizado Figma para la creación de los wireframes de alta fidelidad, así como para la elaboración de los prototipos de la aplicación web.
 
 - Lucidchart:
-Descripción: Permite que los usuarios creen borradores y compartan diagramas de flujo
-profesionales, proporcionando diseños para todo, desde procesos de lluvia de ideas hasta
-administración de proyectos.
+Descripción: Permite que los usuarios creen borradores y compartan diagramas de flujo profesionales, proporcionando diseños para todo, desde procesos de lluvia de ideas hasta administración de proyectos.
 
 Propósito en el proyecto: Para los wireflows, user flows y diagramas de clases.
 
-Ruta:
-
 **Software Development**
 - VUE: 
-
 - HTML:
-Descripción: Código que se usó para estructurar nuestra landing page y tambien en nuestra aplicación 
-web, los estándares de desarrollo web, modificando el código existente para solucionar problemas y
-actualizándolo a las nuevas necesidades de hoy en día.
+- CSS:
+Descripción: Tecnologías que se usó para estructurar nuestra landing page y tambien en nuestra aplicación web, los estándares de desarrollo web, modificando el código existente para solucionar problemas yactualizándolo a las nuevas necesidades de hoy en día.
 
 
 **Software Deployment**
@@ -60,26 +42,63 @@ actualizándolo a las nuevas necesidades de hoy en día.
 - GitHub:
 
 
-Descripción: Permite subir tus repositorios de código para que sean almacenados en la
-nube a través del sistema de control de versiones de Git y participar en los avancen de sprint 
-de código en nuestro equipo.
-Propósito en el proyecto: Para alojar y desplegar el landing page y frontend, asi como
-poder visualizar e interactuar con el trabajo presentado. Git para poder realizar el control de
-versions.
+Descripción: Permite subir tus repositorios de código para que sean almacenados en la  nube a través del sistema de control de versiones de Git y participar en los avancen de sprint de código en nuestro equipo.
+Propósito en el proyecto: Para alojar y desplegar el landing page y frontend, asi como poder visualizar e interactuar con el trabajo presentado. Git para poder realizar el control de versions.
 
 Ruta: <td>https://github.com/</td>
 
 
-Github: Es la herramienta de control de versiones que permite que alojemos nuestro
-código en un repositorio, agilizando el trabajo en grupo. Para el desarrollo usaremos el
-flujo de trabajo Git Flow.
-Webstorm: Un entorno de desarrollo que permite trabajar con una variedad de lenguajes 
-de programación. Al igual que otros IDE de JetBrains, hace que el desarrollo sea más 
-fácil y divertido, ayudándole a automatizar tareas repetitivas y gestionar tareas 
-complejas con facilidad.
-Structurizr:Es una colección de herramientas que nos permitirá diagramar modelos C4 de 
-nuestros productos de manera colaborativa. 
+Github: Es la herramienta de control de versiones que permite que alojemos nuestro código en un repositorio, agilizando el trabajo en grupo. Para el desarrollo usaremos el flujo de trabajo Git Flow.
+Webstorm: Un entorno de desarrollo que permite trabajar con una variedad de lenguajes de programación. Al igual que otros IDE de JetBrains, hace que el desarrollo sea más fácil y divertido, ayudándole a automatizar tareas repetitivas y gestionar tareas complejas con facilidad.
+Structurizr:Es una colección de herramientas que nos permitirá diagramar modelos C4 de nuestros productos de manera colaborativa.
+
 #### 5.1.1. Software Development Environment Configuration.
+
+En este apartado se indicará los nombres de todos los productos de software a utilizar durante el desarrollo del proyecto, así como las rutas de referencia o descarga de estas. 
+
+Para ello, se organizará la información considerando el tipo de actividades realizadas durante el ciclo de vida del proyecto, siendo la estructura de esta forma:
+
+**Project Management**
+
+* **Scrum Framework:** Este es un marco de trabajo para gestionar proyectos enfocados en el desarrollo ágil de productos software. Implementar este framework en nuestro proyecto nos ayudará a coordinar eficientemente el trabajo en equipo. Puedes obtener más información sobre Scrum mediante [este enlace](https://aws.amazon.com/es/what-is/scrum/).
+
+**Requirements Management**
+
+* **Pivotal Tracker:** Esta es una herramienta online que nos permite gestionar fácilmente nuestras historias de usuarios, mediante la creación de Epics. Además, nos permitió desarrollar el Product Backlog asignando puntos de priorización de cada historia de usuario, para que durante el desarrollo de la aplicación, nos enfoquemos primero en las mejor puntuadas y dejar las más sencillas para el final. Puedes utilizar la herramienta Pivotal Tracker mediante [este enlace](https://www.pivotaltracker.com).
+
+**Product UX/UI Design**
+
+* **UXpressia:** Esta es una plataforma digital que nos ofrece plantillas para crear artefactos de nuestros segmentos objetivos como User Personas, Empathy Maps, Impact Maps y Journey Maps. Puedes utilizar las herramientas que ofrece UXpressia mediante [este enlace](https://uxpressia.com).
+
+* **Miro**: Esta es una plataforma digital que ofrece un entorno para realizar trabajos colaborativos, como lluvia de ideas, tablas y diagramas. Se utilizó esta plataforma para diseñar los cuadros As-Is y To-Be Scenary Map de nuestros segmentos objetivos. Para acceder a las herramientas que ofrece Miro [este enlace](https://miro.com/es/).
+
+* **Figma**: Esta es una herramienta online que ofrece el servicio de maquetación y prototipado de Landing pages,  aplicaciones web, móviles y de escritorio. Esto nos permite tener una estimación de cómo debería funcionar nuestro proyecto. Puedes acceder al servicio que ofrece Figma mediante [este enlace](https://www.figma.com).
+
+* **LucidChart:** Esta es una herramienta de diagramación online que nos permite trabajar colaborativamente en tiempo real. La herramienta ofrece plantillas para crear diagramas de flujo, diagramas UML, etc. En nuestro caso, utilizamos esta herramienta para realizar los Wireflow Diagrams y Userflow Diagrams. Puedes utilizar la herramienta LucidChart mediante [este enlace](https://lucid.app/pricing/lucidchart#/pricing/chart)
+
+
+**Software Development**
+
+* **GitHub:** Esta es una plataforma digital donde se pueden alojar proyectos mediante repositorios, los cuales utilizan un sistema de control de versiones llamado Git. GitHub nos permite trabajar colaborativamente y tener un seguimiento detallado de los avances en el proyecto. Para acceder a nuestro repositorio utiliza [este enlace](https://github.com/Cyber-Savants).
+
+* **Git:** Este es un software de control de versiones el cual se instala localmente y nos permite tener un historial de cambios que se realizan en el proyecto mediante commits. También se utiliza para trabajar colaborativamente en repositorios que se encuentran subidos en GitHub. Para descargar Git utiliza [este enlace](https://git-scm.com).
+
+* **WebStorm:** Este es un entorno de desarrollo, el cual nos permite trabajar con HTML, CSS, Javascript y con frameworks como Vue y Angular. Para obtener WebStorm utiliza [este enlace](https://www.jetbrains.com/es-es/webstorm/).
+
+* **Rider:** Este es un entorno de desarrollo, el cual nos permite trabajar con el lenguaje C# y la plataforma .NET que nos permite crear diferentes tipos de aplicaciones, ya sean móvil, web o de escritorio. En nuestro caso, usaremos ASP .NET para crear un Web Service para nuestro proyecto. Para obtener Rider utiliza [este enlace](https://www.jetbrains.com/es-es/rider/).
+
+**Software Testing**
+
+* **Gherkin:** Este es un lenguaje DSL (Domain Specific Language), que nos permite abordar problemas específicos. Esto lo utilizamos para los criterios de aceptación de las historias de usuario de nuestro proyecto. Puedes conocer más sobre Gherkin mediante [este enlace](https://profile.es/blog/que-es-gherkin/).
+
+**Software Deployment**
+
+* **GitHub Pages:** Este es un servicio que ofrece GitHub para publicar un sitio web a partir de un repositorio, cabe destacar que solo permite alojar sitios web estáticos con archivos HTML, CSS y JavaScript. Puedes aprender a como usar este servicio mediante [este enlace](https://pages.github.com).
+
+**Software Documentation**
+
+* **Markdown:** Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización. Puedes aprender Markdown mediante [este enlace](https://markdown.es/sintaxis-markdown/).
+
 #### 5.1.2. Source Code Management.
 
 En esta sección se detalla qué medios se utilizaron para el seguimiento de las modificaciones, así como la semántica y nomenclatura que se usará para los commits y releases que se implementarán durante el avance del proyecto.
