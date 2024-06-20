@@ -7,19 +7,63 @@ soluciones tanto para usuarios que buscan vehículos para fines de actividades d
 es facilitar el acceso a vehículos ligeros de forma segura y conveniente para nuestros usuarios, nuestro sitio web ofrecerá una experiencia excepcional, 
 garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehículos. 
 
-|                                                     Misión                                                    	|                                                     Visión                                                     	|                                                           Valores                                                          	|
-|:-------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------------------:	|
-| Transformar la movilidad urbana y recreativa con un acceso conveniente y seguro a vehículos menores o ligeros 	| Ser líderes en el mercado de movilidad sostenible ofreciendo una amplia gama de opciones de vehículos menores. 	| Innovación: La innovación constante para ofrecer soluciones creativas. Calidad: Buscamos la exelencia en nuestro producto. 	|
+<table>
+	<tbody>
+		<tr>
+			<td>Misión</td>
+			<td>Visión</td>
+			<td>Valores</td>
+		</tr>
+		<tr>
+			<td>Transformar la movilidad urbana y recreativa con un acceso conveniente y seguro a vehículos menores o ligeros 	</td>
+			<td>Ser líderes en el mercado de movilidad sostenible ofreciendo una amplia gama de opciones de vehículos menores. 	</td>
+			<td>Innovación: La innovación constante para ofrecer soluciones creativas. Calidad: Buscamos la exelencia en nuestro producto. 	</td>
+		</tr>
+	</tbody>
+</table>
 
 ### 1.1.2. Perfiles de integrantes del negocio
 
-| 	                                                                                   | Miembros del equipo               	| Código de estudiante 	| Carrera                	| Conocimientos/Habilidades                                                                                                                                                                                                                                                                                                                                                      	                                                              |
-|-------------------------------------------------------------------------------------|-----------------------------------	|----------------------	|------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="../assets/members-profile/Velarde.jpg" alt="Imagen del compañero">	  | Velarde Gonzales Néstor Hernán    	| u20211c221	| Ingeniería de Software 	| Estudiante de la carrera de Ingeniería de Software, actualmente cursando el Quinto ciclo con especialización en el desarrollo de software y la automatización industrial, poseo habilidades avanzadas en diversos lenguajes de programación y base de datos SQL. Tengo la capacidad demostrada para colaborar eficazmente en proyectos multidiciplinarios y trabajo en equipo. 	                                                              |
-| <img src="../assets/members-profile/yair.jpg" alt="Imagen del compañero" >	 | Aru Acevedo Yair Christofer       	| u202125984           	| Ingeniería de Software 	| Manejo intermedio de C++ y manejo básico de Html, Python y Java. Conocimientos en SQL y MongoDB.	                                                                                                                                                                                                                                                                                                                                             |
-| <img src="../assets/members-profile/Vladimir.jpg" alt="Imagen del compañero" >	     | Jara Benites Quique Vladimir      	| u202022365           	| Ingeniería de Software 	| Conocimientos tecnicos en javascript, php, NodeJs, SQL y MongoDB. Asimismo, para el desarrollo del trabajo en equipo  cuento con habilidades como participación comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                     	 |
-| <img src="../assets/members-profile/Francisco.jpg" alt="Imagen del compañero" >	    | Hurtado Palomino Francisco Juan   	| u202117498           	| Ingeniería de Software 	| Conocimiento intermedio en lenguajes de C++, HTML y CSS. Para aportación al equipo cuenta con conocimientos en edición de videos y exposiciones.                                                                                                                                                                                                                               	                                                              |
-| <img src="../assets/members-profile/sebastian.jpeg" alt="Imagen del compañero" >	 | Flores Manrique Sebastian Enrique 	| u201611430           	| Ingeniería de Software 	| Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                        	                                                              |
+<table>
+    <tbody>
+        <tr>
+            <td><img src="../assets/members-profile/Velarde.jpg" alt="Imagen de Néstor Hernán Velarde"></td>
+            <td>Velarde Gonzales Néstor Hernán</td>
+            <td>u20211c221</td>
+            <td>Ingeniería de Software</td>
+            <td>Estudiante de Ingeniería de Software, cursando el Quinto ciclo con especialización en desarrollo de software y automatización industrial. Habilidades en varios lenguajes de programación y bases de datos SQL. Experiencia en proyectos multidisciplinarios y trabajo en equipo.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/yair.jpg" alt="Imagen de Yair Christofer Aru"></td>
+            <td>Aru Acevedo Yair Christofer</td>
+            <td>u202125984</td>
+            <td>Ingeniería de Software</td>
+            <td>Manejo intermedio de C++, y conocimientos básicos en HTML, Python y Java. Experiencia en SQL y MongoDB.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/Vladimir.jpg" alt="Imagen de Vladimir Jara"></td>
+            <td>Jara Benites Quique Vladimir</td>
+            <td>u202022365</td>
+            <td>Ingeniería de Software</td>
+            <td>Conocimientos técnicos en JavaScript, PHP, NodeJs, SQL y MongoDB. Habilidades en comunicación, creatividad, resolución de problemas, adaptabilidad y toma de decisiones para el trabajo en equipo.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/Francisco.jpg" alt="Imagen de Francisco Juan Hurtado"></td>
+            <td>Hurtado Palomino Francisco Juan</td>
+            <td>u202117498</td>
+            <td>Ingeniería de Software</td>
+            <td>Conocimiento intermedio en C++, HTML y CSS. Experiencia en edición de videos y presentaciones.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/sebastian.jpeg" alt="Imagen de Sebastian Enrique Flores"></td>
+            <td>Flores Manrique Sebastian Enrique</td>
+            <td>u201611430</td>
+            <td>Ingeniería de Software</td>
+            <td>Estudiante de Ingeniería de Software, actualmente en el quinto ciclo. Conocimientos en C++, Python y desarrollo web. Responsable y dispuesto a colaborar en equipo.</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -28,36 +72,36 @@ Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo qu
 
 Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.
 
-#### What (Qué)
+- #### What (Qué)
 
 El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.
 
-#### When (Cuándo)
+- #### When (Cuándo)
 
 ¿Cuándo estamos viendo el problema?</br>
 El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.
 
-#### Where (Dónde)
+- #### Where (Dónde)
 
 ¿Dónde estamos viendo los problemas?</br>
 El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.
 
-#### Who (Quienes)
+- #### Who (Quienes)
 
 ¿A quien le sucede?</br>
 El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.
 
-#### Why (Por qué)
+- #### Why (Por qué)
 
 ¿Por qué sucede el problema?</br>
 La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.
 
-#### How (Cómo)
+- #### How (Cómo)
 
 ¿Cómo se diferencia el problema del estado normal?</br>
 Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
 
-#### How much (Cuánto)
+- #### How much (Cuánto)
 
 ¿Cuánto dinero están implicando? </br>
 La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.
