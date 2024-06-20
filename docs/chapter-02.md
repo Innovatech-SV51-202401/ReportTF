@@ -2,24 +2,190 @@
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
 
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">Glidego</td>
+    <td valign="top">City Bike</td>
+    <td valign="top">Grin</td>
+    <td valign="top">Emove</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="../assets/logos/glidego.png" alt="Logo of glidego"  height="100px"></td>
+    <td valign="top"><img src="../assets/logos/citybike.png" alt="Logo of citybike" height="100px"></td>
+    <td valign="top"><img src="../assets/logos/grin.png" alt="Logo of grin" height="100px"></td>
+    <td valign="top"><img src="../assets/logos/emove.png" alt="Logo of emove" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Servicio de alquiler de bicicletas, Skateboards, scooters y motos eléctricas para la ciudad de Lima metropolitana.</td>
+    <td valign="top">Servicio de alquiler de bicicletas en Miraflores, Lima.</td>
+    <td valign="top">Servicio de alquiler de scooters  para Lima metropolitana.</td>
+    <td valign="top">Servicio de alquiler de vehículos, servicios de reparaciones, venta de equipos y accesorios.</td>
+
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Crear una cuenta en GlideGo y acceder a diferentes opciones de suscripciones y equipos según preferible de cada usuario, también incluye el mantenimiento de cada equipo por fallas técnicas.</td>
+    <td valign="top">La forma de alquiler es mediante registros por plataforma web o móvil, la suscripción está disponible desde pase diario, mensual y anual. </td>
+    <td valign="top">Permite a los usuarios alquilar mediante suscripción sus scooters. Además , ofrece mantenimiento gratuito.</td>
+    <td valign="top">Permite a los usuarios el alquiler de vehículos, la compra y venta de accesorios nuevos como de segunda mano, a través de su sitio web. </td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Personas mayores a 18 años que requieren los servicios solo para ciudad de Lima. </td>
+    <td valign="top">Personas mayores a 18 años, para habitantes de Lima, visitantes y turistas. </td>
+    <td valign="top">Personas mayores de 15 años que se deben movilizar por Lima Metropolitana diariamente.</td>
+    <td valign="top">Personas mayores de 18 años que busquen promover los vehículos de micromovilidad.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Publicidad por redes sociales y anuncios en plataformas (YouTube).</td>
+    <td valign="top">Publicidad en redes sociales.</td>
+    <td valign="top">Publicidad en redes sociales y afiches</td>
+    <td valign="top">Publicidad en redes sociales.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Alquiler de vehículos menores</td>
+    <td valign="top">Alquiler de bicicletas.</td>
+    <td valign="top">Alquiler de scooters y mantenimiento.</td>
+    <td valign="top">Alquiler de vehículos y servicio de reparaciones.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Planes de suscripción:<br/>
+    - Plan base: s/.130<br/>
+    - Plan premium: s/.230
+</td>
+    <td valign="top">Planes de suscripción:<br/> 
+- Diario: s/4.33 <br/>   
+- Mensual: s/19.50<br/> 
+- Anual: s/ 151.73 <br/> 
+</td>
+    <td valign="top">Planes de suscripción:<br/>
+- Mensual: S/. 139<br/>
+- Bimestral: S/239<br/>
+- Trimestral: S/329<br/>
+</td>
+    <td valign="top">Costo de alquiler:<br/>
+- 2 horas: s/. 60<br/>
+- 4 horas: s/. 80<br/>
+- 1 día: s/. 120<br/>
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial</td>
+    <td valign="top">Principalmente a través de su sitio web, con posibilidad de acceso móvil. </td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+    	Contar con un sistema confiable y seguro para el alquiler de vehículos menores.
+    </td>
+    <td valign="top">
+      Posibilidad para personas que optan por un transporte eficiente y sano. 
+    </td>
+    <td valign="top">
+        Base de clientes establecida, está presente en lugares con mayor afluencia de tráfico 
+    </td>
+    <td valign="top">
+        -Variedad de servicios<br>
+        -Movilidad sostenible<br>
+        -Flexibilidad de precios<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+        No contamos con un sistema de rastreo sofisticado
+    </td>
+    <td valign="top">
+        No cuenta con servicio de mantenimiento. 
+    </td>
+    <td valign="top">
+        No cuenta con aplicación móvil, costos elevados. Poca publicidad
+    </td>
+    <td valign="top">
+        -Dependencia tecnológica<br>
+        -Competencia<br>
+        -Costos de mantenimiento<br>
+        -Dependencia climática<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+        Es innovador y no afecta al medio ambiente. Asimismo, tiene un impacto positivo en la economía y salud de los usuarios.
+    </td>
+    <td valign="top">
+        La ciudad de Miraflores cuenta con vías exclusivas para bicicletas y posibilidad para expandir a más distritos Limeños.
+    </td>
+    <td valign="top">
+        Expandir su base de usuarios ya sea con mayor publicidad o mas alcance a zonas de cobertura del servicio.
+    </td>
+    <td valign="top">
+        -Expansión de mercado<br>
+        -Alianzas estratégicas<br>
+        -Diversificación de servicios<br>
+        -Tendencia de movilidad urbana<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+        Las personas no confían en el servicio
+    </td>
+    <td valign="top">
+        Las invasiones de motorizados a ciclovías y los robos de equipos (bicicletas) en lugares con poca seguridad. 
+    </td>
+    <td valign="top">
+        Cambios en la regulación del transporte.
+    </td>
+    <td valign="top">
+        Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.
+    </td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Implementaremos estrategias específicas para enfrentar a los competidores de manera efectiva. Nos distinguiremos destacando el enfoque en la mejora de seguridad y mantenimiento de los vehículos ligeros, que será respaldado por garantías y servicios exclusivos. Además, mejoraremos la experiencia del usuario con una plataforma fácil de usar y un excelente soporte al cliente. Aumentaremos nuestra red de puntos de alquiler y estaciones de mantenimiento utilizando datos para optimizar nuestra ubicación, para asegurar una amplia cobertura y disponibilidad de vehículos.
-Ofreceremos programas de fidelización y tarifas competitivas para motivar el uso continuo y la recomendación de amigos y familiares. Para promover nuestra marca como una opción de movilidad sostenible y conveniente, también implementaremos estrategias de marketing digital dirigidas y colaboraremos con eventos locales. Por último, pero no menos importante, mantendremos una ventaja competitiva a largo plazo mediante la inversión en investigación y desarrollo para estar al día con las últimas innovaciones en tecnología y movilidad.
+* Ofrece una amplia gama de vehículos menores para alquilar, incluyendo bicicletas, scooters y otros. Esto te permitirá capturar a una audiencia más amplia y satisfacer las necesidades de diferentes tipos de usuarios.
+* Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
+* Incluir a nuestra producto características como navegación GPS, notificaciones en tiempo real sobre disponibilidad de vehículos y opciones de pago seguras.
+* Ofrecer servicios de mantenimiento gratuitos o con descuento como parte de un programa de fidelización para los usuarios frecuentes.
 - - -
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
-#### Entrevistas segmento 01: Owner(Ofrece vehiculos menores)
-1. ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente?
-2. ¿Qué dispositivos de escritorio y móvil usas mayormente? ¿Y cuál consideraría su navegador favorito?
-3. ¿Cuántos y qué tipos de vehículos posees actualmente?
-4. ¿Cuál sería tu presupuesto para alquilar cada tipo de vehículo?
-5. ¿Tienes experiencia previa en el alquiler de vehículos o servicios similares?
+#### Entrevistas segmento 01: Owner (Propietarios de vehículos)
+1. ¿Cual es tu nombre completo? 
+2. ¿Cuántos años tienes? 
+3. ¿En que distrito resides actualmente?
+3. ¿Hace cuantos años te dedicas a rentas sus vehiculos?
+4. ¿Que estrategia de marketing haces a las personas nuevas para que te alquilen tu vehiculo?
+4. ¿Como manejas las tarifas para tus vehiculos?
 6. ¿Cómo te gustaría que sean las tarifas de alquiler?
-7. ¿Con qué medios de pago te gustaría que contemos?
-8. ¿Tienes un límite de tiempo o distancia para el alquiler?
-9. Si el vehículo se daña durante el uso ¿Cómo reaccionarías?
+7. ¿Manejas algún limite o reglas para las personas que te alquilan?
+8. ¿Como te contactas con tus clientes o personas quienes te alquilan?
+9. ¿Que haces cuando tu vehiculo se malogra? 
+10. ¿Tienes un límite de tiempo o distancia para el alquiler?
+7. ¿Usualmente, que equipos electrónicos usas con mayor frecuencia?
+8. Según nuestro proyecto mensionado, ¿Que te parece la idea?
+7. ¿Usarías nuestra aplicación web?
 10. ¿Qué te parecería poder visualizar la identidad del cliente?
 11. ¿Qué te parecería poder visualizar el historial de rentas del cliente?
 12. ¿Qué medidas de seguridad deben tener en cuenta los usuarios al usar los vehículos?
@@ -62,15 +228,19 @@ Ofreceremos programas de fidelización y tarifas competitivas para motivar el us
 
 - - -
 ### 2.2.2. Registro de entrevistas.
+En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
 ### Entrevistas segmento 1: Owners
 ### Entrevista 1:
 
-* Nombre: Francisco Mogollon Murray
+* Nombres: Francisco 
+* Apellidos: Mogollon Murray
 * Edad: 34
-* Ocupación: Dueño de restaurante
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ETyU0L1m7YtErhnG8MIhzF0BQrIQm9zaJ09tKn3gvRLngA?e=CUtDCd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-<img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
+* Distrito: Barranco
+* Enlace a la entrevista: [link](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 00:01 
+* Duración de la entrevista: 11:23 
+    
+  <img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
@@ -78,10 +248,13 @@ Francisco Mogollon es un adulto de 34 años que vive en Barranco, el cuenta actu
 
 ### Entrevista 2:
 
-* Nombre: David Beltran Burgos
+* Nombres: David 
+* Apellidos: Beltran Burgos
 * Edad: 23
-* Ocupación: Call Center
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EWeIGZeWfg5GqivXnXyTYckBWI6LDU_-O9YzBf_O4g1uyQ?e=CqCjq8)
+* Distito: San Borja
+* Enlace a la entrevista: [Link](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 11:24
+* Duración de la entrevista: 05:51
 
 <img src="../assets/entrevistas/entrevista-2.png" alt="Imagen de la entrevista"> 
 
@@ -91,10 +264,13 @@ La entrevista fue realizada a David Beltrán, residente de San Borja. Beltrán p
 
 ### Entrevista 3:
 
-* Nombre: Erick Alfaro Meneses
+* Nombres: Erick 
+* Apellidos: Alfaro Meneses
 * Edad: 34
-* Ocupación: Ingeniero Petroquimico
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/ESwfGB1BUr9Nqp5arB_j1WgBlnhX3xFNvmBiEmUK6kz4gg?e=TiOzLO)
+* Distrito: San Borja
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 17:16
+* Duración de la entrevista: 09:12
 
 <img src="../assets/entrevistas/entrevista-3.png" alt="Imagen de la entrevista"> 
 
@@ -106,10 +282,13 @@ La entrevista fue realizada a Eric Alfaro, residente de San Borja y poseedor de 
 ### Entrevistas segmento 2: Clientes
 ### Entrevista 1:
 
-* Nombre: Arturo Reyes Rodriguez
+* Nombres: Arturo 
+* Apellidos: Reyes Rodriguez
 * Edad: 21
-* Ocupación: Estudiante
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EcPZoWGIzEFAsGGzdblOl5gBXiIyL84yEvW4ZPyZC7bxsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9gOckO)
+* Distrito: San Juan de Miraflores
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 26:28
+* Duración de la entrevista: 09:26
 
 <img src="../assets/entrevistas/entrevista-4.png" alt="Imagen de la entrevista"> 
 
@@ -119,10 +298,13 @@ Arturo es un joven estudiante de 21 años, él vive en San Juan de Miraflores  y
 
 ### Entrevista 2:
 
-* Nombre: Aldahir Valenzuela
+* Nombres: Aldahir 
+* Apellidos: Valenzuela Paredes
 * Edad: 20
-* Ocupación: Estudiante
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EVb5PqGJp2FMvSd4M-XckpQBKrP0D8b8dCQr5IxKFEtJ3g?e=1AfIE6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Distrito: Villa el Salvador
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 35:54
+* Duración de la entrevista: 10:31
 
 <img src="../assets/entrevistas/entrevista-5.png" alt="Imagen de la entrevista"> 
 
@@ -132,10 +314,13 @@ Aldhair utiliza principalmente el transporte público y a veces una bicicleta pa
 
 ### Entrevista 3:
 
-* Nombre: Juan Mendivil Quispe
+* Nombres: Juan 
+* Apellidos: Mendivil Quispe
 * Edad: 26
-* Ocupación: Transporte
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EXUxf6j8eSFFkB4vP8bzozwBsxrEDKFGaj8K9MbjSpsHFw?e=EwCMRh)
+* Distrito: Villa María del Triunfo
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 46:26
+* Duración de la entrevista: 5:20
 
 <img src="../assets/entrevistas/entrevista-6.png" alt="Imagen de la entrevista"> 
 
@@ -147,10 +332,13 @@ Sebastián Flores entrevistó a Juan, quien reside en José Gálvez Villa, Marí
 ### Entrevistas segmento 3: Mecánicos
 ### Entrevista 1:
 
-* Nombre: Rodrigo Loaiza Gallegos
+* Nombre: Rodrigo 
+* Apellidos: Loaiza Gallegos
 * Edad: 24
-* Ocupación: Asistente mecánico
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_u )
+* Distrito: San Borja
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 51:46
+* Duración de la entrevista: 5:56
 
 <img src="../assets/entrevistas/entrevista-7.png" alt="Imagen de la entrevista"> 
 
@@ -160,10 +348,13 @@ La entrevista fue realizada a Rodrigo Loaiza, un residente de San Borja y trabaj
 
 ### Entrevista 2:
 
-* Nombre: Velarde Ninahuamán Santiago
+* Nombre: Santiago
+* Apellidos: Velarde Ninahuamán
 * Edad: 24
-* Ocupación: Mecánico
-* [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/Eda2PT540eJJiKC5O1937BgBIiDXIkhKwy9z_qme-S0RCw?e=nWS0Gz)
+* Distrito: San Juan de Lurigancho
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Inicio de entrevista: 57:42
+* Duración de la entrevista: 7:43
 
 <img src="../assets/entrevistas/entrevista-8.png" alt="Imagen de la entrevista"> 
 
@@ -191,7 +382,12 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ---
 
 ## 2.3. Needfinding.
+En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
+
 ### 2.3.1. User Personas.
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
+Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
 **Segmento 1:**   
 ![Imagen User Persona 1](../assets/uxpressia/userpersona1.jpg)
 
@@ -201,6 +397,10 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 **Segmento 3:**
 ![Imagen User Persona 3](../assets/uxpressia/userpersona3.jpg)
 ### 2.3.2. User Task Matrix.
+En esta sección se presenta el user task matrix de los tres segmentos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se
+refleja la importancia de determinadas tareas.
+
+
 | 	                                                                          |   **Owner**  	    |  **Owner**    	   | **Cliente**    	  |  **Cliente**   	  | **Mecánico**   	  |  **Mecánico**  	  |
 |----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
@@ -216,6 +416,9 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 | Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |     -      	      |     -      	      |
 
 ### 2.3.3. User Journey Mapping.
+En esta sección se presentan los User Journey Mapping de los tres segmentos, que realizamos con el fin de dar a entender 
+cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
 **Segmento 1:**   
 ![Imagen User Journey Mapping 1](../assets/uxpressia/mapping1.jpg)
 
@@ -226,18 +429,24 @@ De las entrevistas realizadas se obtuvo que por lo menos a la semana les llegan 
 ![Imagen User Journey Mapping 3](../assets/uxpressia/mapping3.jpg)
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
+En esta sección mostramos los empathy mapping de los tres segmentos realizados con la información recopilada de componentes anteriores.
+
+**Segmento 1:** Owner (Dueño del vehiculo)
 
 ![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
 
-**Segmento 2:**
+**Segmento 2:** User (Cliente)
 
 ![Empathy Map Segmento2](../assets/uxpressia/empathy2.png)
 
-**Segmento 3:**
+**Segmento 3:** Mechanic (Mecánico de mantenimiento)
 
 ![Empathy Map Segmento3](../assets/uxpressia/empathy3.png)
 ### 2.3.5. As-is Scenario Mapping.
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia
+de ideas individual, revisión e identificación de fases como columnas,
+para conseguir los As-is Scenario Mapping de los tres segmentos.
+objetivos.
 
 **Segmento 1**  
 ![As-IS Scenario Mapping 1](../assets/uxpressia/scenario1.jpg)
