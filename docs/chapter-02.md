@@ -236,7 +236,7 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 * Apellidos: Mogollon Murray
 * Edad: 34
 * Distrito: Barranco
-* Enlace a la entrevista: [link](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 00:01 
 * Duración de la entrevista: 11:23 
     
@@ -252,7 +252,7 @@ Francisco Mogollon es un adulto de 34 años que vive en Barranco, el cuenta actu
 * Apellidos: Beltran Burgos
 * Edad: 23
 * Distito: San Borja
-* Enlace a la entrevista: [Link](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 11:24
 * Duración de la entrevista: 05:51
 
@@ -268,7 +268,7 @@ La entrevista fue realizada a David Beltrán, residente de San Borja. Beltrán p
 * Apellidos: Alfaro Meneses
 * Edad: 34
 * Distrito: San Borja
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 17:16
 * Duración de la entrevista: 09:12
 
@@ -286,7 +286,7 @@ La entrevista fue realizada a Eric Alfaro, residente de San Borja y poseedor de 
 * Apellidos: Reyes Rodriguez
 * Edad: 21
 * Distrito: San Juan de Miraflores
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 26:28
 * Duración de la entrevista: 09:26
 
@@ -302,7 +302,7 @@ Arturo es un joven estudiante de 21 años, él vive en San Juan de Miraflores  y
 * Apellidos: Valenzuela Paredes
 * Edad: 20
 * Distrito: Villa el Salvador
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 35:54
 * Duración de la entrevista: 10:31
 
@@ -318,7 +318,7 @@ Aldhair utiliza principalmente el transporte público y a veces una bicicleta pa
 * Apellidos: Mendivil Quispe
 * Edad: 26
 * Distrito: Villa María del Triunfo
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 46:26
 * Duración de la entrevista: 5:20
 
@@ -336,7 +336,7 @@ Sebastián Flores entrevistó a Juan, quien reside en José Gálvez Villa, Marí
 * Apellidos: Loaiza Gallegos
 * Edad: 24
 * Distrito: San Borja
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 51:46
 * Duración de la entrevista: 5:56
 
@@ -352,7 +352,7 @@ La entrevista fue realizada a Rodrigo Loaiza, un residente de San Borja y trabaj
 * Apellidos: Velarde Ninahuamán
 * Edad: 24
 * Distrito: San Juan de Lurigancho
-* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
+* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
 * Inicio de entrevista: 57:42
 * Duración de la entrevista: 7:43
 
