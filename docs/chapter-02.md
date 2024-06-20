@@ -175,63 +175,66 @@
 
 #### Entrevistas segmento 01: Owner (Propietarios de vehículos)
 1. ¿Cual es tu nombre completo? 
-2. ¿Cuántos años tienes? 
-3. ¿En que distrito resides actualmente?
-4. ¿Para trabajar que dispositivo se le hace mas comodo?
+2. ¿Cuántos años tienes? ¿En que distrito resides actualmente?
+3. ¿En que sector se desempeña laboralmente? ¿Que funciones realizas?
+4. ¿Para trabajar que dispositivo se le hace mas comodo? ¿Que marca es?
 5. ¿Que navegador web prefiere utilizar en su dia a dia y por qué? 
-6. ¿Hace cuantos años te dedicas a rentas sus vehiculos? 
-7. ¿Que estrategia de marketing haces a las personas nuevas para que te alquilen tu vehiculo? 
-8. ¿Como manejas las tarifas para tus vehiculos? 
-9. ¿Cómo te gustaría que sean las tarifas de alquiler? 
-10. ¿Manejas algún limite o reglas para las personas que te alquilan? 
-11. ¿Como te contactas con tus clientes o personas quienes te alquilan? 
-12. ¿Que haces cuando tu vehiculo se malogra? 
-13. ¿Tienes un límite de tiempo o distancia para el alquiler? 
-14. ¿Usualmente, que equipos electrónicos usas con mayor frecuencia? 
-15. Según nuestro proyecto mensionado, ¿Que te parece la idea? 
-16. ¿Usarías nuestra aplicación web? 
-17. ¿Qué te parecería poder visualizar la identidad del cliente? 
-18. ¿Qué te parecería poder visualizar el historial de rentas del cliente? 
-19. ¿Qué medidas de seguridad deben tener en cuenta los usuarios al usar los vehículos? 
-20. ¿Cuentas con algún tipo de seguro? 
-21. ¿Te gustaría que ofrezcamos algún tipo de seguro? 
-22. ¿Dónde te gustaría entregar tus vehículos? 
-23. ¿Cuáles son tus expectativas en cuanto a la cantidad de reservas a través de la aplicación? 
-24. ¿Con qué frecuencia te gustaría alquilar tus vehículos? 
-25. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
+6. ¿Que medios informativos usa con mayor frecuencia? ¿Y de entretenimiento? 
+7. ¿Hace cuantos años te dedicas a rentas sus vehiculos? 
+8. ¿Que estrategia de marketing haces a las personas nuevas para que te alquilen tu vehiculo? 
+9. ¿Como manejas las tarifas para tus vehiculos? 
+10. ¿Cómo te gustaría que sean las tarifas de alquiler? 
+11. ¿Manejas algún limite o reglas para las personas que te alquilan? 
+12. ¿Como te contactas con tus clientes o personas quienes te alquilan? 
+13. ¿Que haces cuando tu vehiculo se malogra? 
+14. ¿Tienes un límite de tiempo o distancia para el alquiler? 
+15. ¿Usualmente, que equipos electrónicos usas con mayor frecuencia? 
+16. Según nuestro proyecto mensionado, ¿Que te parece la idea? 
+17. ¿Usarías nuestra aplicación web? 
+18. ¿Qué te parecería poder visualizar la identidad del cliente? 
+19. ¿Qué te parecería poder visualizar el historial de rentas del cliente? 
+20. ¿Qué medidas de seguridad deben tener en cuenta los usuarios al usar los vehículos? 
+21. ¿Cuentas con algún tipo de seguro? 
+22. ¿Te gustaría que ofrezcamos algún tipo de seguro? 
+23. ¿Dónde te gustaría entregar tus vehículos? 
+24. ¿Cuáles son tus expectativas en cuanto a la cantidad de reservas a través de la aplicación? 
+25. ¿Con qué frecuencia te gustaría alquilar tus vehículos? 
+26. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
 
 #### Entrevistas segmento 2: Client(Harán uso del servicio)
 1. ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente? ¿A qué te dedicas?
-2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por que?
+2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por que? ¿Que marca es?
 3. ¿Que navegador web prefiere utilizar en su dia a dia y por qué? 
-4. ¿Qué medios de transporte utilizas con mayor frecuencia? 
-5. ¿Cuánto tiempo dedicas a desplazarte en el transporte diariamente?¿Qué tipo de transporte es? 
-6. ¿Cuáles son los mayores desafíos que enfrentas con tu transporte actual? 
-7. ¿Cuánto dinero aproximadamente gasta al mes en transporte convencional?¿Qué tan satisfecho estás con el servicio que este te ofrece? 
-8. ¿Qué te parecería contar con un servicio de vehículos alternativos como las bicicletas o scooters? 
-9. ¿Qué tipo de vehículos preferirías alquilar (bicicletas, scooters, patinetas eléctricas, etc.)? 
-10. ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos? 
-11. ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio? 
-12. ¿Qué te parece la idea de incluir el mantenimiento del vehículo en la suscripción? 
-13. ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico? 
-14. ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos? 
-15. ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad? 
-16. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
+4. ¿Que medios informativos usa con mayor frecuencia? ¿Y de entretenimiento? 
+5. ¿Qué medios de transporte utilizas con mayor frecuencia? 
+6. ¿Cuánto tiempo dedicas a desplazarte en el transporte diariamente?¿Qué tipo de transporte es? 
+7. ¿Cuáles son los mayores desafíos que enfrentas con tu transporte actual? 
+8. ¿Cuánto dinero aproximadamente gasta al mes en transporte convencional?¿Qué tan satisfecho estás con el servicio que este te ofrece? 
+9. ¿Qué te parecería contar con un servicio de vehículos alternativos como las bicicletas o scooters? 
+10. ¿Qué tipo de vehículos preferirías alquilar (bicicletas, scooters, patinetas eléctricas, etc.)? 
+11. ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos? 
+12. ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio? 
+13. ¿Qué te parece la idea de incluir el mantenimiento del vehículo en la suscripción? 
+14. ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico? 
+15. ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos? 
+16. ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad? 
+17. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
 
 #### Entrevistas segmento 3: Mantenimiento(Mecánicos que darán mantenimiento)
-1. ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente?¿En qué distrito se encuentra su centro de labores?
-2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por que? 
-3. ¿Que navegador web prefiere utilizar en su dia a dia y por qué? 
-4. ¿Con qué frecuencia recibe vehículos menores para su reparación o mantenimiento? 
-5. ¿Qué tipo de reparaciones o mantenimiento haces mayormente? 
-6. ¿Cuánto es el tiempo aproximado que le toma realizar un mantenimiento? 
-7. ¿Qué servicios adicionales relacionados con la reparación o mantenimiento de vehículos valorarías? 
-8. ¿Cómo te gustaría que sean las tarifas de mantenimiento y/o reparaciones? 
-9. ¿Actualmente cómo le comunicas a propietarios o clientes al finalizar el mantenimiento? 
-10. ¿Qué tipo de servicios de reparación prefieres realizar en vehículos menores? 
-11. ¿Qué incentivos considera más atractivos para participar en un programa de mantenimiento de vehículos menores dentro de un servicio de alquileres? 
-12. ¿Hay alguna característica que te gustaría ver implementado en la aplicación?
-
+1. ¿Cuál es tu nombre? ¿Cuántos años tienes? 
+2. ¿Dónde vives actualmente? ¿A qué te dedicas? ¿En qué distrito se encuentra tu centro de labores? 
+3. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué? ¿Qué marca son? 
+4. ¿Qué navegador web prefieres utilizar en tu día a día y por qué? 
+5. ¿Qué medios informativos usas con mayor frecuencia? ¿Y de entretenimiento? 
+6. ¿Qué aspectos de tu trabajo actual disfrutas menos y por qué? 
+7. ¿Con qué frecuencia recibes vehículos menores para su reparación o mantenimiento? 
+8. ¿Qué tipo de reparaciones o mantenimiento haces mayormente? 
+9. ¿Cuánto tiempo aproximado te toma realizar un mantenimiento? 
+10. ¿Qué servicios adicionales relacionados con la reparación o mantenimiento de vehículos valorarías? 
+11. ¿Cómo le comunicas a los propietarios o clientes al finalizar el mantenimiento? 
+12. ¿Qué tipo de servicios de reparación prefieres realizar en vehículos menores? 
+13. ¿Qué incentivos consideras más atractivos para participar en un programa de mantenimiento de vehículos menores dentro de un servicio de alquileres? 
+14. ¿Hay alguna característica que te gustaría ver implementada en la aplicación?
 - - -
 ### 2.2.2. Registro de entrevistas.
 En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
@@ -250,7 +253,7 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 
 **Informe del resumen de la entrevista:**
 
-Francisco Mogollon es un adulto de 34 años que vive en Barranco, el cuenta actualmente con un vehículo motorizado y una bicicleta, a el le gustaria alquilar vehiculos menores tomando en cuenta el precio de los vehículos y le gustaría cobrar por hora, el no cuenta con una experiencia previa pero le gustaría entrar en este sector. El nos comenta que sería bueno que la aplicación cuente con un sistema de tarifas que se ofrezcan a los owners por sus vehículos y que cuente con un sector de análisis de mercado, en el cual se muestre cuales son los vehículos con más demanda para quizás, en un futuro, poder invertir. Además, nos comenta que sería bueno que se limite el rango de uso del vehículo, osea, que este dentro de un límite de distancia al sector donde se alquila. El también estaría de acuerdo con que la aplicación cubra los gastos de mantenimiento y que la aplicación pueda mostrar quien es el cliente y cuál es su historial. A él le gustaría que la aplicación sea intuitiva para el owner y el usuario para su fácil manejo.
+Francisco Mogollon es un adulto de 34 años que vive en Barranco, actualmente trabaja en el sector empresarial, cumple la funcion de supervisor del area de logistica en tiendas metro. Sus dispositivos de preferencia son el celular android y laptop con windows. El navegador que usa con mayor frecuencia es chrome, tiene preferencia por la marca samsung para dispositivos moviles y lenovo en dispositivos de escritorio o portatiles. Sus canales informativos favoritos son television y redes sociales como facebook. Asimismo, para entretenimiento usa tiktok e instagram. El cuenta actualmente con un vehículo motorizado y una bicicleta, a el le gustaria alquilar vehiculos menores tomando en cuenta el precio de los vehículos y le gustaría cobrar por hora, el no cuenta con una experiencia previa pero le gustaría entrar en este sector. El nos comenta que sería bueno que la aplicación cuente con un sistema de tarifas que se ofrezcan a los owners por sus vehículos y que cuente con un sector de análisis de mercado, en el cual se muestre cuales son los vehículos con más demanda para quizás, en un futuro, poder invertir. Además, nos comenta que sería bueno que se limite el rango de uso del vehículo, osea, que este dentro de un límite de distancia al sector donde se alquila. El también estaría de acuerdo con que la aplicación cubra los gastos de mantenimiento y que la aplicación pueda mostrar quien es el cliente y cuál es su historial. A él le gustaría que la aplicación sea intuitiva para el owner y el usuario para su fácil manejo.
 
 ### Entrevista 2:
 
