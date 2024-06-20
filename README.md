@@ -196,35 +196,90 @@ del ABET – EAC - Student Outcome 5.
 <table>
   <tbody>
     <tr>
-      <td>**Criterio específico**</td>
-      <td>**Acciones realizadas**</td>
-      <td>**Conclusiones**</td>
+      <td><b>Criterio <br/>específico</b></td>
+      <td><b>Acciones realizadas</b></td>
+      <td><b>Conclusiones</b></td>
     </tr>
     <tr>
-      <td>Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+      <td>Particia en <br/>equipos multidiciplinarios <br/> con eficacia,<br/> eficiencia y <br/>objetividad, en<br/> el marco de un <br/>proyecto en <br/>soluciones de <br/>ingeniería de <br/>software.</td>
       <td>
         <ul>
-          <li>Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo<br/>*TP1*<br/>Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend.</li>
-          <li>Jara Benites, Quique Vladimir<br/>*TB1*<br/>Organización y coordinación para el desarrollo del Lean UX junto con los miembros<br/>*TP1*<br/>Implementación del las cards para la visualización de vehículos en vite y vue</li>
-          <li>Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Desarrollo de la landing page<br/>*TP1*<br/>Desarrollo del front end</li>
-          <li>Aru Acevedo, Yair Christofer<br/>*TB1*<br/>Participe en las reuniones del equipo para la asignación del trabajo.  Realice algunos puntos en el capítulo 4.<br/>*TP1*<br/>Se corrigió diferentes puntos del capítulo 4 y 5. Se añadió nuevas historias de usuario y otras se modificaron.</li>
-          <li>Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>Realice el desarrollo de las user stories, product backlog, impact maps y la sección about de el landing page <br/>*TP1*<br/>Realice la corrección completa del Sprint 1, ademas se colocó una versión temprana del Sprint 2</li>
+          <li>
+            <b>Flores Manrique, Sebastian Enrique<br/>
+            TB1</b><br/>
+            Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo<br/>
+            <b>TP1</b><br/>
+            Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend.
+          </li> <br>
+          <li>
+            <b>Jara Benites, Quique Vladimir<br/>
+            TB1</b><br/>
+            Organización y coordinación para el desarrollo del Lean UX junto con los miembros<br/>
+            <b>TP1</b><br/>
+            Implementación del las cards para la visualización de vehículos en vite y vue.
+          </li> <br/>
+          <li>
+            <b>Velarde Gonzales, Nestor Hernán<br/>TB1</b><br/>
+            Desarrollo de la landing page<br/>
+            <b>TP1</b><br/>
+            Desarrollo del front end
+          </li> <br/>
+          <li>
+          <b>Aru Acevedo, Yair Christofer<br/>TB1</b><br/>
+          Participe en las reuniones del equipo para la asignación del trabajo.  Realice algunos puntos en el capítulo 4.<br/>
+          <b>TP1</b><br/>Se corrigió diferentes puntos del capítulo 4 y 5. Se añadió nuevas historias de usuario y otras se modificaron.
+          </li> <br/>
+          <li>
+            <b>Hurtado Palomino, Francisco Juan<br/>TB1</b><br/>
+            Realice el desarrollo de las user stories, product backlog, impact maps y la sección about de el landing page <br/>
+            <b>TP1</b><br/>Realice la corrección completa del Sprint 1, ademas se colocó una versión temprana del Sprint 2
+          </li> <br/>
         </ul>
       </td>
-      <td>Esta experiencia nos ha proporcionado una comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.</td>
+      <td>Esta experiencia<br/> nos ha proporcionado<br/> una comprensión <br/>sólida de cómo <br/>trabajar en equipo<br/> para desarrollar<br/> software de alta <br/>calidad que satisfaga<br/> las necesidades <br/>de los usuarios<br/> y del negocio.</td>
     </tr>
     <tr>
-      <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+      <td>Conoce al <br/>menos<br/> un sector <br/>empresarial o <br/>dominio de <br/>aplicación de <br/>soluciones de <br/>software.</td>
       <td>
         <ul>
-          <li>Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>*TP1*<br/>Leí la documentación de las herramientas a usar como PrimeVue y PrimeFlex.</li>
-          <li>Jara Benites, Quique Vladimir<br/>*TB1*<br/>Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>*TP1*<br/>Implementación de cards para mejorar la experiencia de usuario y seguir las tendencias de mercado</li>
-          <li>Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas.<br/>*TP1*<br/>Desarrollé y colaboré con mis compañeros en el capítulo 05, realicé mejoras en el Cap. 04 sobre los diseños de wireframes y Mock-Ups de landing y aplicaciones web.</li>
-          <li>Aru Acevedo, Yair Christofer<br/>*TB1*<br/>Realice las entrevistas a posibles usuarios de nuestro servicio.<br/>*TP1*<br/>Realice algunos puntos del landing page.</li>
-          <li>Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>Realice una recolección de información para la creación de las 31 user stories presentadas.<br/>*TP1*<br/>Estuve al tanto del desarrollo y la creación de los repositorios presentados para su correcta presentación, ademas corregí varios errores presentados en la anterior entrega</li>
-        </ul>
+  <li>
+    <b>Flores Manrique, Sebastian Enrique<br/>
+    TB1</b><br/>
+    Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>
+    <b>TP1</b><br/>
+    Leí la documentación de las herramientas a usar como PrimeVue y PrimeFlex.
+  </li> <br/>
+  <li> 
+    <b>Jara Benites, Quique Vladimir<br/>
+    TB1</b><br/>
+    Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>
+    <b>TP1</b><br/>
+    Implementación de cards para mejorar la experiencia de usuario y seguir las tendencias de mercado
+  </li> <br/>
+  <li>
+    <b>Velarde Gonzales, Nestor Hernán<br/>
+    TB1</b><br/>
+    Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas.<br/>
+    <b>TP1</b><br/>
+    Desarrollé y colaboré con mis compañeros en el capítulo 05, realicé mejoras en el Cap. 04 sobre los diseños de wireframes y Mock-Ups de landing y aplicaciones web.
+  </li> <br/>
+  <li>
+    <b>Aru Acevedo, Yair Christofer<br/>
+    TB1</b><br/>
+    Realicé las entrevistas a posibles usuarios de nuestro servicio.<br/>
+    <b>TP1</b><br/>
+    Realicé algunos puntos del landing page.
+  </li> <br/>
+  <li>
+    <b>Hurtado Palomino, Francisco Juan<br/>
+    TB1</b><br/>
+    Realicé una recolección de información para la creación de las 31 user stories presentadas.<br/>
+    <b>TP1</b><br/>
+    Estuve al tanto del desarrollo y la creación de los repositorios presentados para su correcta presentación, además corregí varios errores presentados en la anterior entrega.
+  </li>
+</ul>
       </td>
-      <td>La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.</td>
+      <td>La experiencia en <br/>la investigación <br/>del negocio demostró<br/> nuestra capacidad <br/>para comprender y <br/>aplicar conocimientos <br/>específicos del sector<br/> en la creación<br/> de soluciones <br/>tecnológicas efectivas.</td>
     </tr>
   </tbody>
 </table>
