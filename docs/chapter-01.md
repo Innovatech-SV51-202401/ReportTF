@@ -7,189 +7,307 @@ soluciones tanto para usuarios que buscan vehículos para fines de actividades d
 es facilitar el acceso a vehículos ligeros de forma segura y conveniente para nuestros usuarios, nuestro sitio web ofrecerá una experiencia excepcional, 
 garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehículos. 
 
-|                                                     Misión                                                    	|                                                     Visión                                                     	|                                                           Valores                                                          	|
-|:-------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------------------:	|
-| Transformar la movilidad urbana y recreativa con un acceso conveniente y seguro a vehículos menores o ligeros 	| Ser líderes en el mercado de movilidad sostenible ofreciendo una amplia gama de opciones de vehículos menores. 	| Innovación: La innovación constante para ofrecer soluciones creativas. Calidad: Buscamos la exelencia en nuestro producto. 	|
+<table>
+	<tbody>
+		<tr>
+			<td>Misión</td>
+			<td>Visión</td>
+			<td>Valores</td>
+		</tr>
+		<tr>
+			<td>Transformar la movilidad urbana y recreativa con un acceso conveniente y seguro a vehículos menores o ligeros 	</td>
+			<td>Ser líderes en el mercado de movilidad sostenible ofreciendo una amplia gama de opciones de vehículos menores. 	</td>
+			<td>Innovación: La innovación constante para ofrecer soluciones creativas. Calidad: Buscamos la exelencia en nuestro producto. 	</td>
+		</tr>
+	</tbody>
+</table>
 
 ### 1.1.2. Perfiles de integrantes del negocio
 
-| 	                                                                                   | Miembros del equipo               	| Código de estudiante 	| Carrera                	| Conocimientos/Habilidades                                                                                                                                                                                                                                                                                                                                                      	|
-|-------------------------------------------------------------------------------------|-----------------------------------	|----------------------	|------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| <img src="../assets/members-profile/Velarde.jpg" alt="Imagen del compañero">	  | Velarde Gonzales Néstor Hernán    	| u20211c221	| Ingeniería de Software 	| Estudiante de la carrera de Ingeniería de Software, actualmente cursando el Quinto ciclo con especialización en el desarrollo de software y la automatización industrial, poseo habilidades avanzadas en diversos lenguajes de programación y base de datos SQL. Tengo la capacidad demostrada para colaborar eficazmente en proyectos multidiciplinarios y trabajo en equipo. 	|
-| <img src="../assets/members-profile/yair.jpg" alt="Imagen del compañero" >	 | Aru Acevedo Yair Christofer       	| u202125984           	| Ingeniería de Software 	|                                                                                                                                                                                                                                                                                                                                                                                	|
-| <img src="../assets/members-profile/Vladimir.jpg" alt="Imagen del compañero" >	     | Jara Benites Quique Vladimir      	| u202022365           	| Ingeniería de Software 	| Conocimiento intermedio en el lenguaje de programación C++, Java, HTML, y UML. Habilidades que puede aportar en el equipo: participación comunicativa, creatividad, análisis de problemas.                                                                                                                                                                                     	|
-| <img src="../assets/members-profile/Francisco.jpg" alt="Imagen del compañero" >	    | Hurtado Palomino Francisco Juan   	| u202117498           	| Ingeniería de Software 	| Conocimiento intermedio en lenguajes de C++, HTML y CSS. Para aportación al equipo cuenta con conocimientos en edición de videos y exposiciones.                                                                                                                                                                                                                               	|
-| <img src="../assets/members-profile/sebastian.jpeg" alt="Imagen del compañero" >	 | Flores Manrique Sebastian Enrique 	| u201611430           	| Ingeniería de Software 	| Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                        	|
-| <img src="../assets/members-profile/Omar.jpg" alt="Imagen del compañero" >	 | Omar Christian Berrocal Ramirez 	| u20201b529           	| Ingeniería de Software 	| Mi nombre es Omar Christian Berrocal Ramirez, estudiante de la carrera ingeniería de Software. Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías.  | Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.                                                                        	|
+<table>
+    <tbody>
+        <tr>
+            <td><img src="../assets/members-profile/Velarde.jpg" alt="Imagen de Néstor Hernán Velarde"></td>
+            <td>Velarde Gonzales Néstor Hernán</td>
+            <td>u20211c221</td>
+            <td>Ingeniería de Software</td>
+            <td>Estudiante de Ingeniería de Software, cursando el Quinto ciclo con especialización en desarrollo de software y automatización industrial. Habilidades en varios lenguajes de programación y bases de datos SQL. Experiencia en proyectos multidisciplinarios y trabajo en equipo.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/yair.jpg" alt="Imagen de Yair Christofer Aru"></td>
+            <td>Aru Acevedo Yair Christofer</td>
+            <td>u202125984</td>
+            <td>Ingeniería de Software</td>
+            <td>Manejo intermedio de C++, y conocimientos básicos en HTML, Python y Java. Experiencia en SQL y MongoDB.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/Vladimir.jpg" alt="Imagen de Vladimir Jara"></td>
+            <td>Jara Benites Quique Vladimir</td>
+            <td>u202022365</td>
+            <td>Ingeniería de Software</td>
+            <td>Conocimientos técnicos en JavaScript, PHP, NodeJs, SQL y MongoDB. Habilidades en comunicación, creatividad, resolución de problemas, adaptabilidad y toma de decisiones para el trabajo en equipo.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/Francisco.jpg" alt="Imagen de Francisco Juan Hurtado"></td>
+            <td>Hurtado Palomino Francisco Juan</td>
+            <td>u202117498</td>
+            <td>Ingeniería de Software</td>
+            <td>Conocimiento intermedio en C++, HTML y CSS. Experiencia en edición de videos y presentaciones.</td>
+        </tr>
+        <tr>
+            <td><img src="../assets/members-profile/sebastian.jpeg" alt="Imagen de Sebastian Enrique Flores"></td>
+            <td>Flores Manrique Sebastian Enrique</td>
+            <td>u201611430</td>
+            <td>Ingeniería de Software</td>
+            <td>Estudiante de Ingeniería de Software, actualmente en el quinto ciclo. Conocimientos en C++, Python y desarrollo web. Responsable y dispuesto a colaborar en equipo.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Nuestra capital Lima, es una de las ciudades con ayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. 
 
-Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
+Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial.
 
+Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.
 
-#### Who (Quienes)
+- #### What (Qué)
 
-¿Quienes somos?
+El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.
 
-Somos una startup tecnológica compuesta por estudiantes de la Universidad Peruana de Ciencias Aplicadas que buscamos solucionar problemáticas con tecnologías de software. 
+- #### When (Cuándo)
 
-¿Quiénes son los usuarios?
+¿Cuándo estamos viendo el problema?</br>
+El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.
 
-Nuestros usuarios van dirigida a tres segmentos, como primer segmento son personas de mayores a 18 años que buscan soluciones de movilidad urbana más eficiente, ecológico y sostenible en nuestra ciudad de Lima, asi como transportarse o ámbito deportivo, el segundo segmento son personas interesadas en poner de alquiler de sus vehículos menores ya se a moto electrico, bicicleta para uso común o deportivo, skateboard, y finalmente personas con especialidades en mecánica,
+- #### Where (Dónde)
 
-#### What (Qué)
+¿Dónde estamos viendo los problemas?</br>
+El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.
 
-¿Qué hacemos?
+- #### Who (Quienes)
 
+¿A quien le sucede?</br>
+El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.
 
-Desarrollamos una aplicación web que facilite la reserva y mantenimiento de vehículos ligeros como bicicletas, skateboards, scooter y motos eléctricas para la movilidad urbana en Lima. 
+- #### Why (Por qué)
 
+¿Por qué sucede el problema?</br>
+La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.
 
-¿Qué problema abordamos?
-Abordamos la congestión de tráfico vehicular en nuestra capital Lima, la ineficiencia en el transporte existe mucho caos especialmente en horas puntas.	
-		  
-#### When (Cuándo)
-  
-¿Cuándo sucede el problema?  
+- #### How (Cómo)
 
-Esta problemática sucede en horas puntas con mayor frecuencia y en algunas fechas de festividades.
+¿Cómo se diferencia el problema del estado normal?</br>
+Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
 
+- #### How much (Cuánto)
 
-¿Cuándo utiliza el cliente el producto?  
-
-Nuestro usuario puede optar por nuestro servicio en el momento necesario para desplazarse en nuestra ciudad, ya sea para evitar pérdida de tiempo o para ahorro de dinero. 
-
-#### Where (Dónde) 
-  
-¿Dónde está el cliente cuando usa el producto?  
-
-
-En cualquier parte de Lima metropolitana y que desea optar por un transporte sostenible. 
-
-
-¿Dónde surge el problema? 
-
-Surge en la mayor parte en vías de tránsito con mayor afluencia, sobre todo en las horas puntas (Mañana o tarde).
-	
-
-
-#### Why (Por qué)  
- 
-¿Por qué se genera el problema? 
-
-Genera por varios impactos, sea por mala infraestructura de vías de tránsito y por otro lado por conductores imprudentes que existen.
- 
-¿Por qué desarrollamos la aplicación?
-
-Desarrollamos para mejorar la calidad de vida de las personas y motivar el transporte ecológico para el cuidado del medio ambiente.   
-
-#### How (Cómo)  
- 
-¿Cómo funciona la aplicación web?
-
-La aplicación web permite a nuestros usuarios reservar y acceder a los vehículos ligeros garantizando la disponibilidad y seguridad y mantenimiento óptimo. 
-
-¿Cómo llegaremos a más clientes? 
-
-Optamos por publicidades en diferentes plataformas digitales como facebook, tiktok, instagram y otros. 
-  
-#### How much (Cuánto) 
-
-¿Cuánto costará utilizar la aplicación web?
-
-Los costos pueden variar según el tipo de membresías o servicios seleccionados, contamos con tres diferentes suscripciones (suscripción semanal, mensual y trimestral) cada opciones cuenta con servicios especiales. 
-
+¿Cuánto dinero están implicando? </br>
+La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
-#### Problem Statement 1
-En nuestra ciudad de Lima, el tráfico se ha convertido en un problema crítico que afecta la calidad de vida y pérdida de tiempo de muchos usuarios principalmente en horas puntas del día.
-Según el diario el comercio menciona, a nivel general, en los últimos años los niveles de congestión vehicular se elevaron en comparación con el año anterior, como consecuencia del paulatino retorno a las actividades presenciales en todo el mundo post pandemia.
-“Del mismo modo, el dinero que gasta en combustible por manejar en las horas más congestionadas suma S/ 2,231 al año, de los cuales S/ 582 es el gasto adicional causado por la congestión. Además, las emisiones de CO2 producidas anualmente por un auto que se moviliza en hora punta es de 990 kg., de los cuales 258 kg corresponde al tiempo adicional que se genera por la congestión”, así lo señaló Alberto Morisaki.
+En el estado actual de el alquiler de vehiculos menores, se ha centrado principalmente en los usuarios que necesitan un transporte alternativo con garantia o usuarios que deseen generar un ingreso extra alquilando sus vehiculos.
 
-¿Cómo podemos implementar un sistema de transporte alternativo eficiente, y moderno en nuestra ciudad de Lima?
+Lo que los servicios existentes no logran abordan es el seguimiento de uso, cobertura amplia, mantenimiento y la posbilidad de un ingreso de dinero adicional.
 
-#### Problem Statement 2
-Según un informe de Cuore, hay un gran sector de la población que no ve futuro a este tipo de transporte debido a que no creen en la revolución de los micro movilidad. Eso se ve reflejado en que el porcentaje de interés en adquirir o rentar un vehículo liviano o eléctrico entre los años 2021 y 2022 ha crecido muy levemente mostrando el poco interés de las personas por este tipo de vehículos livianos. Asimismo, el porcentaje de personas que rechazan más este tipo de vehículos livianos, son las personas mayores mostrando que mientras más años tenga una persona, más rechazo tiene a la idea ya que tienden a preferir utilizar transporte público o vehículos privado donde la mayor parte de ellos se encuentra.
-¿Cómo podemos lograr que las personas opten por usar este medio de transporte?
+Nuestro servicio abordara esta brecha al ofrecer un producto web enfocado en la reserva de vehiculos menores.
 
-#### Problem Statement 3
-Según un informe de Datum 5 de cada 10 peruanos sufren para llegar a fin de mes. El alza del costo de vida se ve reflejado en el costo promedio diario de pasajes en el transporte que actualmente es de más de 12 soles. Asimismo, el pasaje todos los años sube un 5.5%. Según un informe de Infobae de 2023 el gasto mensual en pasajes se ha aumentado en casi 100 soles desde 2010
+Nuestro enfoque inicial sera el segmento de personas que desean alquilar un vehiculo menor para sus actividades diarias o recreativas.
 
-¿Cómo podemos ayudar a las personas de Lima metropolitana a reducir sus gastos en transporte público?
+Sabremos que tenemos exito cuando veamos una reduccion en el gasto mensual de transporte de nuestros usuarios de un 30% y una reduccion de tiempo de al menos 6 horas semanales.
 
 #### 1.2.2.2. Lean UX Assumptions.
 ##### Business outcomes: 
 
+Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
 
-- Los usuarios de la aplicación están dispuestos a rentar el servicio.
-- Los usuarios deben poder visualizar la distancia y tiempo recorrido.
-- Los usuarios de la aplicación están dispuestos a usar las medidas de seguridad al transportarse.
+1. Adquisicion:
+- Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
+- Porcentaje de propietarios que publican al menos un vehiculo en la plataforma
+- Porcentaje de mecanicos que completan su registro en la plataforma
+2. Activacion:
+- Porcentaje de usuarios que completan el proceso de reserva de un vehiculo en los primeros 7 dias de registro.
+- Porcentaje de vehiclulos registrados que reciben al menos una solicitud de alquiler.
+- Porcentaje de mecanicos que completan su primer servicio dentro de los 7 dias de registro.
+3. Retencion:
+- Porcentaje de usuarios que realizan al menos 3 solicitudes de alquiler por semana.
+- Porcentaje de propietarios que mantienen al menos un vehiculo activo en la plataforma durante tres meses consecutivos.
+- Porcentaje de mecanicos que reciben por lo menos 5 solicitudes de reparacion a la semana
+4. Ingresos:
+- Ingresos mensuales por suscripciones de arrendatarios
+- Ingresos mensuales por comisiones de alquiler
+- Ingresos mensuales por comisiones de servicios de reparaciones
 
+Usando estas metricas se evaluaron los siguientes outcomes:
+- Aumento en el número total reservas por parte de nuevos usuarios.
+- Mejora en la utilización de vehículos, reduciendo los períodos de inactividad y aumentando la rentabilidad por vehículo.
+- Lograr un crecimiento significativo en los ingresos mensuales por suscripciones de arrendatarios y comisiones de alquiler
+- Reducir al menos en un 30% el tiempo de viaje diario de los usuarios.
 
-- Los usuarios pueden visualizar cuánto han ahorrado en transporte.
-
-
-- Los usuarios son notificados cuando llegan el limite de su suscripción. 
-
-
-- Los usuarios pueden visualizar qué calles tienen mayor afluencia de tráfico.
-
-
-- Los mecánicos pueden recibir notificaciones de reportes de fallas de vehículos menores por parte de usuarios. 
-
-
-- Los usuarios pueden reportar fallas mecánicas en tiempo real mediante la aplicación web. 
-
-
-- La aplicación debe ser compatible con múltiples plataformas.
-
-
- - Los usuarios pueden visualizar los vehículos disponibles. 
- 
 ##### User assumptions 
 
+Proto persona cliente
 
-- ¿Quién es el usuario? 
-Estudiantes y trabajadores que se transportan diariamente en lima metropolitana 
-- ¿Dónde encaja nuestro producto en su trabajo o vida? 
-El sistema está disponible en actividades de trabajos diarios o de relajamiento de cada persona. 
-- ¿Qué problema tiene nuestro producto? ¿Cómo se resuelve? 
-No es muy bien recibido por las personas mayores. 
+<table>
+    <tbody>
+        <tr>
+            <td><img src="../assets/metrics-mountain/proto-persona-cliente.jpg"><br>Nombre: Maria Gonzales<br> Ocupacion: estudiante universitaria</td>
+            <td>Demografia:<br>Edad:23 años<br>Ubicacion: Surco, Lima<br> Psicografia: <br>Estilo de vida activo, siempre entre su hogar, la universidad y trabajo a tiempo parcial<br>Actitudes: Preocupada por el medio ambiente y sostenibilidad</td>
+        </tr>
+        <tr>
+            <td colspan="2">Metas: Reducir el tiempo y el estres asociados con los desplazamientos diarios en Lima. <br>Ahorrar dinero de transporte para destinarlo a otros gastos.<br>Necesidades: Acceso a opciones de trasnporte flexibles y economicas que se adapten a su horario universitario laboral. <br>Un medio de transporte confiable y seguro que le permita llegar puntualmente a sus compromisos.<br>Resultados Deseados: Disminucion del tiempo de viaje y aumento de la eficiencia.<br>Obstaculos: Limitaciones financieras que podrian dificultarle acceder a soluciones de transporte mas comodas o menos estresantes<br>Preocupaciones sobre disponibildiad y confiabilidad de opciones de transporte alternativas en Lima</td>
+        </tr>
+    </tbody>
+</table>
+
+Assumtions:
+- Los estudiantes universitarios como maria valoran la economia y la flexibilidad en las opciones de transporte.
+- Los jovenes como Maria estan interesados en opciones de transporte que les ayude en reducir el tiempo y el estres al movilizarse .
 
 
-- ¿Cuándo y cómo es usado nuestro producto? 
-Se puede usar por diferentes razones como actividades de trabajos, estudios, casuales o en actividades del deporte. 
- 
-- ¿Qué características son importantes? 
-El ahorro de tiempo y dinero. 
-- ¿Cómo debe verse nuestro producto y comportarse? 
-Como un tipo de transporte amigable con el medio ambiente y económico a largo plazo.
+Proto persona Owner
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="../assets/metrics-mountain/proto-persona-owner.png"><br>Nombre: Juana Lopez <br> Ocupacion: Teleoperadora<br> Rol: Propietaria de uno o mas vehiculos menores</td>
+            <td>Demografia<br>Edad:27 años<br>Ubicacion: San Miguel,Lima<br> Psicografia: Estilo de vida activo y ocupado, equilibrando el trabajo y la vida personal<br>Actitudes: Interesada en maximizar sus ingresos y buscar oportunidades de inversion rentables sin sacrificar tiempo</td>
+        </tr> 
+        <tr>
+            <td colspan="2">Metas: Generar ingresos adicionales a traves del alquiler de sus vehiculos.<br>Aprovechar al maximo la inversion en su vehiculo para ahorrar y comprar su departamento. <br>Necesidades: Acceso a una plataforma segura que le permita gestionar el proceso de alquiler y garantizar la seguridad de su propiedad. <br>Soporte y asistencia para resolver sus dudas.<br>Resultados Deseados: Incremento de los ingresos mensuales a traves del alquiler de sus vehiculos.<br>Obstaculos: Preocupaciones sobre la seguridad y mantenimiento de sus vehiculos durante el proceso de alquiler</td>
+        </tr>
+    </tbody>
+</table>
+
+Assumtions:
+- Personas como Juana buscan maximizar el valor de sus activos mediante el alquiler para generar ingresos adicionales.
+- Las personas interesadas en el alquiler de vehiculos menores valoran la seguridad y confiabilidad de la plataforma de alquiler.
+- Las personas interesadas en el  alquiler buscan soluciones que protejan la integridad de sus activos y aseguren una experiencia positiva para sus arrendatarios. 
+
+
+Proto persona mecanico
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="../assets/metrics-mountain/proto-persona-mecanic.png"><br>Nombre: Luis Torres<br> Ocupacion: Mecanico independiente</td>
+            <td>Demografia:<br>Edad:36 años<br>Ubicacion: San Borja, Lima<br> Psicografia: <br>Estilo de vida activo y enfocado en su negocio, dedicando tiempo tanto al trabajo como a la familia<br>Actitudes: Profesional comprometido con la calidad del servicio y la satisfaccion del cliente</td>
+        </tr>
+        <tr>
+            <td colspan="2">Metas: Incrementar el numero de clientes y los ingresos mensuales a traves de la prestacion de servicios en su taller<br>Construir una reputacion solida a traves de un servicio de calidad y confianza.<br>Necesidades:  Acceso a herramientas digitales que le permitan llegar a nuevos usuarios de manera efectiva<br> Herramientas digitales que le permita gestionar sus citas y comunicarse con los clientes de manera efectiva.<br>Resultados Deseados: Aumento de la rentabilidad de su negocio a traves de la generacion de nuevos leads y la satisfaccion de los clientes.<br>Reconocmineto y reputacion como un mecanico confiable y de confianza<br>Obstaculos: Competencia en el mercado de servicios de mantenimiento y reparacion de vehiculos que por lo general esta liderado por empresas grandes</td>
+        </tr>
+    </tbody>
+</table>
+
+Assumtions:
+- La disponibilidad de un sistema de reserva y programación en línea es crucial para los mecánicos independientes como Luis, ya que aumenta la comodidad y la accesibilidad para los clientes.
+- Los mecanicos independientes valoran que los clientes tengan facilidades para llegar a ellos y poder probar su servicio y la posibildiad de generar fidelizacion con el cliente.  
+
+#### User outcomes
+
+Cliente<br>
+¿Qué está intentando lograr el usuario?<br>
+- Reducir el tiempo y el estrés asociados con los desplazamientos diarios en Lima, así como ahorrar dinero en transporte para destinarlo a otros gastos.
+
+¿Cómo quiere sentirse el usuario durante y después de este proceso?<br>
+- Desea sentirse aliviado y menos estresado durante sus viajes diarios, así como satisfecho por haber encontrado una solución económica y confiable para sus necesidades de transporte.
+
+¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?<br>
+- Nuestro servicio de transporte le permite al usuario ahorrar tiempo y dinero, contribuyendo a una mayor eficiencia en su vida diaria y liberando recursos para otros aspectos de su vida.
+
+¿Por qué buscaría su usuario su producto?<br>
+- El usuario busca nuestro producto porque valora la economía y la flexibilidad en las opciones de transporte, y está interesada en soluciones que reduzcan el tiempo y el estrés al movilizarse.
+
+¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?<br>
+- Utiliza regularmente nuestro servicio de transporte para sus desplazamientos diarios, experimentando una disminución en el tiempo de viaje y una mayor sensación de calma y comodidad durante sus trayectos.
+
+Owner<br>
+
+¿Qué está intentando lograr el usuario?
+- Busca generar ingresos adicionales mediante el alquiler de sus vehículos menores para maximizar su inversión y ahorrar para comprar su departamento.
+
+¿Cómo quiere sentirse el usuario durante y después de este proceso?
+- Desea sentirse seguro y confiado en la gestión del proceso de alquiler, así como satisfecho con el incremento de sus ingresos mensuales como resultado de esta actividad.
+
+¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?
+- Nuestra plataforma de alquiler le permite al usuario maximizar el valor de sus activos, brindándole una oportunidad rentable para generar ingresos adicionales y alcanzar sus objetivos financieros.
+
+¿Por qué buscaría su usuario su producto?
+- Busca nuestra plataforma de alquiler porque valora la seguridad, confiabilidad y soporte que proporcionamos, así como nuestra capacidad para proteger la integridad de sus activos y garantizar una experiencia positiva para sus arrendatarios.
+
+¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?
+- Experimenta un aumento en sus ingresos mensuales como resultado del alquiler de sus vehículos, y se siente segura y confiada en la gestión del proceso de alquiler a través de nuestra plataforma.
+
+Mecanico
+
+¿Qué está intentando lograr el usuario?
+- El usuario busca incrementar el número de clientes y los ingresos mensuales de su taller mecánico, así como construir una reputación sólida a través de la prestación de servicios de calidad y confianza.
+
+¿Cómo quiere sentirse el usuario durante y después de este proceso?
+- El usuario desea sentirse satisfecho y exitoso al alcanzar sus metas de negocio, así como reconocido y respetado como un mecánico confiable y de confianza por parte de sus clientes.
+
+¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?
+- Nuestra herramienta digital le permite a Luis llegar a nuevos usuarios de manera efectiva, gestionar sus citas y comunicarse con los clientes de manera eficiente, contribuyendo así al aumento de la rentabilidad de su negocio y a la construcción de una reputación sólida.
+
+¿Por qué buscaría su usuario su producto?
+- El usuario busca nuestra herramienta digital porque valora la conveniencia y accesibilidad que ofrece para los clientes, así como la posibilidad de generar fidelización y satisfacción entre ellos.
+
+¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?
+- El usuario experimenta un aumento en el número de clientes y los ingresos mensuales de su taller mecánico, así como una mejora en su reputación y reconocimiento como un mecánico confiable y de confianza en su comunidad.
+
+
+#### Solutions
+
+Para el planteamiento de las soluciones, se utilizo la herramienta affinity mapping
+
+| Owner                                                            | cliente                                                              | mecanico                                                |
+|------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|
+| Plataforma de gestión de alquiler de vehículos menores	          | Aplicación de reserva de vehículos menores por suscripcion           | Plataforma de gestión de mantenimiento y reparacion     | 
+| Servicio de inspección y mantenimiento	                          | Aplicacion de reserva de bicitaxi	                                   | Servicio de recogida y entrega                        |  
+| Programa de seguro y asistencia en carretera	                    | Programa de fidelización y descuentos en buses de transporte publico	 | Programa de referidos y testimonios                     |
+| Sistema de alertas para mantenimiento preventivo	                | Servicio de asistencia en carretera	                                 | Servicio de diagnóstico remoto                          |
+| Herramientas de seguimiento de ingresos y gastos	                | Rastreo de buses en tiempo real	                                     | Programa de capacitación para propietarios de vehículos |
+| Programa de incentivos para arrendatarios 	                      | Aplicacion de trafico en tiempo real	                                | Sistema de gestión de clientes y seguimiento          |          
+| Asesoramiento legal y administrativo para alquiler de vehiculos	 | 	                                                                    | Herramientas de marketing digital                       |
+
+Despues de la votacion las soluciones que se eligieron fueron:
+
+
+cliente:
+Sistema de reservas de vehiculos menores por suscripcion
+
+owner:
+Plataforma de gestion de alquiler de vehiculos menores con seguro y mantenimiento
+
+mecanico:
+Sistema de gestion de reparaciones y mantenimientos a vehiculos menores para taller.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-| Assumption priorizado: |  (Business Assumptions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Descripcion:           | Creemos que implementar un sistema eficiente y económico, como lo son los vehículos menores, en Lima reducirá significativamente la congestión vehicular, mejorará la calidad de vida de los ciudadanos y reducirá significativamente el tiempo que pasan en el tráfico, al ofrecer una alternativa atractiva y confiable para desplazarse en la ciudad. Sabremos que hemos tenido éxito cuando las personas opten más por usar nuestro servicio en lugar del transporte público y privado |
-| Metrica                |Porcentaje de usuarios que optan por el servicio de vehículos menores en lugar del transporte público y privado.|
 
-| Assumption priorizado: |  (Business Assumptions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Descripcion:           | Creemos que implementar estrategias de educación y concienciación sobre los beneficios ambientales, económicos y de movilidad de los vehículos livianos y eléctricos aumentará la aceptación y adopción de este tipo de transporte, especialmente entre los segmentos de la población que muestran mayor escepticismo, como los adultos mayores, creando así una cultura favorable hacia la micro movilidad y fomentando su uso como una alternativa viable y sostenible en el transporte urbano. Sabremos que hemos tenido exito cuando la aceptación del uso de vehículos menores en personas mayores de 30 años aumente en un 20%. |
-| Metrica                | Incremento porcentual en la aceptación del uso de vehículos menores en personas mayores de 30 años.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+Utilizando los bussines outcomes, proto-persona, user outcomes y solutions se formularon las siguientes hipotesis:
 
-| Assumption priorizado: |  (Business Assumptions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Descripcion:           | Creemos que fomentar el uso de vehículos menores, como bicicletas, scooters eléctricos y patinetes, a través de la implementación de infraestructura adecuada, políticas de promoción y educación vial, así como incentivos financieros, permitirá a los residentes de Lima Metropolitana reducir significativamente sus gastos en transporte, al tiempo que disminuye la dependencia de los servicios de transporte tradicionales y contribuye a una movilidad más sostenible y económica. Sabremos que hemos tenido éxito cuando las personas opten por usar nuestro servicio para economizar en vez del  transporte convencional. |
-| Metrica                | Porcentaje de usuarios que eligen nuestro servicio de vehículos menores como forma de transporte para economizar en comparación con el transporte convencional.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+Cliente:<br>
+Creemos que aumentaremos las reservas de nuevos usuarios.<br>
+Si clientes como María buscan soluciones económicas y flexibles para desplazamientos diarios.<br>
+Lograrán una disminución del tiempo de viaje y mayor comodidad.<br>
+Con nuestra solución de movilidad adaptada a sus necesidades.
+
+Owner:<br>
+Creemos que lograremos la permanencia de nuestros usuarios<br>
+Si nuestros usuarios que valoran la seguridad y confiabilidad de la plataforma de alquiler y buscan soluciones que protejan la integridad de sus activos<br>
+Lograrán un aumento en sus ingresos mensuales como resultado del alquiler de sus vehículos<br>
+Con nuestra plataforma de gestión de alquiler de vehículos menores, que proporciona un sistema seguro y confiable para el alquiler.
+
+Mecanico:<br>
+Creemos que lograremos un aumento en lso ingresos mensuales de los talleres<br>
+Si los mecánicos independientes que buscan construir una reputación sólida a través de la prestación de servicios de calidad y confianza.<br>
+Lograrán un aumento en el número de clientes mensuales de su taller, así como una mejora en su reputación y reconocimiento<br>
+Con nuestro sistema de gestión de reparaciones y mantenimientos a vehículos menores para talleres, que proporciona una herramienta digital eficiente y conveniente para la gestión de citas, comunicación con clientes y aumento de la rentabilidad del negocio.<br>
 
 #### 1.2.2.4. Lean UX Canvas.
-<img src="../assets/Solution-Profile/LeanUxCanvas.png" alt="Lean Ux Canvas">
+<img src="../assets/Solution-Profile/Lean-Ux-Canvas.png" alt="Lean Ux Canvas">
 
 ## 1.3. Segmentos objetivo.
 **Segmento 1**
