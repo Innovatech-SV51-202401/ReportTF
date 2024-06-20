@@ -1,27 +1,61 @@
-<br/> 
-<center><img src="assets/img/UPC.png" width="120" align="center"></center>
-<br/> 
 
-# <center>Universidad Peruana de Ciencias Aplicadas</center>
-## <center>INGENIERÍA DE SOFTWARE</center>
-### <center>Ciclo: 5</center>
-## <center>CURSO: SI730 Aplicaciones Web | SECCIÓN: SV51</center>
-<center> Profesor: Velasquez Nuñez Angel Augusto </center>
+<br/><br/>
+<center>
+<img src="assets/img/UPC.png" width="120">
+</center>
+<br/>
 
-## <center>Informe de TP1</center>
-<center> Nombre del startup: InnovaTech </center>
-<center> Nombre del producto: GlideGo </center>
 
-### <center>Integrantes:</center> <br>
-<center>Jara Benites Quique Vladimir - U202022365</center> <br>
-<center>Velarde Gonzales Nestor H - U20211C221</center> <br>
-<center>Aru Acevedo, Yair Christofer - U202125984</center> <br>
-<center>Flores Manrique Sebastian Enrique - U201611430</center> <br>
-<center>Hurtado Palomino, Francisco Juan - u202117498</center> <br>
-<center>Omar Christian Berrocal Ramirez - u20201b529</center>
+### <center> Universidad Peruana de Ciencias Aplicadas </center>
+### <center> **Ingeniería de software** </center>
+### <center> **Ciclo:** Quinto </center>
+### <center> **CURSO:** SI730 Aplicaciones Web </center>
+### <center> **SECCIÓN:** SV51 </center>
+### <center> **Profesor:** Velasquez Nuñez, Angel Augusto </center> <br/>
+## <center> **Informe de Trabajo Final** </center> <br/>
+### <center> **Nombre del startup:** InnovaTech </center>
+### <center> **Nombre del producto:** GlideGo </center>
 
-## <center>Junio, 2024</center>
+## <center> **Integrantes** </center>
 
+<table align="center">
+	<tbody>
+		<tr>
+			<td><strong>Apellidos, Nombres</strong></td>
+			<td><strong>Código</strong></td>
+		</tr>
+		<tr>
+			<td>Jara Benites Quique Vladimir</td>
+			<td>U202022365</td>
+		</tr>
+		<tr>
+			<td>Velarde Gonzales Nestor H</td>
+			<td>U20211C221</td>
+		</tr>
+		<tr>
+			<td>Aru Acevedo, Yair Christofer</td>
+			<td>U202125984</td>
+		</tr>
+		<tr>
+			<td>Flores Manrique Sebastian Enrique</td>
+			<td>U201611430</td>
+		</tr>
+		<tr>
+			<td>Hurtado Palomino, Francisco Juan</td>
+			<td>u202117498</td>
+		</tr>
+		<tr>
+			<td>Omar Christian Berrocal Ramirez</td>
+			<td>u20201b529</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+
+## <center> **Junio, 2024** </center>
+
+<br/> <br/> <br/> 
 
 # Registro de Versiones del Informe
 | Version | Fecha      | Autor                              | Descripcion de Modificacion                      |
@@ -158,7 +192,39 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                                                                                	| Acciones realizadas 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones 	                                                                                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. 	| Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo<br/>*TP1*<br/>Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend.<br/> Jara Benites, Quique Vladimir<br/>*TB1*<br/>Organizacion y coordinacion para el desarrollo del Lean UX junto con los miembros<br/>*TP1*<br/>Implementacion del las cards para la visualizacion de vehiculos en vite y vue<br/>Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Desarrollo de la landing page<br/>*TP1*<br/>Desarrollo del front end<br/><br/>  Aru Acevedo, Yair Christofer<br/>*TB1*<br/>Participe en las reuniones del equipo para la asignacion del trabajo.  Realice algunos puntos en el capitulo 4.<br/>*TP1*<br/>Se corregió diferentes puntos del capitulo 4 y 5. Se añadió nuevas historias de usuario y otras se modificaron.<br/><br/>  Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>Realice el desarrollo de las user stories, product backlog, impact maps y la seccion about de el landing page <br/>*TP1*<br/>realice la correccion completa del Sprint 1, ademas se coloco una version temprana del sprint 2<br/>            	                                                                                                                                                                                                    | Esta experiencia nos ha proporcionado una comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.	             |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                           	| Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>*TP1*<br/>Leí la documentación de las herramientas a usar como PrimeVue y PrimeFlex.<br/><br/> Jara Benites, Quique Vladimir<br/>*TB1*<br/>Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>*TP1*<br/>Implementacion de cards para mejorar la experiencia de usuario y seguir las tendencias de mercado<br/><br/> Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas.<br/>*TP1*<br/>Desarrollé y colaboré con mis compañeros en el capitulo 05, realicé mejoras en el Cap. 04 sobre los diseños de wireframes y Mock-Ups de landing y aplicaciones web.<br/><br/>  Aru Acevedo, Yair Christofer<br/>*TB1*<br/>Realice las entrevistas a posibles usuarios de nuestro servicio.<br/>*TP1*<br/>Realice algunos puntos del landing page.<br/><br/>  Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>Realice una recoleccion de informacion para la creacion de las 31 user stories presentadas.<br/>*TP1*<br/>Estuve al tanto del desarrollo y la creacion de los repositorios presentados para su correcta presentacion, ademas corregi varios errores presentados en la anterior entrega<br/> 	 | La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.             	 |
+
+<table>
+  <tbody>
+    <tr>
+      <td>**Criterio específico**</td>
+      <td>**Acciones realizadas**</td>
+      <td>**Conclusiones**</td>
+    </tr>
+    <tr>
+      <td>Particia en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+      <td>
+        <ul>
+          <li>Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo<br/>*TP1*<br/>Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend.</li>
+          <li>Jara Benites, Quique Vladimir<br/>*TB1*<br/>Organización y coordinación para el desarrollo del Lean UX junto con los miembros<br/>*TP1*<br/>Implementación del las cards para la visualización de vehículos en vite y vue</li>
+          <li>Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Desarrollo de la landing page<br/>*TP1*<br/>Desarrollo del front end</li>
+          <li>Aru Acevedo, Yair Christofer<br/>*TB1*<br/>Participe en las reuniones del equipo para la asignación del trabajo.  Realice algunos puntos en el capítulo 4.<br/>*TP1*<br/>Se corrigió diferentes puntos del capítulo 4 y 5. Se añadió nuevas historias de usuario y otras se modificaron.</li>
+          <li>Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>Realice el desarrollo de las user stories, product backlog, impact maps y la sección about de el landing page <br/>*TP1*<br/>Realice la corrección completa del Sprint 1, ademas se colocó una versión temprana del Sprint 2</li>
+        </ul>
+      </td>
+      <td>Esta experiencia nos ha proporcionado una comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.</td>
+    </tr>
+    <tr>
+      <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+      <td>
+        <ul>
+          <li>Flores Manrique, Sebastian Enrique<br/>*TB1*<br/>Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>*TP1*<br/>Leí la documentación de las herramientas a usar como PrimeVue y PrimeFlex.</li>
+          <li>Jara Benites, Quique Vladimir<br/>*TB1*<br/>Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>*TP1*<br/>Implementación de cards para mejorar la experiencia de usuario y seguir las tendencias de mercado</li>
+          <li>Velarde Gonzales, Nestor Hernán<br/>*TB1*<br/>Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas.<br/>*TP1*<br/>Desarrollé y colaboré con mis compañeros en el capítulo 05, realicé mejoras en el Cap. 04 sobre los diseños de wireframes y Mock-Ups de landing y aplicaciones web.</li>
+          <li>Aru Acevedo, Yair Christofer<br/>*TB1*<br/>Realice las entrevistas a posibles usuarios de nuestro servicio.<br/>*TP1*<br/>Realice algunos puntos del landing page.</li>
+          <li>Hurtado Palomino, Francisco Juan<br/>*TB1*<br/>Realice una recolección de información para la creación de las 31 user stories presentadas.<br/>*TP1*<br/>Estuve al tanto del desarrollo y la creación de los repositorios presentados para su correcta presentación, ademas corregí varios errores presentados en la anterior entrega</li>
+        </ul>
+      </td>
+      <td>La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.</td>
+    </tr>
+  </tbody>
+</table>
