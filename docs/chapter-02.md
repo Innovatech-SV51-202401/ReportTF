@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td valign="top">Crear una cuenta en GlideGo y acceder a diferentes opciones de suscripciones y equipos según preferible de cada usuario, también incluye el mantenimiento de cada equipo por fallas técnicas.</td>
+    <td valign="top">Una plataforma que permite a los usuarios alquilar vehículos menores por suscripción y a los propietarios ganar dinero al poner sus vehículos en alquiler. </td>
     <td valign="top">La forma de alquiler es mediante registros por plataforma web o móvil, la suscripción está disponible desde pase diario, mensual y anual. </td>
     <td valign="top">Permite a los usuarios alquilar mediante suscripción sus scooters. Además , ofrece mantenimiento gratuito.</td>
     <td valign="top">Permite a los usuarios el alquiler de vehículos, la compra y venta de accesorios nuevos como de segunda mano, a través de su sitio web. </td>
@@ -42,14 +42,14 @@
   <tr>
     <td rowspan="2" valign="top">Perfil de Marketing</td>
     <td valign="top">Mercado objetivo</td>
-    <td valign="top">Personas mayores a 18 años que requieren los servicios solo para ciudad de Lima. </td>
+    <td valign="top">Personas de entre 18 y 35 años que requieren los servicios solo para ciudad de Lima y personas de entre 18 y 60 para el mantenimiento y alquiler</td>
     <td valign="top">Personas mayores a 18 años, para habitantes de Lima, visitantes y turistas. </td>
     <td valign="top">Personas mayores de 15 años que se deben movilizar por Lima Metropolitana diariamente.</td>
     <td valign="top">Personas mayores de 18 años que busquen promover los vehículos de micromovilidad.</td>
   </tr>
   <tr>
     <td valign="top">Estrategias de marketing</td>
-    <td valign="top">Publicidad por redes sociales y anuncios en plataformas (YouTube).</td>
+    <td valign="top">Publicidad por redes sociales y vallas publicitarias en calles de mayor afluencia.</td>
     <td valign="top">Publicidad en redes sociales.</td>
     <td valign="top">Publicidad en redes sociales y afiches</td>
     <td valign="top">Publicidad en redes sociales.</td>
@@ -65,8 +65,9 @@
   <tr>
     <td valign="top">Precios & Costos</td>
     <td valign="top">Planes de suscripción:<br/>
-    - Plan base: s/.130<br/>
-    - Plan premium: s/.230
+    - Plan semanal: s/. 59<br/>
+    - Plan base: s/. 199<br/>
+    - Plan premium: s/. 499
 </td>
     <td valign="top">Planes de suscripción:<br/> 
 - Diario: s/4.33 <br/>   
@@ -95,7 +96,7 @@
     <td rowspan="4" valign="top">Análisis SWOT</td>
     <td valign="top">Fortalezas</td>
     <td valign="top">
-    	Contar con un sistema confiable y seguro para el alquiler de vehículos menores.
+    	Modelo de negocio innovador que combina alquiler por suscripción y oportunidad para propietarios de generar ingresos adicionales.
     </td>
     <td valign="top">
       Posibilidad para personas que optan por un transporte eficiente y sano. 
@@ -112,6 +113,7 @@
   <tr>
     <td valign="top">Debilidades</td>
     <td valign="top">
+        Dependencia de la disponibilidad y mantenimiento de los vehículos por parte de los propietarios <br>        
         No contamos con un sistema de rastreo sofisticado
     </td>
     <td valign="top">
