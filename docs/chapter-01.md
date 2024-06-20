@@ -61,6 +61,13 @@ garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehícu
             <td>Ingeniería de Software</td>
             <td>Estudiante de Ingeniería de Software, actualmente en el quinto ciclo. Conocimientos en C++, Python y desarrollo web. Responsable y dispuesto a colaborar en equipo.</td>
         </tr>
+        <tr>
+            <td><img src="../assets/members-profile/Omar.jpg" alt="Imagen de Omar"></td>
+            <td>Omar Christian Berrocal Ramirez</td>
+            <td>u20201b529</td>
+            <td>Ingeniería de Software</td>
+            <td>Mi nombre es Omar Christian Berrocal Ramirez, estudiante de la carrera ingeniería de Software. Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías. Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.</td>
+        </tr>
     </tbody>
 </table>
 
