@@ -398,14 +398,14 @@ En esta sección analizamos la información recopilada en las entrevistas realiz
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
 Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
-**Segmento 1:**   
-![Imagen User Persona 1](../assets/uxpressia/userpersona1.jpg)
+**Segmento 1 - Owner:**   
+![Imagen User Persona 1](../assets/uxpressia/userpersona1.png)
 
-**Segmento 2:**
-![Imagen User Persona 2](../assets/uxpressia/userpersona2.jpg)
+**Segmento 2 - Client:**
+![Imagen User Persona 2](../assets/uxpressia/userpersona2.png)
 
-**Segmento 3:**
-![Imagen User Persona 3](../assets/uxpressia/userpersona3.jpg)
+**Segmento 3 - Mechanic:**
+![Imagen User Persona 3](../assets/uxpressia/userpersona3.png)
 ### 2.3.2. User Task Matrix.
 En esta sección se presenta el user task matrix de los tres segmentos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se
 refleja la importancia de determinadas tareas.
