@@ -18,7 +18,7 @@
 
 ## <center> **Integrantes** </center>
 
-<table align="center">
+<table align="center", border="1">
 	<tbody>
 		<tr>
 			<td><strong>Apellidos, Nombres</strong></td>
