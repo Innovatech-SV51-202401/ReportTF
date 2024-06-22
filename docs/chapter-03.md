@@ -28,25 +28,24 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
     </tr>
     <tr>
         <td>US01</td>
-        <td>Inscripción de Vehículos</td>
-        <td>Cómo Owner quiero inscribir los vehículos a la aplicación para poder ofrecerlos a potenciales usuarios.</td>
+        <td>Registrar un Vehículos</td>
+        <td><b>Cómo</b> Owner quiero registrar mis vehículos a la aplicación web <b>para</b> poder ofrecerlos a mis clientes potenciales</td>
         <td>
-            <b>Escenario 1: Inscripción exitosa de vehículos a la aplicación</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When inscribe un nuevo vehículo a la plataforma. <br/>
-            And Ingresa los detalles del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, tarifas por uso, ubicación del vehículo, etc. <br/>
-            Then La plataforma procesa la información correctamente y el vehículo queda inscrito y disponible para ser ofrecido a potenciales usuarios. Los usuarios pueden ver el vehículo en la aplicación y realizar reservas. <br/><br/>
-            <b>Escenario 2: Inscripción fallida de vehículos a la aplicación</b> <br/>
-            Given que el owner vehículos menores. <br/>
-            When Intenta inscribir un nuevo vehículo a la plataforma. <br/>
-            And Ingresa los detalles del vehículo, pero comete un error en el ingreso de la información. <br/>
-            Then La plataforma muestra un mensaje de error indicando la razón de la falla en la inscripción del vehículo.
+            <b>Scenario 1: Inscripción de vehículos a la aplicación Glidego</b> <br/>
+            Given que el owner está en la opción "registration vehicle" de su cuenta. <br/>
+            When registra un nuevo vehículo a la aplicación <br/>
+            And Ingresa los detalles del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
+            Then La aplicación valida la información And finalmente confirma su registro satisfactorio. <br/><br/>
+            <b>Scenario 2: Modificar datos del vehiculo registrado.</b> <br/>
+            Given que el owner esta en la sección de "vehicule" <br/>
+            When verifica los datos del vehiculo y fue registrado con errores<br/>
+            Then La plataforma muestra una opción de "Editar" para corregir los datos. 
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US02</td>
-        <td>Establecimiento de Tarifas</td>
+        <td>Establecer Tarifas</td>
         <td>Cómo Owner quiero establecer tarifas y disponibilidad del vehículo para poder gestionar de manera efectiva la rentabilidad y accesibilidad de los vehículos.</td>
         <td>
             <b>Escenario 1: Establecimiento exitoso de tarifas y disponibilidad del vehículo</b> <br/>
