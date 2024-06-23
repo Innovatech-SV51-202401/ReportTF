@@ -464,7 +464,7 @@ En esta sección mostramos los empathy mapping de los tres segmentos realizados 
 
 ![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
 
-**Segmento 2 - CLiente:** 
+**Segmento 2 - CLient:** 
 
 ![Empathy Map Segmento2](../assets/uxpressia/empathy2.png)
 
