@@ -411,7 +411,7 @@ En esta sección se presenta el user task matrix de los tres segmentos, con el f
 refleja la importancia de determinadas tareas.
 
 
-| 	                                                                          |   **Owner**  	    |  **Owner**    	   | **Cliente**    	  |  **Cliente**   	  | **Mecánico**   	  |  **Mecánico**  	  |
+| 	                                                                          |   **Owner**  	    |  **Owner**    	   |  **Client**    	  |  **Client**   	   | **Mechanic**   	  |  **Mechanic**  	  |
 |----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
 | Pública servicio en redes                                            	     |  varias veces 	   |     alta    	     |     -       	     |     -      	      |  varias veces 	   |     alta    	     |
@@ -425,31 +425,50 @@ refleja la importancia de determinadas tareas.
 | Llevar cuentas sobre gasto en pasajes en lo que va del mes           	     |    siempre   	    |     alta    	     |   siempre    	    |     alta    	     |    siempre   	    |    media    	     |
 | Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |     -      	      |     -      	      |
 
+
+En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
+### Owner:
+* Comunicarse por WhatsApp con la persona a la que ofreció el servicio: Es muy frecuente y de alta importancia para coordinar detalles y mantener una comunicación fluida.
+* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de alta importancia para controlar sus gastos y optimizar sus recursos.
+
+### Client:
+* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de alta importancia para controlar sus gastos y optimizar sus recursos.
+* Salir mucho antes de casa para evitar el tráfico: Es frecuente y de alta importancia, ya que el tráfico puede afectar su tiempo y generar estrés.
+
+### Mechanic:
+* Publicar servicio en redes: Es frecuente y de alta importancia, ya que es su principal canal para atraer clientes.
+* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de mediana importancia para controlar sus gastos.
+
+### Principales diferencias y coincidencias entre los User Personas:
+
+* Coincidencias: Los tres segmentos coinciden en la importancia de publicar servicios en redes, realizar pagos digitales y comunicarse por WhatsApp. También coinciden en la frecuencia con la que salen antes para evitar el tráfico y llevan cuentas de sus gastos en pasajes.
+* Diferencias: La principal diferencia radica en la búsqueda de mecánicos de confianza, que es más frecuente e importante para los Owners y Clientes que para los Mecánicos. Además, los Mecánicos no realizan tareas como separar citas con mecánicos o analizar costos y tiempo de mantenimiento, ya que son ellos quienes ofrecen estos servicios.
+
 ### 2.3.3. User Journey Mapping.
 En esta sección se presentan los User Journey Mapping de los tres segmentos, que realizamos con el fin de dar a entender 
 cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
 
-**Segmento 1:**   
+**Segmento 1 - Owner:**   
 ![Imagen User Journey Mapping 1](../assets/uxpressia/mapping1.jpg)
 
-**Segmento 2:**   
+**Segmento 2 - CLient:**   
 ![Imagen User Journey Mapping 2](../assets/uxpressia/mapping2.jpg)
 
-**Segmento 3:**   
+**Segmento 3 - Mechanic:**   
 ![Imagen User Journey Mapping 3](../assets/uxpressia/mapping3.jpg)
 
 ### 2.3.4. Empathy Mapping.
 En esta sección mostramos los empathy mapping de los tres segmentos realizados con la información recopilada de componentes anteriores.
 
-**Segmento 1:** Owner (Dueño del vehiculo)
+**Segmento 1 - Owner:**  
 
 ![Empathy Map Segmento1](../assets/uxpressia/empathy1.png)
 
-**Segmento 2:** User (Cliente)
+**Segmento 2 - CLient:** 
 
 ![Empathy Map Segmento2](../assets/uxpressia/empathy2.png)
 
-**Segmento 3:** Mechanic (Mecánico de mantenimiento)
+**Segmento 3 - Mechanic:**
 
 ![Empathy Map Segmento3](../assets/uxpressia/empathy3.png)
 ### 2.3.5. As-is Scenario Mapping.
@@ -458,20 +477,20 @@ de ideas individual, revisión e identificación de fases como columnas,
 para conseguir los As-is Scenario Mapping de los tres segmentos.
 objetivos.
 
-**Segmento 1**  
+**Segmento 1 - Owner**  
 ![As-IS Scenario Mapping 1](../assets/uxpressia/scenario1.jpg)
 
-**Segmento 2**  
+**Segmento 2 - Client**  
 ![As-IS Scenario Mapping 2](../assets/uxpressia/scenario2.jpg)
 
-**Segmento 3**  
+**Segmento 3 - Mechanic**  
 ![As-IS Scenario Mapping 3](../assets/uxpressia/scenario3.jpg)
 ## 2.4. Ubiquitous Language.
 
 | Terms and definitions 	| Términos y definiciones                                                                              	|
-|-----------------------	|------------------------------------------------------------------------------------------------------	|
+|----------------------	|------------------------------------------------------------------------------------------------------	|
 | Owner                 	| Cualquier persona que utiliza la plataforma para poner en alquiler su vehículo                       	|
-| Cliente               	| Cualquier persona que utiliza la plataforma para alquilar un vehículo                                	|
+| Client               	| Cualquier persona que utiliza la plataforma para alquilar un vehículo                                	|
 | Go                    	| Comenzar a utilizar el servicio                                                                      	|
 | MyWallet              	| Ingreso obtenido por alquilar tu vehículo                                                            	|
 | Routes                	| Registro de rutas seguidas en trayecto del viaje                                                     	|
