@@ -1,50 +1,59 @@
 # Capitulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-Especificamos los estilos generales de la aplicación web para el proceso de Front-End
+
+En esta sección se especifican los estilos generales de la aplicación web para el proceso de Front-End.
 
 ### 4.1.1. General Style Guidelines.
 
-Definimos los colores y el tipo de tipografías que se utilizarán de forma global en el proyecto. A Continuación mostramos una paleta de colores. 
+Nuestro prototipo web integrará ciertos ajustes de colores, fuente de letra o tipografía
+y creación de un diseño estructural de la plataforma.
+El color verde brillante de nuestro logo y nuestros interfaces anima a las personas a tomar otras alternativas 
+de deciones en su transporte diarío, ya que dicho color representa la naturaleza y frescura.
+La tipografía que aplicamos en nuestro prototipo es Open Sans, ya que, ayuda a darle un estilo
+amigable a nuestra aplicación web, gracias a la tipografía cierta información que se encuentre en
+el sitio web se verá ordenada y entendible por nuestros segmentos objetivos.
 
-![img.png](../assets/img/GSG-1.png)
+#### Paleta de colores
+
+- **Verde Brillante:** #ADE366 (Es el color primario que se aplicará a nuestro aplicación web en la mayor parte)
+- **Gris Azulado:** #5D6D7E (Color que se aplicará de manera simultanea en los botones)
+- **Blanco:** #E4E4E4 (Dicho color se aplicará en textos o fondo de aplicación web)
+
+![img.png](../assets/Components/Color-palette.png)
+
+#### Tipografía
+
+Se define el tipo de tipografía que se utilizará en todo el proyecto.
+
+![img.png](../assets/img/typography.png)
 
 ![img.png](../assets/img/GSG-2.png)
 
 #### Logo de GlideGo:
-Nuestro logo representa un tono de verde limón opaco con el código hexadecimal ADE366, combina una bicicleta y una hoja de planta. La bicicleta simboliza movilidad, libertad y sostenibilidad, por otro lado la hoja representa la naturaleza y el compromiso con el medio ambiente. Esta combinación refleja nuestra visión de ofrecer soluciones de movilidad ecológica y sostenible. 
+Nuestro logo representa un tono de verde con el código hexadecimal #ADE366, combina una bicicleta y 
+una hoja de planta. La bicicleta simboliza movilidad, libertad y sostenibilidad, por otro lado la 
+hoja representa la naturaleza y el compromiso con el medio ambiente. Esta combinación refleja nuestra 
+visión de ofrecer soluciones de movilidad ecológica y sostenible. 
+
+#### Logo vertical:
 
 ![img.png](../assets/img/Logo-1.png)
 
-#### Horizontal Logo:
+#### Logo horizontal:
 
 ![img.png](../assets/img/logo-h-1.png)
+
 ![img.png](../assets/img/logo-h-2.png)
 
-#### Typography:
-Justificación porque usamos Open sans(googlear), pistas sencillo minimalista 
-
-![img.png](../assets/img/typography.png)
-
-- Colors
-- Primarios
-- Secundarios
-- Terciarios
-
-Pulcritud, elegancia y sofisticación, a su vez crea un contraste suave
- 
-![img.png](../assets/img/colors-1.png)
-![img.png](../assets/img/colors-2.png)
-
 ### 4.1.2. Web Style Guidelines.
-Nuestra web utiliza el Patrón Z, una estructura diseñada para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono verde grisáceo, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como “Conocenos”, “Servicios”, “Planes” y “Obtener”. El boton de obtener es de color naranja que añade un toque de energia y atencion al diseño, contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación. 
 
-Las tipografías que se aplicarán para el desarrollo de la web son:
-Open Sans
+Nuestro sitio web presenta una barra de navegación con rutas a "Inicio", "Sobre nosotros", "Servicios", "Planes", "Contactanos" e "Iniciar sesión". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo. Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
 
-## 4.2. information architecture.
+## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
+
 Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: “About us”, “Services”, “Plans”, “Contact” y “Register”.
 
 Para el proceso de reservas de vehículos haremos uso de la organización secuencial:
@@ -89,52 +98,118 @@ Para la página es importante, un sistema de etiquetado efectivo para permitir q
 
 Title:
 
-![img.png](../assets/img/SEO%20Tags.png)
+![img.png](../assets/img/seo-tags.png)
 
 
-### 4.2.4. Searching Systems.
-En esta sección implementaremos dos métodos para facilitar la experiencia de búsqueda a nuestros usuarios.
-Se utilizará un sistema de búsqueda por texto para que nuestros usuarios puedan buscar su vehículo y tener una elección más personalizada.
+### 4.2.4. Sistemas de Búsqueda
 
-Además, se incluirá filtros de la siguiente manera:
-- Filtros por tipo de vehículo
-- Filtros por marca de vehiculo
-- Filtros por color de vehículo
-- Filtros por disponibilidad de ubicación
+En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por texto que permitirá a los usuarios encontrar su vehículo de manera más rápida y personalizada.
+
+Además, se incluirán filtros para refinar las búsquedas de la siguiente manera:
+
+#### Filtros Disponibles:
+
+1. **Tipo de Vehículo:** Nuestros usuarios podrán filtrar los resultados según el tipo de vehículo, 
+como bicicletas, Skateboard o motos eléctricos.
+
+2. **Marca de Vehículo:** Se proporcionarán opciones de filtrado por marca de vehículo para 
+permitir a nuestros usuarios buscar específicamente dentro de una marca deseada.
+
+3. **Disponibilidad de Ubicación:** Este filtro permitirá a los usuarios buscar vehículos 
+disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar 
+opciones cercanas a ellos.
+
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente 
+la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.
+
 
 ### 4.2.5. Navigation Systems.
-Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación.
-Nuestra barra de menú contará con las siguientes secciones:
+Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes 
+secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y 
+así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
 
-- **About us:** El usuario podrá visualizar a qué se dedica la empresa, su misión y visión, y el equipo detrás de esta aplicación
-- **Services:** El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner, un cliente o un mecanico.
+- **About us:** El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
+- **Services:** El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner, un Clien o un Mechanic.
 - **Plans:** Aquí podrá obtener toda la información de los planes semanales, mensuales y trimestrales que la aplicación le ofrece y además de poder registrarse.
 - **Contact us:** Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros .
 
 ## 4.3. Landing Page UI Design.
+
+Para el diseño de nuestro landing page, hemos optado por utilizar como principales colores
+el verde brillante y blanco, ya que representan la naturaleza y frescura respectivamente,
+creando así un ambiente armonioso.
+Hemos distribuido los elementos de nuestro landing para poder resaltar la información
+importante, y hemos utilizado diferentes tamaños de botones para captar la atención del
+usuario hacia temas específicos. Además, hemos implementado una arquitectura jerárquica
+y un sistema de navegación interactivo para facilitar la exploración y la interacción con la
+página
+
 ### 4.3.1. Landing Page Wireframe.
+
+En los wireframes de nuestra landing page, se han tenido en cuenta la usabilidad y la
+experiencia de los usuarios. Los wireframes reflejan un diseño intuitivo y fácil de
+navegar, con una disposición de los elementos y jerarquía visual clara, garantizando
+que nuestros usuarios puedan acceder fácilmente a la información relevante y
+completar las acciones que deseen sin problemas.
+
+
 Link de figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=0-1&mode=design&t=QeMym2oXpQQRRkGe-0 
 
+Es es una interfas principal de nuestro landing page.
 ![img.png](../assets/img/landing-1.png)
+
+La opción "About Us" tendrá el siguiente interfás detallando quienes somos nuestra visión, visión y los desarrolladores del sistema.
 ![img.png](../assets/img/landing-2.png)
+
+La opción "Services" tendrá informaciones detalladas a quienes van nuestr
 ![img.png](../assets/img/landing-3.png)
+
+La opción de "Plans" muestra los diferentes suscripciones del servicio.
 ![img.png](../assets/img/landing-4.png)
+
+La opción "Contac" muestra un interfas de comunicación. 
 ![img.png](../assets/img/landing-5.png)
--
+
 
 ### 4.3.2 Landing Page Mock-up.
 Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=75%3A2&mode=design&t=vmMKxEV2F816IZC1-1
 
+Frond end  de la aplicación web principal.
+
 ![img.png](../assets/img/lading-6.png)
+
+Sección About Us, donde nuestros usuarios pueden conocer a nuestro aplicación web los servicios que ofrecemos. 
+
 ![img.png](../assets/img/landing-7.png)
+
+Sección services, donde mostramos los servicios y oportunidades a cada nuestro segmento objetivo.
+
 ![img.png](../assets/img/landing-8.png)
+
+Sección Plans, donde nuestros client pueden ver los diferentes tipos de planes que ofrecemos.
+
 ![img.png](../assets/img/landing-9.png)
+
+Sección Contact, donde nuestros segmentos objetivos pueden realizar sus consultas.
+
 ![img.png](../assets/img/landing-10.png)
 
 ## 4.4. Web Applications UX/UI Design
+
+Para desarrollar nuestra diseños wireframes de aplicación web usamos la herramienta Figma. 
+
 ### 4.4.1. Web Applications Wireframes
-![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-owner-reservas.png)
+
+Cuenta del mecánico, muestradistintas operaciones. 
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-mechanic.png)
+
+Sección para reservar un vehiculo. 
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-owner-reservas.png)
+
+Cuenta del client, muestra las opciones de reservas y datos personales. 
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-owner.png)
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-user.png)
 
@@ -142,9 +217,17 @@ Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=de
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/web-app-wireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
+ 
+Login de nuestra aplicación web.
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-login.png)
+
+Sección de perfil de susario.
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-mechanic.png)
-![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-owner.png)
+
+Reserva de vehiculo menores
+
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-user.png)
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-balance.png)
 ![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-localizacion-mantenimiento.png)
