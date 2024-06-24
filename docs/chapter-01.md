@@ -126,7 +126,7 @@ Nuestro enfoque inicial sera el segmento de personas que desean alquilar un vehi
 Sabremos que tenemos exito cuando veamos una reduccion en el gasto mensual de transporte de nuestros usuarios de un 30% y una reduccion de tiempo de al menos 6 horas semanales.
 
 #### 1.2.2.2. Lean UX Assumptions.
-##### Business outcomes: 
+### Business outcomes: 
 
 Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
 
@@ -176,7 +176,7 @@ Assumtions:
 
 Proto persona Owner
 
-<table>
+<table align="center", border="1px">
     <tbody>
         <tr>
             <td><img src="../assets/metrics-mountain/proto-persona-owner.png"><br>Nombre: Juana Lopez <br> Ocupacion: Teleoperadora<br> Rol: Propietaria de uno o mas vehiculos menores</td>
@@ -196,7 +196,7 @@ Assumtions:
 
 Proto persona mecanico
 
-<table>
+<table align="center", border="1px">
     <tbody>
         <tr>
             <td><img src="../assets/metrics-mountain/proto-persona-mecanic.png"><br>Nombre: Luis Torres<br> Ocupacion: Mecanico independiente</td>
@@ -295,7 +295,7 @@ Sistema de gestion de reparaciones y mantenimientos a vehiculos menores para tal
 
 Utilizando los bussines outcomes, proto-persona, user outcomes y solutions se formularon las siguientes hipotesis:
 
-Cliente:<br>
+Cliente: <br>
 Creemos que aumentaremos las reservas de nuevos usuarios.<br>
 Si clientes como María buscan soluciones económicas y flexibles para desplazamientos diarios.<br>
 Lograrán una disminución del tiempo de viaje y mayor comodidad.<br>
