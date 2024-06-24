@@ -34,37 +34,42 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             <b>Scenario 1: Inscripción de vehículos a la aplicación Glidego</b> <br/>
             Given que el owner está en la opción "registration vehicle" de su cuenta. <br/>
             When registra un nuevo vehículo a la aplicación <br/>
-            And Ingresa los detalles del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
+            And Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
             Then La aplicación valida la información And finalmente confirma su registro satisfactorio. <br/><br/>
             <b>Scenario 2: Modificar datos del vehiculo registrado.</b> <br/>
             Given que el owner esta en la sección de "vehicule" <br/>
             When verifica los datos del vehiculo y fue registrado con errores<br/>
-            Then La plataforma muestra una opción de "Editar" para corregir los datos. 
+            Then La plataforma muestra una opción de "Editar" para corregir los datos del vehiculo.
+            <b>Scenario 3: Registro del vehiculo no válido.</b> <br/>
+            Given que el owner esta en la sección de "registration vehicle" de su cuenta. <br/>
+            When registra un nuevo vehículo a la aplicación <br/>
+            And Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
+            Then La aplicación al validar los datos verifica que no son correctos And muestra un mensaje de "Error el registro" <br/>
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US02</td>
         <td>Establecer Tarifas</td>
-        <td>Cómo Owner quiero establecer tarifas y disponibilidad del vehículo para poder gestionar de manera efectiva la rentabilidad y accesibilidad de los vehículos.</td>
+        <td>Cómo Owner quiero establecer tarifas para poder gestionar de manera efectiva la rentabilidad de mi vehiculo</td>
         <td>
-            <b>Escenario 1: Establecimiento exitoso de tarifas y disponibilidad del vehículo</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Decide establecer las tarifas y la disponibilidad de un vehículo. <br/>
-            And Ingresa las tarifas por hora, por día y por semana, así como la disponibilidad horaria y los días en los que el vehículo estará disponible para alquilar. <br/>
+            <b>Escenario 1: Establecer tarifas según el tipo del vehiculo.</b> <br/>
+            Given que el Owner está en la sección de "Costos" <br/>
+            When decide establecer las tarifas para el vehiculo registrado<br/>
+            And establece su costo por hora, día y por semana del alquiler del vehiculo<br/>
             Then La plataforma procesa la información correctamente y el vehículo queda configurado con las tarifas y disponibilidad establecidas, permitiéndole gestionar de manera efectiva la rentabilidad y accesibilidad del vehículo para los usuarios. <br/><br/>
-            <b>Escenario 2: Problema al establecer tarifas y disponibilidad del vehículo</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Intenta establecer las tarifas y la disponibilidad de un vehículo. <br/>
-            And Al ingresar las tarifas o la disponibilidad, comete un error <br/>
-            Then La plataforma muestra un mensaje de error indicando la razón del problema en la configuración de tarifas y disponibilidad del vehículo.
+            <b>Escenario 2: Problema al establecer tarifas.</b> <br/>
+            Given que el Owner está en la sección de "Costos" <br/>
+            When intenta establecer las tarifas <br/>
+            And Al ingresar las tarifas según los parametros que establece la aplicación y comete error <br/>
+            Then La plataforma muestra un mensaje de error indicando la razón del problema en la configuración de tarifas.
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US03</td>
-        <td>Gestionamiento de Vehículos</td>
-        <td>Cómo Owner quiero gestionar mis vehículos para gestionar su renta.</td>
+        <td>Eficiencia al organizar los vehículos</td>
+        <td>Cómo Owner quiero organizar para gestionar su renta.</td>
         <td>
             <b>Escenario 1: Gestión exitosa de vehículos para renta</b> <br/>
             Given que el Owner de vehículos menores. <br/>
