@@ -35,13 +35,13 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             Given que el owner está en la opción "registration vehicle" de su cuenta. <br/>
             When registra un nuevo vehículo a la aplicación <br/>
             And Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
-            Then La aplicación valida la información And finalmente confirma su registro satisfactorio. <br/><br/>
+            Then La aplicación válida la información And finalmente confirma su registro satisfactorio. <br/><br/>
             <b>Scenario 2: Modificar datos del vehiculo registrado.</b> <br/>
-            Given que el owner esta en la sección de "vehicule" <br/>
-            When verifica los datos del vehiculo y fue registrado con errores<br/>
-            Then La plataforma muestra una opción de "Editar" para corregir los datos del vehiculo.
+            Given que el owner está en la sección de "vehicule" <br/>
+            When verifica los datos del vehículo y fue registrado con errores<br/>
+            Then La plataforma muestra una opción de "Editar" para corregir los datos del vehículo.
             <b>Scenario 3: Registro del vehiculo no válido.</b> <br/>
-            Given que el owner esta en la sección de "registration vehicle" de su cuenta. <br/>
+            Given que el owner está en la sección de "registration vehicle" de su cuenta. <br/>
             When registra un nuevo vehículo a la aplicación <br/>
             And Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
             Then La aplicación al validar los datos verifica que no son correctos And muestra un mensaje de "Error el registro" <br/>
@@ -51,12 +51,12 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
     <tr>
         <td>US02</td>
         <td>Establecer Tarifas</td>
-        <td>Cómo Owner quiero establecer tarifas para poder gestionar de manera efectiva la rentabilidad de mi vehiculo</td>
+        <td>Cómo Owner quiero establecer tarifas para poder gestionar de manera efectiva la rentabilidad de mi vehículo</td>
         <td>
-            <b>Escenario 1: Establecer tarifas según el tipo del vehiculo.</b> <br/>
+            <b>Escenario 1: Establecer tarifas según el tipo del vehículo.</b> <br/>
             Given que el Owner está en la sección de "Costos" <br/>
-            When decide establecer las tarifas para el vehiculo registrado<br/>
-            And establece su costo por hora, día y por semana del alquiler del vehiculo<br/>
+            When decide establecer las tarifas para el vehículo registrado<br/>
+            And establece su costo por hora, día y por semana del alquiler del vehículo<br/>
             Then La plataforma procesa la información correctamente y el vehículo queda configurado con las tarifas y disponibilidad establecidas, permitiéndole gestionar de manera efectiva la rentabilidad y accesibilidad del vehículo para los usuarios. <br/><br/>
             <b>Escenario 2: Problema al establecer tarifas.</b> <br/>
             Given que el Owner está en la sección de "Costos" <br/>
@@ -378,7 +378,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             Then Envío el informe al cliente a través de la plataforma de comunicación. <br/><br/>
             <b>Escenario 2: Problema al realizar y enviar el informe</b> <br/>
             Given que el mecánico completa un servicio. <br/>
-            When intenta crear y enviar un informe del servicio desde la plataforma. <br/>
+            When crea y envia un informe del servicio desde la plataforma. <br/>
             And encuentra un problema técnico que impide la creación o envío del informe. <br/>
             Then contacta al soporte técnico para resolver la dificultad técnica.
         </td>
@@ -394,8 +394,8 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             When finaliza el servicio y lo ingresa al sistema. <br/>
             Then el sistema envía una notificación al cliente informando que su vehículo está listo. <br/><br/>
             <b>Escenario 2: Problema al finalizar y notificar el servicio</b> <br/>
-            Given que el mecánico finaliza un servicio y solicita la notificación al cliente <br/>
-            When intenta finalizar el servicio pero encuentra un problema técnico. <br/>
+            Given el mecánico finaliza un servicio y solicita la notificación al cliente <br/>
+            When finaliza el servicio pero encuentra un problema técnico. <br/>
             Then Contacta al soporte técnico para resolver la dificultad. <br/>
             And Una vez solucionado, notifica al cliente sobre la culminación del servicio.
         </td>
@@ -403,8 +403,8 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
     </tr>
     <tr>
         <td>US21</td>
-        <td>Gestión de ingresos</td>
-        <td>Cómo mecánico quiero gestionar los ingresos generados por el servicio para llevar un registro preciso de los pagos recibidos.</td>
+        <td>Registro de ingresos</td>
+        <td>Cómo mecánico quiero observar los ingresos generados por el servicio para llevar un registro preciso de los pagos recibidos.</td>
         <td>
             <b>Escenario 1: Gestión de ingresos generados por el servicio</b> <br/>
             Given que el mecánico completa un servicio. <br/>
@@ -413,7 +413,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             Then El sistema actualiza automáticamente el registro de ingresos para llevar un registro preciso de los pagos recibidos. <br/><br/>
             <b>Escenario 2: Problema al gestionar los ingresos generados</b> <br/>
             Given que el mecánico que ha completado un servicio. <br/>
-            When intenta registrar el pago pero encuentra un problema técnico. <br/>
+            When registra el pago pero encuentra un problema técnico. <br/>
             Then Contacta al soporte técnico para resolver la dificultad. <br/>
             And Una vez solucionado, registra el pago para mantener un registro preciso de los ingresos generados.
         </td>
@@ -421,7 +421,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
     </tr>
     <tr>
         <td>US22</td>
-        <td>Visualizar historial de mantenimiento</td>
+        <td>Historial de mantenimiento</td>
         <td>Cómo mecánico quiero acceder al historial de mantenimiento realizado a los vehículos para tener un registro de las reparaciones anteriores.</td>
         <td>
             <b>Escenario 1: Acceso al historial de mantenimiento de vehículos</b> <br/>
@@ -431,7 +431,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             Then puede ver un registro detallado de todas las reparaciones y mantenimientos previos realizados a ese vehículo, incluyendo fechas, trabajos realizados, piezas reemplazadas y notas adicionales. <br/><br/>
             <b>Escenario 2: Problema al acceder al historial de mantenimiento</b> <br/>
             Given que el mecánico está registrado en la plataforma. <br/>
-            When intenta acceder al historial de mantenimiento de un vehículo. <br/>
+            When accede al historial de mantenimiento de un vehículo. <br/>
             And encuentra un problema técnico que impide la visualización del historial. <br/>
             Then contacta al soporte técnico para resolver la dificultad.
         </td>
@@ -449,7 +449,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             Then el equipo de soporte recibe su solicitud y se comunica con el usuario para brindarle asistencia o resolver su reclamo. <br/><br/>
             <b>Escenario 2: Problema al comunicarme con el soporte</b> <br/>
             Given que el Owner está registrado en la plataforma. <br/>
-            When intenta comunicarse con el soporte pero encuentra un problema técnico. <br/>
+            When se comunica con el soporte pero encuentra un problema técnico. <br/>
             Then verifica la conexión a internet y refresca la página. <br/>
             And si persiste, busca información de contacto alternativa para comunicarse. <br/>
             And Una vez establecida la comunicación, presenta su solicitud al equipo de soporte.
@@ -458,7 +458,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
     </tr>
     <tr>
         <td>US24</td>
-        <td>Visualizar historial de reservas</td>
+        <td>Historial de reservas</td>
         <td>Como cliente quiero ver historial de reservas para llevar un seguimiento de uso.</td>
         <td>
             <b>Escenario 1: Visualización del historial de reservas</b> <br/>
@@ -467,7 +467,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
             Then ve una lista de reservas anteriores con detalles como fecha, vehículo y duración. <br/><br/>
             <b>Escenario 2: Problema al ver historial de reservas</b> <br/>
             Given que el cliente está registrado. <br/>
-            When intenta ver el historial de reservas pero hay un problema técnico. <br/>
+            When observa el historial de reservas pero hay un problema técnico. <br/>
             Then refresca la página y vuelve a intentar. <br/>
             And si persiste, contacta al soporte técnico para solucionarlo.
         </td>
