@@ -1410,8 +1410,3 @@ La meta del sprint fue presentar una verison final del Backend, el equipo utiliz
 ![img_3.png](../assets/img/back4.png)
 ![img_4.png](../assets/img/back5.png)
 
-## Conclusiones
-Nuestro equipo Innovatech ha identificado un nicho de mercado específico dentro del sector de transporte, centrándose en vehículos menores o ligeros como bicicletas, skateboards, scooters y motos eléctricas. Esta especialización puede ayudarles a diferenciarse y destacar en un mercado cada vez más competitivo y nuestra propuesta está orientada hacia la innovación y la calidad en el transporte.
-
-La misión de Innovatech es transformar la movilidad urbana y recreativa, mientras que su visión es convertirse en líderes en el mercado de movilidad sostenible. Estas declaraciones proporcionan una dirección clara y un propósito definido para nuestra startup, lo que puede ayudar a alinear a los miembros del equipo y a mantener el enfoque en los objetivos a largo plazo. Al centrarse en la movilidad sostenible y ofrecer una amplia gama de opciones de vehículos menores, Innovatech demuestra su compromiso con la sostenibilidad ambiental. Este enfoque puede atraer a consumidores conscientes del medio ambiente y respaldar la imagen de la empresa como una marca responsable.
-
