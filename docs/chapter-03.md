@@ -28,103 +28,77 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
     </tr>
     <tr>
         <td>US01</td>
-        <td>Registrar un Vehículos</td>
-        <td><b>Cómo</b> Owner quiero registrar mis vehículos a la aplicación web <b>para</b> poder ofrecerlos a mis clientes potenciales</td>
+        <td>Registrar un Vehículo</td>
+        <td><b>Cómo</b> Owner quiero registrar los detalles de mi vehículo en la aplicación web <b>para</b> que mis potenciales clientes puedan elegirlo para el alquiler.</td>
         <td>
-            <b>Scenario 1: Inscripción de vehículos a la aplicación Glidego</b> <br/>
-            Given que el owner está en la opción "registration vehicle" de su cuenta. <br/>
-            When registra un nuevo vehículo a la aplicación <br/>
-            And Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
-            Then La aplicación válida la información And finalmente confirma su registro satisfactorio. <br/><br/>
+            <b>Scenario 1: Inscripción de vehículo a la aplicación Glidego</b> <br/>
+            Dado que el owner tiene acceso a la aplicación, <br/>
+            Cuando registra un nuevo vehículo <br/>
+            E Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo, <br/>
+            Luego El sistema valida la información, Y confirma su registro de manera satisfactoria. <br/><br/>
             <b>Scenario 2: Modificar datos del vehiculo registrado.</b> <br/>
-            Given que el owner está en la sección de "vehicule" <br/>
-            When verifica los datos del vehículo y fue registrado con errores<br/>
-            Then La plataforma muestra una opción de "Editar" para corregir los datos del vehículo.
-            <b>Scenario 3: Registro del vehiculo no válido.</b> <br/>
-            Given que el owner está en la sección de "registration vehicle" de su cuenta. <br/>
-            When registra un nuevo vehículo a la aplicación <br/>
-            And Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo <br/>
-            Then La aplicación al validar los datos verifica que no son correctos And muestra un mensaje de "Error el registro" <br/>
+            Dado que el owner tiene acceso a la aplicación <br/>
+            Cuando encuentra errores en los datos del vehículo registrado,<br/>
+            y edita y corrige los datos del vehículo, <br/>
+            Luego el sistema guarda los cambios correctamente.<br/>
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US02</td>
         <td>Establecer Tarifas</td>
-        <td>Cómo Owner quiero establecer tarifas para poder gestionar de manera efectiva la rentabilidad de mi vehículo</td>
+        <td>Como Owner, quiero definir el precio de alquiler de mi vehículo para maximizar mis ingresos y asegurar una compensación justa por su uso.</td>
         <td>
             <b>Escenario 1: Establecer tarifas según el tipo del vehículo.</b> <br/>
-            Given que el Owner está en la sección de "Costos" <br/>
-            When decide establecer las tarifas para el vehículo registrado<br/>
-            And establece su costo por hora, día y por semana del alquiler del vehículo<br/>
-            Then La plataforma procesa la información correctamente y el vehículo queda configurado con las tarifas y disponibilidad establecidas, permitiéndole gestionar de manera efectiva la rentabilidad y accesibilidad del vehículo para los usuarios. <br/><br/>
+            Dado que el Owner tiene un vehículo registrado, <br/>
+            Cuando establece la tarifa para su vehículo,<br/>
+            E ingresa el costo por hora, día y semana,<br/>
+            Luego el sistema procesa la información correctamente,<br/>
+            Y el vehículo queda configurado con las tarifas y disponibilidad establecidas<br/><br/>
             <b>Escenario 2: Problema al establecer tarifas.</b> <br/>
-            Given que el Owner está en la sección de "Costos" <br/>
-            When intenta establecer las tarifas <br/>
-            And Al ingresar las tarifas según los parametros que establece la aplicación y comete error <br/>
-            Then La plataforma muestra un mensaje de error indicando la razón del problema en la configuración de tarifas.
+            Dado que el Owner tiene un vehículo registrado, <br/>
+            Cuando  intenta establecer las tarifas,<br/>
+            Y comete un error al ingresar las tarifas según los parámetros establecidos por la aplicación, <br/>
+            Luego el sistema no procesa satisfactoriamente la información ingresada.
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US03</td>
-        <td>Eficiencia al organizar los vehículos</td>
-        <td>Cómo Owner quiero organizar para gestionar su renta.</td>
-        <td>
-            <b>Escenario 1: Gestión exitosa de vehículos para renta</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Decide gestionar un vehículo para renta. <br/>
-            And Accede al sistema de gestión de vehículos y selecciona el vehículo que desea gestionar. <br/>
-            Then Puede establecer las tarifas de alquiler, la disponibilidad horaria, los días disponibles y cualquier restricción adicional que desee aplicar. <br/>
-            And El vehículo queda configurado y listo para ser ofrecido a los usuarios para su alquiler, permitiéndome gestionar de manera efectiva la renta del vehículo. <br/><br/>
-            <b>Escenario 2: Problema al gestionar un vehículo para renta</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Intenta gestionar un vehículo para renta. <br/>
-            And Al intentar configurar las tarifas, la disponibilidad o cualquier otro detalle, comete un error. <br/>
-            Then Debe corregir los datos para poder completar la gestión del vehículo con éxito y ofrecerlo para su renta a los usuarios.
-        </td>
-        <td>EP01</td>
-    </tr>
-    <tr>
-        <td>US04</td>
         <td>Visualización de Trámites</td>
         <td>Cómo Owner quiero acceder a los estados de trámites de mis vehículos para estar al tanto del progreso de los trámites relacionados.</td>
         <td>
             <b>Escenario 1: Acceso exitoso a los estados de trámites de los vehículos</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Accede al sistema de gestión de trámites de vehículos. <br/>
-            And Selecciona un vehículo específico para revisar su estado de trámite. <br/>
-            Then Puede ver el progreso del trámite, como la renovación de seguros, la inspección técnica, la documentación legal, etc. <br/>
-            And Esta al tanto de cualquier actualización o cambio en el estado del trámite, lo que me permite tomar decisiones informadas y planificar adecuadamente. <br/><br/>
+            Dado que el Owner tiene acceso al sistema, <br/>
+            Cuando selecciona un vehículo específico para revisar su estado de trámite,. <br/>
+            Luego la plataforma muestra el progreso del trámite, como la renovación de seguros, la inspección técnica, la documentación legal, etc.. <br/><br/>
             <b>Escenario 2: Problema al acceder a los estados de trámites de los vehículos</b> <br/>
-            Given Soy que el Owner de vehículos menores. <br/>
-            When Intenta acceder al sistema de gestión de trámites de vehículos. <br/>
-            And Encuentra un problema técnico que impide la visualización de los estados de trámites. <br/>
-            Then Debe contactar al soporte técnico para obtener asistencia y poder acceder nuevamente a los estados de trámites de sus vehículos.
+            Dado que el propietario tiene acceso al sistema, <br/>
+            Cuando intenta acceder a los estados de trámites de los vehículos, <br/>
+            Y encuentra un problema técnico, <br/>
+            Then la plataforma no muestra los estados de trámites.
+        </td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Visualización del Recorrido</td>
+        <td>Como Owner, quiero visualizar el recorrido y tiempo de uso de los vehículos.</td>
+        <td>
+            <b>Escenario 1: Visualización exitosa del recorrido y tiempo de uso de los vehículos</b> <br/>
+            Dado que el Owner tiene acceso al sistema, <br/>
+            Cuando selecciona su vehículo en estado de alquiler. <br/>
+            Luego la plataforma muestra en tiempo real el recorrido del vehículo en el mapa y el tiempo total de uso durante un período específico. <br/><br/>
+            <b>Escenario 2: Problema al visualizar el recorrido y tiempo de uso de los vehículos</b> <br/>
+            Dado que el Owner tiene acceso al sistema, <br/>
+            Cuando intenta acceder al estado de su vehículo desde el sistema de gestión de vehículos. <br/>
+            Y Encuentra un problema técnico que impide la visualización del recorrido y tiempo de uso. <br/>
+            Luego la plataforma no muestra el recorrido y tiempo de uso.
         </td>
         <td>EP02</td>
     </tr>
     <tr>
         <td>US05</td>
-        <td>Visualización del Recorrido</td>
-        <td>Cómo Owner quiero visualizar el recorrido y tiempo de uso de los vehículos a través de la API de Google.</td>
-        <td>
-            <b>Escenario 1: Visualización exitosa del recorrido y tiempo de uso de los vehículos</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Accede a la API de Google Maps desde el sistema de gestión de vehículos. <br/>
-            And Selecciona un vehículo específico para visualizar su recorrido y tiempo de uso. <br/>
-            Then Puede ver en tiempo real el recorrido que ha realizado el vehículo en el mapa, así como el tiempo total de uso durante un período específico. <br/>
-            And Tiene acceso a información detallada como la distancia recorrida, las paradas realizadas y la duración de cada trayecto, lo que le permite analizar el uso del vehículo y tomar decisiones informadas. <br/><br/>
-            <b>Escenario 2: Problema al visualizar el recorrido y tiempo de uso de los vehículos</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Intenta acceder a la API de Google Maps desde el sistema de gestión de vehículos. <br/>
-            And Encuentra un problema técnico que impide la visualización del recorrido y tiempo de uso. <br/>
-            Then Debe contactar al soporte técnico para obtener asistencia y poder acceder nuevamente a la información del recorrido y tiempo de uso de mis vehículos.
-        </td>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US06</td>
         <td>Historial de reserva</td>
         <td>Cómo Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso.</td>
         <td>
@@ -143,7 +117,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US07</td>
+        <td>US06</td>
         <td>Historial de mantenimiento</td>
         <td>Cómo Owner quiero acceder al historial de mantenimiento y/o reparación realizados a mis vehículos para conocer las condiciones de mis vehículos.</td>
         <td>
@@ -161,7 +135,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US08</td>
+        <td>US07</td>
         <td>Visualización del perfil de cliente</td>
         <td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente.</td>
         <td>
@@ -179,7 +153,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US09</td>
+        <td>US08</td>
         <td>Retiro de ingresos</td>
         <td>Cómo Owner quiero retirar los ingresos generados por los vehículos para ampliar mi flota.</td>
         <td>
@@ -198,7 +172,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US10</td>
+        <td>US09</td>
         <td>Visualización de catálogo de vehículos</td>
         <td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades.</td>
         <td>
@@ -217,7 +191,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US11</td>
+        <td>US10</td>
         <td>Reserva de vehículo</td>
         <td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad.</td>
         <td>
@@ -236,7 +210,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US12</td>
+        <td>US11</td>
         <td>Gestión del servicio</td>
         <td>Como cliente quiero gestionar el servicio para poder finalizarlo cuando lo requiera.</td>
         <td>
@@ -255,7 +229,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US13</td>
+        <td>US12</td>
         <td>Visualizar tiempo y distancia de recorrido</td>
         <td>Como cliente quiero visualizar en tiempo real la distancia y tiempo recorrido para gestionar mejor mi uso del servicio.</td>
         <td>
@@ -273,7 +247,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US14</td>
+        <td>US13</td>
         <td>Visualizar restricciones</td>
         <td>Como cliente quiero visualizar los límites de uso de mi vehículo reservado a través de la API de Google Maps para asegurarme de cumplir con las restricciones.</td>
         <td>
@@ -292,7 +266,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US15</td>
+        <td>US14</td>
         <td>Alerta de vías</td>
         <td>Como cliente quiero recibir alertas del estado de vía a través de la API de Google Maps para conocer las condiciones de las vías.</td>
         <td>
@@ -309,7 +283,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US16</td>
+        <td>US15</td>
         <td>Inscripción de taller</td>
         <td>Cómo mecánico quiero inscribir mi taller a la aplicación, para ofrecer mis servicios.</td>
         <td>
@@ -328,7 +302,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US17</td>
+        <td>US16</td>
         <td>Colocación de tarifas</td>
         <td>Cómo mecánico quiero establecer tarifas según el tipo de servicio y disponibilidad para brindar una estructura de precios clara.</td>
         <td>
@@ -348,7 +322,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US18</td>
+        <td>US17</td>
         <td>Visualizar solicitudes de servicio</td>
         <td>Cómo mecánico quiero acceder a las solicitudes de servicio para poder revisar los detalles.</td>
         <td>
@@ -367,7 +341,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US19</td>
+        <td>US18</td>
         <td>Envio de informe del mantenimiento</td>
         <td>Cómo mecánico quiero realizar y enviar un informe del servicio brindado para documentar los trabajos realizados.</td>
         <td>
@@ -385,7 +359,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US20</td>
+        <td>US19</td>
         <td>Notificación de finalización del servicio</td>
         <td>Cómo mecánico quiero finalizar y notificar la culminación del servicio para informar al cliente que su vehículo está listo.</td>
         <td>
@@ -402,7 +376,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US21</td>
+        <td>US20</td>
         <td>Registro de ingresos</td>
         <td>Cómo mecánico quiero observar los ingresos generados por el servicio para llevar un registro preciso de los pagos recibidos.</td>
         <td>
@@ -420,7 +394,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US22</td>
+        <td>US21</td>
         <td>Historial de mantenimiento</td>
         <td>Cómo mecánico quiero acceder al historial de mantenimiento realizado a los vehículos para tener un registro de las reparaciones anteriores.</td>
         <td>
@@ -438,7 +412,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US23</td>
+        <td>US22</td>
         <td>Comunicación con soporte</td>
         <td>Cómo Owner quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
         <td>
@@ -457,7 +431,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US24</td>
+        <td>US23</td>
         <td>Historial de reservas</td>
         <td>Como cliente quiero ver historial de reservas para llevar un seguimiento de uso.</td>
         <td>
@@ -474,7 +448,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US25</td>
+        <td>US24</td>
         <td>Comunicación con soporte</td>
         <td>Como cliente quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
         <td>
@@ -492,7 +466,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US26</td>
+        <td>US25</td>
         <td>Comunicación con soporte</td>
         <td>Como mecánico quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
         <td>
@@ -510,7 +484,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US27</td>
+        <td>US26</td>
         <td>Visualización de planes</td>
         <td>Como cliente quiero ver los planes del servicio para elegir uno adecuado.</td>
         <td>
@@ -526,7 +500,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US28</td>
+        <td>US27</td>
         <td>Servicios</td>
         <td>Como cliente quiero saber los beneficios del servicio para elegir un plan de suscripción.</td>
         <td>
@@ -542,7 +516,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US29</td>
+        <td>US28</td>
         <td>Conocer al equipo</td>
         <td>Como cliente quiero informarme sobre el equipo a cargo del proyecto para conocer sus objetivos.</td>
         <td>
@@ -558,7 +532,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US30</td>
+        <td>US29</td>
         <td>Información del producto</td>
         <td>Como cliente quiero ver información general sobre el servicio.</td>
         <td>
@@ -574,7 +548,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US31</td>
+        <td>US30</td>
         <td>Ingreso de cuenta</td>
         <td>Como cliente quiero ingresar a una cuenta para ver mi suscripción, mi información y la disponibilidad de vehículos.</td>
         <td>
