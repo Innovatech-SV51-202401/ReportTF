@@ -1072,131 +1072,72 @@ La meta del sprint fue presentar una verison temprana del front end, el equipo u
 			<td>Status(To-Do / In-Progress / To-Review / Done)</td>
 		</tr>
 		<tr>
-			<td>US06</td>
-			<td>Historial de reserva</td>
+			<td>US31</td>
+			<td>Reserva de vehiculo</td>
 			<td>TA1</td>
-			<td>Historial de reserva</td>
-			<td>Cómo Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso</td>
+			<td>Registro vehiculo</td>
+			<td>Como desarrollador,quiero permitir que un propietario registre un vehículo a través de una API para que el vehículo esté disponible para ser alquilado por los clientes</td>
 			<td>2</td>
 			<td>Vladimir</td>
 			<td>To-Review</td>
 		</tr>
 		<tr>
-			<td>US08</td>
-			<td>Visualización del perfil de cliente</td>
+			<td>US32</td>
+			<td>Obtener lista de vehiculos disponibles para alquilar</td>
 			<td>TA2</td>
-			<td>Visualización del perfil de cliente</td>
-			<td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente</td>
+			<td>Lista vehiculo</td>
+			<td>Como desarrollador,quiero permitir que un cliente obtenga una lista de vehículos registrados a través de una API para que el cliente pueda elegir uno para alquilar</td>
 			<td>2</td>
 			<td>Omar</td>
 			<td>To-Review</td>
 		</tr>
 		<tr>
-			<td>US11</td>
-			<td>Reserva de vehiculo</td>
+			<td>US33</td>
+			<td>Obtener historial de servicios de un cliente</td>
 			<td>TA3</td>
-			<td>Reserva de vehiculo</td>
-			<td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad</td>
+			<td>Obtener historial de servicios</td>
+			<td>Como desarrollador, quiero permitir que un cliente obtenga su historial de servicios a través de una API para que el cliente pueda revisar sus alquileres pasados</td>
 			<td>2</td>
 			<td>Vladimir, Nestor, Sebastian</td>
 			<td>To-Review</td>
 		</tr>
 		<tr>
-			<td>US24</td>
-			<td>Visualizar historial de reservas</td>
+			<td>US34</td>
+			<td>Obtener tiempo de uso, distancia recorrida y dinero ganado por el propietario</td>
 			<td>TA4</td>
-			<td>Visualizar historial de reservas</td>
-			<td>Como cliente quiero ver historial de reservas para llevar un seguimiento de uso</td>
+			<td>Tiempo de uso</td>
+			<td>Como desarrollador, quiero permitir que un propietario obtenga el tiempo de uso, distancia recorrida y dinero ganado a través de una API para que el propietario pueda ver el rendimiento de sus vehículos alquilados</td>
 			<td>2</td>
 			<td>Vladimir, Nestor, Sebastian</td>
 			<td>To-Review</td>
 		</tr>
 		<tr>
-			<td>US31</td>
-			<td>Ingreso de cuenta</td>
+			<td>US35</td>
+			<td>Obtener el servicio actual del vehiculo que esta siendo usado</td>
 			<td>TA5</td>
-			<td>Ingreso de cuenta</td>
-			<td>Como cliente quiero ingresar a una cuenta para ver mi suscripción, mi información y la disponibilidad de vehiculos.</td>
+			<td>Servicio activo</td>
+			<td>Como desarrollador, quiero permitir que un cliente obtenga el servicio actual del vehículo que está utilizando a través de una API para que el cliente pueda ver los detalles del alquiler en curso</td>
 			<td>4</td>
 			<td>Omar</td>
 			<td>To-Review</td>
 		</tr>
-		<tr>
-			<td>US10</td>
-			<td>Visualización de catalogo de vehiculos</td>
-			<td>TA6</td>
-			<td>Visualización de catalogo de vehiculos</td>
-			<td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades</td>
-			<td>2</td>
-			<td>Francisco</td>
-			<td>To-Review</td>
-		</tr>
+
 	</tbody>
 </table>
 
 #### 5.2.3.3 Development Evidence for Sprint Review.
-<table>
-	<tbody>
-		<tr>
-			<td>Repository</td>
-			<td>Branch</td>
-			<td>Commit ID</td>
-			<td>Commit Message</td>
-			<td>Commit Message Body</td>
-			<td>Commit on (date)</td>
-		</tr>
-		<tr>
-			<td rowspan="7">https://github.com/Innovatech-SV51-202401/GlideGo-Backend</td>
-			<td>main</td>
-			<td>2b9aafd7eb2e33d759098b123745241f820c831e</td>
-			<td>feat: added package</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-		<tr>
-			<td>develop</td>
-			<td>a7ada4f7654b99369533f810e5221f2e54d12662</td>
-			<td>Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-		<tr>
-			<td>feature/design</td>
-			<td>a5b99a73397f2dd17aba6d67d64b63ccaa34ea37</td>
-			<td>feat(design): added design bounded context.</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-		<tr>
-			<td>feature/execution-monitor</td>
-			<td>0bdafde0b8c3373bc9816047c0b80ef22cd31be5</td>
-			<td>Merge remote-tracking branch 'origin/feature/execution-monitor' into feature/execution-monitor</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-		<tr>
-			<td>feature/identify-access</td>
-			<td>23728df5cfc6354be639f00f80cc1313e8d5078c</td>
-			<td>fix: dependencies</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-		<tr>
-			<td>feature/identifyAccesTestV</td>
-			<td>1a7cfe3522b34b7e2af8653858e596935739f711</td>
-			<td>feat(shared): added logic from persistence</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-		<tr>
-			<td>feature/profiles</td>
-			<td>69de7abdf1b66f8ee20ed3bfe153377fcf707ced</td>
-			<td>feat(Profiles): Added base table for profiles</td>
-			<td>-</td>
-			<td>05/06/2024</td>
-		</tr>
-	</tbody>
-</table>
+
+| Repository                          | Branch                | Commit ID      | Commit Message                              | Commit Message body | Committed on(date) |
+|-------------------------------------|-----------------------|----------------|----------------------------------------------|---------------------|--------------------|
+| Innovatech-SV51-202401/GlideGo-Backend   | main    | a7ada4f7654b99369533f810e5221f2e54d12662              | Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor            |                     | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend   | main    | 0bdafde0b8c3373bc9816047c0b80ef22cd31be5              | Merge branch 'user-profile-system' into development  |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend   | main    | 5fe20b8d2677051252100ace1f3635bf61e3fde7              | fix: fix vehicleusage files                                |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend   | main    | 5a443378483931e3150944ab3170360f31552269              | feat: added vehicleid, distancetousem durationtouse and location in ActiveServices.cs.                       |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend   | main    | af1551c84c2fc65039a878564273699c47c6816e              | feat: add base configuration.                                        |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend  |  main    | 9ee77642c3d1d355ad316ec79a8c300784a9f824             | feat: configuration of the program.cs and appsettings.json files.                                |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend  |  main     | 4d4e6616f62a47a110fac13bc4157ccef9935d2a            | feat: add vehicle usage functionalities.                         |                     | 04/06/24           |
+
+
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
 Se desarrollo una version temprana de las secciones de login, register, visualizacion de perfiles, reservas y las listas de alquileres.
