@@ -1035,7 +1035,7 @@ La meta del sprint fue presentar una verison temprana del front end, el equipo u
 		</tr>
 		<tr>
 			<td>Sprint 3 Goal</td>
-			<td>Desarrollar una Version temprana del BackEnd utilizando las herramientas brindadas en clase.
+			<td>Desarrollar  el BackEnd utilizando las herramientas brindadas en clase.
             </td>
 		</tr>
 		<tr>
@@ -1203,6 +1203,73 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 ![img_2.png](../assets/img/back3.png)
 ![img_3.png](../assets/img/back4.png)
 ![img_4.png](../assets/img/back5.png)
+
+#### 5.2.4. Sprint 4
+
+#### 5.2.4.1 Sprint Planning 4.
+
+<table>
+	<tbody>
+		<tr>
+			<td>  Sprint #  </td>
+			<td>Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Planning Background</center></td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>22 de Junio del 2024</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>10 horas</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Reunión virtual mediante la plataforma de Discord.</td>
+		</tr>
+		<tr>
+			<td>Prepared By</td>
+			<td>Vladimir Jara Benites</td>
+		</tr>
+		<tr>
+        <td>Attendees (to planning meeting)</td>
+            <td>
+                <ul>
+                    <li>Flores Manrique, Sebastian</li>
+                    <li>Velarde Gonzales, Néstor</li>
+                    <li>Berrocal Ramirez, Omar</li>
+                    <li>Benites Jara, Vladimir</li>
+                </ul>
+            </td>
+        </tr>
+		<tr>
+			<td>Sprint 4 Review Summary</td>
+			<td>Cuarto Sprint desarrollado por el team</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Retrospective Summary</td>
+			<td>Desarrollar y corregir los elementos del Landing Page, FrontEnd y BackEnd </td>
+		</tr>
+		<tr>
+			<td colspan="2"><center>Sprint Goal & User Stories</center></td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Goal</td>
+			<td>Se desplegó las versiones finales de los elementos del Landing Page, FrontEnd y BackEnd</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Velocity</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ## Conclusiones
 Nuestro equipo Innovatech ha identificado un nicho de mercado específico dentro del sector de transporte, centrándose en vehículos menores o ligeros como bicicletas, skateboards, scooters y motos eléctricas. Esta especialización puede ayudarles a diferenciarse y destacar en un mercado cada vez más competitivo y nuestra propuesta está orientada hacia la innovación y la calidad en el transporte.
