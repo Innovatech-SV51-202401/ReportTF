@@ -262,37 +262,42 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
-![Software-Object-Oriented-Design](../assets/Software-Object-Oriented-Design/class-diagram.PNG)
+
+![Software-Object-Oriented-Design](../assets/Software-Object-Oriented-Design/class-diagram.png)
+
 Fuente: Imagen propia
-Link: https://lucid.app/lucidchart/0f72fb11-fe3b-4ad5-8b62-a201354f531b/edit?viewport_loc=-2533%2C-2114%2C5817%2C2432%2C0_0&invitationId=inv_31b6a745-b508-40b3-92e3-08ec5e032b70
+Link: [Diagrama de clases](https://lucid.app/lucidchart/0f72fb11-fe3b-4ad5-8b62-a201354f531b/edit?viewport_loc=-2533%2C-2114%2C5817%2C2432%2C0_0&invitationId=inv_31b6a745-b508-40b3-92e3-08ec5e032b70)
 
 ### 4.7.2. Class Dictionary
-**Usuario**
+**Client**
 
-|Atributo|Tipo de dato|Descripción|
-|-|-|-|
-|id_usuario|int|Código de 4 dígitos para identificar al usuario.|
-|nombres|string|Nombre y apellidos completos del usuario.|
-|edad|int|Edad de la persona, principalmente para validar al usuario que es mayor de edad.|
-|direccion|string|Dirección de la persona donde vive actualmente.|
-|numero_telefono|string|Número telefónico de la persona asociado a whatsapp.|
-|usuario|string|Usuario de la persona para acceder a la aplicación web.|
-|contraseña|string|Clave personal de la persona|
+| Atributo    |Tipo de dato| Descripción                                                                      |
+|-------------|-|----------------------------------------------------------------------------------|
+| IdUser      |int| Código de 4 dígitos para identificar al usuario.                                 |
+| FirstName   |string| Nombres completos del usuario.                                                   |
+| LastName    |string| Apellidos completos del usuario.                                                 |
+| Age         |int| Edad de la persona, principalmente para validar al usuario que es mayor de edad. |
+| Address     |string| Dirección de la persona donde vive actualmente.                                  |
+| PhoneNumber |string| Número telefónico de la persona asociado a whatsapp.                             |
+| UserName    |string| Usuario de la persona para acceder a la aplicación web.                          |
+| Password    |string| Clave personal de la persona                                                     |
 
 **Owner**
 
-|Atributo|Tipo de dato|Descripción|
-|-|-|-|
-|id_usuario|int|Código de 4 dígitos para identificar al usuario.|
-|nombres|string|Nombre y apellidos completos del usuario.|
-|edad|int|Edad de la persona, principalmente para validar al usuario que es mayor de edad.|
-|direccion|string|Dirección de la persona donde vive actualmente.|
-|numero_telefono|string|Número telefónico de la persona asociado a whatsapp.|
-|vehiculo|string|Vehiculo que dispone para poner en alquiler.|
-|usuario|string|Usuario de la persona para acceder a la aplicación web.|
-|contraseña|string|Clave personal de la persona.|
+| Atributo    |Tipo de dato|Descripción|
+|-------------|-|-|
+| IdUser      |int|Código de 4 dígitos para identificar al usuario.|
+| FirstName   |string| Nombres completos del usuario.                                                   |
+| LastName    |string| Apellidos completos del usuario.                                                 |
+| Age         |int|Edad de la persona, principalmente para validar al usuario que es mayor de edad.|
+| Address     |string|Dirección de la persona donde vive actualmente.|
+| PhoneNumber |string|Número telefónico de la persona asociado a whatsapp.|
+| Vehicle     |string|Vehiculo que dispone para poner en alquiler.|
+| User        |string|Usuario de la persona para acceder a la aplicación web.|
+| Password    |string|Clave personal de la persona.|
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
+
 ![Database-Design](../assets/Database-Design/database-diagram.png)
