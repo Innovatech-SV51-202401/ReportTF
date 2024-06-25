@@ -1,0 +1,303 @@
+# Capitulo IV: Product Design
+
+## 4.1. Style Guidelines.
+
+En esta sección se especifican los estilos generales de la aplicación web para el proceso de Front-End.
+
+### 4.1.1. General Style Guidelines.
+
+Nuestro prototipo web integrará ciertos ajustes de colores, fuente de letra o tipografía
+y creación de un diseño estructural de la plataforma.
+El color verde brillante de nuestro logo y nuestros interfaces anima a las personas a tomar otras alternativas 
+de deciones en su transporte diarío, ya que dicho color representa la naturaleza y frescura.
+La tipografía que aplicamos en nuestro prototipo es Open Sans, ya que, ayuda a darle un estilo
+amigable a nuestra aplicación web, gracias a la tipografía cierta información que se encuentre en
+el sitio web se verá ordenada y entendible por nuestros segmentos objetivos.
+
+#### Paleta de colores
+
+- **Verde Brillante:** #ADE366 (Es el color primario que se aplicará a nuestro aplicación web en la mayor parte)
+- **Gris Azulado:** #5D6D7E (Color que se aplicará de manera simultanea en los botones)
+- **Blanco:** #E4E4E4 (Dicho color se aplicará en textos o fondo de aplicación web)
+
+![img.png](../assets/Components/Color-palette.png)
+
+#### Tipografía
+
+Se define el tipo de tipografía que se utilizará en todo el proyecto.
+
+![img.png](../assets/img/typography.png)
+
+![img.png](../assets/img/GSG-2.png)
+
+#### Logo de GlideGo:
+Nuestro logo representa un tono de verde con el código hexadecimal #ADE366, combina una bicicleta y 
+una hoja de planta. La bicicleta simboliza movilidad, libertad y sostenibilidad, por otro lado la 
+hoja representa la naturaleza y el compromiso con el medio ambiente. Esta combinación refleja nuestra 
+visión de ofrecer soluciones de movilidad ecológica y sostenible. 
+
+#### Logo vertical:
+
+![img.png](../assets/img/Logo-1.png)
+
+#### Logo horizontal:
+
+![img.png](../assets/img/logo-h-1.png)
+
+![img.png](../assets/img/logo-h-2.png)
+
+### 4.1.2. Web Style Guidelines.
+
+Nuestro sitio web presenta una barra de navegación con rutas a "Inicio", "Sobre nosotros", "Servicios", "Planes", "Contactanos" e "Iniciar sesión". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo. Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
+
+## 4.2. Information Architecture.
+
+### 4.2.1. Organization Systems.
+
+Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: “About us”, “Services”, “Plans”, “Contact” y “Register”.
+
+Para el proceso de reservas de vehículos haremos uso de la organización secuencial:
+- Solicitud de reserva(clientes):
+1. Búsqueda de vehículos
+2. Elección del tipo de vehículo
+3. Solicitud de reserva
+4. Entrega del vehículo
+5. Devolución del vehículo
+- Solicitud de la inscripción de vehículos(owner):
+1. Inscripción de vehículo a la plataforma
+2. Establecer tarifa y disponibilidad del vehículo
+3. Publicar disponibilidad del vehículo
+
+Para los esquemas de organización utilizaremos los siguientes tipos:
+
+- Organización por orden cronológico para el historial de reservas y las reseñas a los clientes
+- Organización por segmentos(uso/tipo) para la sección de “Mis vehículos” del Owner.
+- Organización por orden alfabético para la sección “Mis vehículos” del Owner y la sección “Mantenimiento” del mecánico.
+
+### 4.2.2. Labeling Systems.
+Para el uso de etiquetas de nuestro landing page, se ha elegido un lenguaje sencillo lo que permite a los usuarios familiarizarse con facilidad a las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva.
+
+En el Landing Page:
+
+| Etiqueta       | Descripcion                                                                              | 
+|----------------|------------------------------------------------------------------------------------------|
+| Inicio         | Apartado donde se muestra la información de la aplicación explicando sus características | 
+| Sobre nosotros | Apartado donde se informa al usuario sobre el equipo y el propósito.                     |
+| Servicios      | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.               |
+| Planes         | Apartado donde se muestran todos los planes de suscripción                               |
+| Contactanos    | Apartado donde el usuario puede comunicarse con nosotros.                                |
+| Iniciar Sesion | Apartado para ingresar a la cuenta de usuario.                                           |
+
+Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes no pasan de tres palabras.  Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web.  Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podría ser confuso para los usuarios. Usaremos un botón de “más información”. Dirige a los usuarios a visualizar más detalles de preguntas y respuestas a sus problemas mediante correo por la cual nos brindaras tu nombre, correo y número.  En el parte superior derecho del home page contando con cuatro botones
+- Conócenos: Muestra quiénes somos, nuestro propósito y equipo.
+- Servicios: Muestra lo que ofrecemos al usuario para mejorar financieramente.
+- Planes: Muestra el plan que quiere adquirir lo cual le llevará a registrarse.
+- Obtener: Muestra las opciones de descarga para Android y IOS. 
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Title:
+
+![img.png](../assets/img/seo-tags.png)
+
+
+### 4.2.4. Sistemas de Búsqueda
+
+En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por texto que permitirá a los usuarios encontrar su vehículo de manera más rápida y personalizada.
+
+Además, se incluirán filtros para refinar las búsquedas de la siguiente manera:
+
+#### Filtros Disponibles:
+
+1. **Tipo de Vehículo:** Nuestros usuarios podrán filtrar los resultados según el tipo de vehículo, 
+como bicicletas, Skateboard o motos eléctricos.
+
+2. **Marca de Vehículo:** Se proporcionarán opciones de filtrado por marca de vehículo para 
+permitir a nuestros usuarios buscar específicamente dentro de una marca deseada.
+
+3. **Disponibilidad de Ubicación:** Este filtro permitirá a los usuarios buscar vehículos 
+disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar 
+opciones cercanas a ellos.
+
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente 
+la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.
+
+
+### 4.2.5. Navigation Systems.
+Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes 
+secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y 
+así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
+
+- **About us:** El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
+- **Services:** El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner, un Clien o un Mechanic.
+- **Plans:** Aquí podrá obtener toda la información de los planes semanales, mensuales y trimestrales que la aplicación le ofrece y además de poder registrarse.
+- **Contact us:** Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros .
+
+## 4.3. Landing Page UI Design.
+
+Para el diseño de nuestro landing page, hemos optado por utilizar como principales colores
+el verde brillante y blanco, ya que representan la naturaleza y frescura respectivamente,
+creando así un ambiente armonioso.
+Hemos distribuido los elementos de nuestro landing para poder resaltar la información
+importante, y hemos utilizado diferentes tamaños de botones para captar la atención del
+usuario hacia temas específicos. Además, hemos implementado una arquitectura jerárquica
+y un sistema de navegación interactivo para facilitar la exploración y la interacción con la
+página
+
+### 4.3.1. Landing Page Wireframe.
+
+En los wireframes de nuestra landing page, se han tenido en cuenta la usabilidad y la
+experiencia de los usuarios. Los wireframes reflejan un diseño intuitivo y fácil de
+navegar, con una disposición de los elementos y jerarquía visual clara, garantizando
+que nuestros usuarios puedan acceder fácilmente a la información relevante y
+completar las acciones que deseen sin problemas.
+
+
+Link de figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=0-1&mode=design&t=QeMym2oXpQQRRkGe-0 
+
+Es es una interfas principal de nuestro landing page.
+![img.png](../assets/img/landing-1.png)
+
+La opción "About Us" tendrá el siguiente interfás detallando quienes somos nuestra visión, visión y los desarrolladores del sistema.
+![img.png](../assets/img/landing-2.png)
+
+La opción "Services" tendrá informaciones detalladas a quienes van nuestr
+![img.png](../assets/img/landing-3.png)
+
+La opción de "Plans" muestra los diferentes suscripciones del servicio.
+![img.png](../assets/img/landing-4.png)
+
+La opción "Contac" muestra un interfas de comunicación. 
+![img.png](../assets/img/landing-5.png)
+
+
+### 4.3.2 Landing Page Mock-up.
+Link Figma: https://www.figma.com/file/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=75%3A2&mode=design&t=vmMKxEV2F816IZC1-1
+
+Frond end  de la aplicación web principal.
+
+![img.png](../assets/img/lading-6.png)
+
+Sección About Us, donde nuestros usuarios pueden conocer a nuestro aplicación web los servicios que ofrecemos. 
+
+![img.png](../assets/img/landing-7.png)
+
+Sección services, donde mostramos los servicios y oportunidades a cada nuestro segmento objetivo.
+
+![img.png](../assets/img/landing-8.png)
+
+Sección Plans, donde nuestros client pueden ver los diferentes tipos de planes que ofrecemos.
+
+![img.png](../assets/img/landing-9.png)
+
+Sección Contact, donde nuestros segmentos objetivos pueden realizar sus consultas.
+
+![img.png](../assets/img/landing-10.png)
+
+## 4.4. Web Applications UX/UI Design
+
+Para desarrollar nuestra diseños wireframes de aplicación web usamos la herramienta Figma. 
+
+### 4.4.1. Web Applications Wireframes
+
+Cuenta del mecánico, muestradistintas operaciones. 
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-mechanic.png)
+
+Sección para reservar un vehiculo. 
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-owner-reservas.png)
+
+Cuenta del client, muestra las opciones de reservas y datos personales. 
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-owner.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/wireframe-profile-user.png)
+
+### 4.4.2. Web Applications Wireflow Diagram
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/web-app-wireflow.png)
+
+### 4.4.3. Web Applications Mock-ups
+ 
+Login de nuestra aplicación web.
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-login.png)
+
+Sección de perfil de susario.
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-mechanic.png)
+
+Reserva de vehiculo menores
+
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-menu-user.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-balance.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-localizacion-mantenimiento.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner-reservas.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-owner_mantenimiento.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-recuperar-contrasenia.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-registro.png)
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/mock-up-registro_completo.png)
+
+### 4.4.4. Web Applications User Flow Diagrams
+![Web-Applications-UX-UI-Design](../assets/Web-Applications-UX-UI-Design/web-app-user-flow.png)
+
+## 4.5. Web Applications Prototyping
+Link del prototipo: https://www.figma.com/proto/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?type=design&node-id=200-1238&t=aAU6xJx7nPHgsRyD
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/
+
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Diagrama-Context.png)
+
+### 4.6.2. Software Architecture Container Diagrams
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Glidego-Container-Diagram.png)
+
+### 4.6.3. Software Arquitecture Component Diagrams.
+#### Access Management
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Access%20Management%20Glidego.png)
+#### Service Execution
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Execution%20Glidego.png)
+#### Payments and Subscriptions
+![Domain-Driven-Design](../assets/Domain-Driven-Design/Payments%20Glidego.png)
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
+
+![Software-Object-Oriented-Design](../assets/Software-Object-Oriented-Design/class-diagram.png)
+
+Fuente: Imagen propia
+Link: [Diagrama de clases](https://lucid.app/lucidchart/0f72fb11-fe3b-4ad5-8b62-a201354f531b/edit?viewport_loc=-2533%2C-2114%2C5817%2C2432%2C0_0&invitationId=inv_31b6a745-b508-40b3-92e3-08ec5e032b70)
+
+### 4.7.2. Class Dictionary
+**Client**
+
+| Atributo    |Tipo de dato| Descripción                                                                      |
+|-------------|-|----------------------------------------------------------------------------------|
+| IdUser      |int| Código de 4 dígitos para identificar al usuario.                                 |
+| FirstName   |string| Nombres completos del usuario.                                                   |
+| LastName    |string| Apellidos completos del usuario.                                                 |
+| Age         |int| Edad de la persona, principalmente para validar al usuario que es mayor de edad. |
+| Address     |string| Dirección de la persona donde vive actualmente.                                  |
+| PhoneNumber |string| Número telefónico de la persona asociado a whatsapp.                             |
+| UserName    |string| Usuario de la persona para acceder a la aplicación web.                          |
+| Password    |string| Clave personal de la persona                                                     |
+
+**Owner**
+
+| Atributo    |Tipo de dato|Descripción|
+|-------------|-|-|
+| IdUser      |int|Código de 4 dígitos para identificar al usuario.|
+| FirstName   |string| Nombres completos del usuario.                                                   |
+| LastName    |string| Apellidos completos del usuario.                                                 |
+| Age         |int|Edad de la persona, principalmente para validar al usuario que es mayor de edad.|
+| Address     |string|Dirección de la persona donde vive actualmente.|
+| PhoneNumber |string|Número telefónico de la persona asociado a whatsapp.|
+| Vehicle     |string|Vehiculo que dispone para poner en alquiler.|
+| User        |string|Usuario de la persona para acceder a la aplicación web.|
+| Password    |string|Clave personal de la persona.|
+
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
+
+![Database-Design](../assets/Database-Design/database-diagram.png)
