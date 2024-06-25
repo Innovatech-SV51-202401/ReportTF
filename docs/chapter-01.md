@@ -7,7 +7,7 @@ soluciones tanto para usuarios que buscan vehículos para fines de actividades d
 es facilitar el acceso a vehículos ligeros de forma segura y conveniente para nuestros usuarios, nuestro sitio web ofrecerá una experiencia excepcional, 
 garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehículos. 
 
-<table>
+<table border="1px">
 	<tbody>
 		<tr>
 			<td>Misión</td>
@@ -24,7 +24,7 @@ garantizando la disponibilidad, seguridad y mantenimiento óptimo de sus vehícu
 
 ### 1.1.2. Perfiles de integrantes del negocio
 
-<table>
+<table border="1px">
     <tbody>
         <tr>
             <td><img src="../assets/members-profile/Velarde.jpg" alt="Imagen de Néstor Hernán Velarde"></td>
