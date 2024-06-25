@@ -439,10 +439,9 @@ Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Archi
 
 - Repositorio Api: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
 
-
 - Figma Landing Page: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
 
-- Figma App Web: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- Figma App Web, Diseño wireframes, MockUps: [Click Aquí](https://www.figma.com/design/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?node-id=0-1&t=HhIKo6gl7vsqymcn-1)
 
 - PivotalTracker-ProductBacklog: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
 
@@ -452,6 +451,6 @@ Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Archi
 
 - VIDEO EXPO TB2: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
 
-- VIDEO ABOUT THE TEAM: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- VIDEO ABOUT THE TEAM: [Click Aquí](https://upcedupe-my.sharepoint.com/:v:/r/personal/u20211c221_upc_edu_pe/Documents/About%20the%20team.mp4?csf=1&web=1&e=tG1Pc0)
 
-- VIDEO ABOUT THE PRODUCT: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- VIDEO ABOUT THE PRODUCT: [Click Aquí](https://upcedupe-my.sharepoint.com/:v:/r/personal/u20211c221_upc_edu_pe/Documents/About%20the%20Product.mp4?csf=1&web=1&e=cirHKy)
