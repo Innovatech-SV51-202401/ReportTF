@@ -103,11 +103,10 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>Cómo Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso.</td>
         <td>
             <b>Escenario 1: Acceso exitoso al historial de vehículos reservados</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Accede al sistema de gestión de reservas desde la plataforma. <br/>
-            And Selecciona un vehículo específico para revisar su historial de reservas. <br/>
-            Then Puede ver el historial completo de todas las reservas realizadas para ese vehículo, incluyendo fechas, duración de la reserva, nombre del cliente, tarifas aplicadas, estado de la reserva, etc. <br/>
-            And Tiene acceso a información detallada sobre cómo se ha utilizado el vehículo a lo largo del tiempo, lo que le permite monitorear su uso de manera efectiva. <br/><br/>
+            Dado que el Owner tiene acceso al sistema <br/>
+            Cuando Accede al historial de reservas desde la plataforma. <br/>
+            y Selecciona un vehículo específico para revisar su historial de reservas. <br/>
+            Luego el sistema muestra el historial completo de todas las reservas realizadas para ese vehículo. <br/><br/>
             <b>Escenario 2: Problema al acceder al historial de vehículos reservados</b> <br/>
             Given que el Owner de vehículos menores. <br/>
             When Intenta acceder al sistema de gestión de reservas desde la plataforma. <br/>
@@ -122,15 +121,14 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>Cómo Owner quiero acceder al historial de mantenimiento y/o reparación realizados a mis vehículos para conocer las condiciones de mis vehículos.</td>
         <td>
             <b>Escenario 1: Acceso exitoso al historial de mantenimiento y reparación</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Accede al sistema de gestión de mantenimiento y reparaciones desde la plataforma. <br/>
-            And Selecciona un vehículo específico para revisar su historial de mantenimiento y reparaciones. <br/>
-            Then Puede ver el historial completo de todas las actividades de mantenimiento y reparaciones realizadas en el vehículo, incluyendo fechas, tipo de servicio, piezas reemplazadas, costos asociados, notas del mecánico, etc. <br/>
-            And Tiene acceso a información detallada sobre el estado y las condiciones de sus vehículos. <br/><br/>
+            Dado que el Owner tiene acceso al sistema <br/>
+            Cuando selecciona un vehículo específico para revisar su historial de mantenimiento y reparaciones <br/>
+            Luego el sistema muestra el historial completo de todas las actividades de mantenimiento y reparaciones realizadas en el vehículo, incluyendo fechas, tipo de servicio, piezas reemplazadas, costos asociados, notas del mecánico, etc. <br/><br/>
             <b>Escenario 2: No hay historial de mantenimiento y reparación</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Intenta acceder al sistema de gestión de mantenimiento y reparaciones desde la plataforma. <br/>
-            Then Visualiza que su vehículo no tiene historial de mantenimiento.
+            Dado que el Owner tiene acceso al sistema. <br/>
+            Cuando intenta revisar el historial de mantenimiento y reparaciones de un vehículo, <br/>
+            Y no encuentra ninguna actividad registrada. <br/>
+            Luego el sistema muestra un mensaje indicando que no hay historial de mantenimiento y reparaciones para ese vehículo.
         </td>
         <td>EP02</td>
     </tr>
