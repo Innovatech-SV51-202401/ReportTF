@@ -1174,12 +1174,9 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 - *MySQL*: Se utilizó para la base de datos.
 
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="AgregarImagen" alt="Swagger" style="width:100%;">
+<img src="../assets/sprint3/sprint3.png" alt="Swagger" style="width:100%;">
 </div>
 
-<div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="AgregarImagen" alt="Swagger" style="width:100%;">
-</div>
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
