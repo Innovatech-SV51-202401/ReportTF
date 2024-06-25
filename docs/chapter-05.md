@@ -1392,7 +1392,13 @@ Link del respositorio: https://github.com/Innovatech-SV51-202401/GlideGo-Backend
 
 Link del Video-About-The-Product: https://drive.google.com/file/d/1JYJvPQa7Vl5Yj8GnTHJ8YdK9NnsJ4NYm/view?usp=sharing
 
-![img.png](../assets/img/repositorio-backend.png)
+A continuación se muestra el proceso para hacer el deployment del BackEnd.
+Web Service Para esto creamos un App services en Amazon WebService y subimos nuestro proyecto, para esto debemos darle permisos al Amazon WebService para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
+
+![img.png](../assets/img/deployment1.jfif)
+![img.png](../assets/img/deployment2.jfif)
+![img.png](../assets/img/deployment3.jfif)
+![img.png](../assets/img/deployment4.jfif)
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
