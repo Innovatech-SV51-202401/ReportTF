@@ -138,15 +138,15 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente.</td>
         <td>
             <b>Escenario 1: Visualización exitosa del perfil del cliente</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Accede al sistema de gestión de clientes desde la plataforma. <br/>
-            And Selecciona el perfil de un cliente que ha hecho uso de su vehículo. <br/>
-            Then Puede ver información detallada del cliente, como nombre, contacto, fotografía y comentarios. <br/><br/>
+            Dado que el Owner tiene acceso al sistema <br/>
+            Cuando  accede a la gestión de clientes desde la plataforma. <br/>
+            Y Selecciona el perfil de un cliente que ha hecho uso de su vehículo. <br/>
+            Luego el sistema le muestra la información detallada del cliente, como nombre, contacto, fotografía y comentarios. <br/><br/>
             <b>Escenario 2: Error al visualizar el perfil del cliente</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Intenta acceder al sistema de gestión de clientes desde la plataforma. <br/>
-            And Encuentra un problema técnico que impide la visualización del perfil del cliente. <br/>
-            Then Debe contactar al soporte técnico de la plataforma.
+            Dado que el Owner tiene acceso al sistema. <br/>
+            Cuando intenta acceder al perfil de un cliente desde la plataforma. <br/>
+            Y Encuentra un problema técnico que impide la visualización del perfil del cliente. <br/>
+            Luego el sistema no muestra la información del cliente.
         </td>
         <td>EP03</td>
     </tr>
@@ -156,16 +156,15 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>Cómo Owner quiero retirar los ingresos generados por los vehículos para ampliar mi flota.</td>
         <td>
             <b>Escenario 1: Retiro exitoso de ingresos generados por los vehículos</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Accede al sistema de gestión financiera desde la plataforma. <br/>
-            And Selecciona la opción de retirar ingresos generados por los vehículos. <br/>
-            Then Puede ver el monto total de ingresos disponibles para retirar. <br/>
-            And Procede a retirar los ingresos y el sistema confirma la transacción exitosa. <br/><br/>
+            Dado que el Owner accede a su wallet integrado en la plataforma, <br/>
+            Y cuenta con un saldo mayor a 10 dolares <br/>
+            Cuando Selecciona la opción de retirar ingresos generados por los vehículos. <br/>
+            Luego el sistema confirma la solicitud satisfactoriamente<br/><br/>
             <b>Escenario 2: Problema al retirar los ingresos generados por los vehículos</b> <br/>
-            Given que el Owner de vehículos menores. <br/>
-            When Intenta retirar los ingresos generados por los vehículos desde la plataforma. <br/>
-            And Utiliza un método de depósito incorrecto. <br/>
-            Then el sistema le arroja un aviso de fallo en el pago.
+            Dado que el Owner accede a su wallet integrado en la plataforma,. <br/>
+            Cuando intenta retirar los ingresos generados por los vehículos desde la plataforma. <br/>
+            Y Utiliza un método de depósito incorrecto. <br/>
+            Luego el sistema le arroja un aviso de fallo en el pago.
         </td>
         <td>EP03</td>
     </tr>
@@ -175,16 +174,15 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades.</td>
         <td>
             <b>Escenario 1: Visualización exitosa del catálogo de vehículos disponibles</b> <br/>
-            Given que el cliente de la aplicación de alquiler de vehículos menores. <br/>
-            When Accede al catálogo de vehículos desde la aplicación. <br/>
-            And Selecciona el tipo de vehículo que deseo ver, como bicicletas, scooters, motos eléctricas, etc. <br/>
-            Then Se muestra una lista de vehículos disponibles del tipo seleccionado, con información detallada como modelo, características, tarifas por hora o día, ubicación y disponibilidad. <br/>
-            And Puede navegar por el catálogo, comparar opciones y seleccionar el vehículo que mejor se ajuste a sus necesidades. <br/><br/>
-            <b>Escenario 2: Problema al visualizar el catálogo de vehículos disponibles</b> <br/>
-            Given que el cliente de la aplicación de alquiler de vehículos menores. <br/>
-            When Intenta acceder al catálogo de vehículos desde la aplicación. <br/>
-            And Encuentra un problema técnico que impide cargar o mostrar el catálogo. <br/>
-            Then Debe contactar con el soporte técnico de la plataforma.
+            Dado que el cliente de la aplicación de alquiler de vehículos menores tiene acceso al sistema, <br/>
+            Cuando accede al catálogo de vehículos disponibles desde la aplicación. <br/>
+            Y Selecciona el tipo de vehículo que desea alquilar, como bicicleta, scooter, moto eléctrica, etc. <br/>
+            Luego el sistema muestra una lista de vehículos disponibles con detalles como marca, modelo, tarifa, ubicación y disponibilidad. <br/><br/>
+           <b>Escenario 2: Problema al visualizar el catálogo de vehículos disponibles</b> <br/>
+            Dado que el cliente de la aplicación de alquiler de vehículos menores tiene acceso al sistema. <br/>
+            Cuando intenta acceder al catálogo de vehículos disponibles desde la aplicación. <br/>
+            Y Encuentra un problema técnico que impide la visualización del catálogo de vehículos. <br/>
+            Luego el sistema no muestra el catálogo de vehículos disponibles.
         </td>
         <td>EP04</td>
     </tr>
@@ -194,16 +192,16 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         <td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad.</td>
         <td>
             <b>Escenario 1: Reserva exitosa de un vehículo</b> <br/>
-            Given que el cliente de la aplicación de alquiler de vehículos menores. <br/>
-            When Accede al catálogo de vehículos disponibles desde la aplicación. <br/>
-            And Selecciona el vehículo que deseo reservar, considerando la disponibilidad, ubicación y tipo de vehículo que necesita. <br/>
-            And Elije la fecha y hora de inicio de su reserva, así como la duración del alquiler. <br/>
-            Then Confirma la reserva y la aplicación procesa la solicitud con éxito. <br/><br/>
+            Dado que el cliente de la aplicación de alquiler de vehículos menores. <br/>
+            Cuando Accede al catálogo de vehículos disponibles desde la aplicación. <br/>
+            y Selecciona el vehículo que deseo reservar, considerando la disponibilidad, ubicación y tipo de vehículo que necesita. <br/>
+            y Elije la fecha y hora de inicio de su reserva, así como la duración del alquiler. <br/>
+            Luego Confirma la reserva y la aplicación procesa la solicitud con éxito. <br/><br/>
             <b>Escenario 2: Error de pago al reservar un vehículo</b> <br/>
-            Given que el cliente de la aplicación de alquiler de vehículos menores. <br/>
-            When Intenta reservar un vehículo desde la aplicación. <br/>
-            And Encuentra que su información de pago no cuenta con fondos. <br/>
-            Then debe utilizar otro método de pago.
+            Dado que el cliente de la aplicación de alquiler de vehículos menores. <br/>
+            Cuando Intenta reservar un vehículo desde la aplicación. <br/>
+            Y Encuentra que su información de pago no cuenta con fondos. <br/>
+            Luego debe utilizar otro método de pago.
         </td>
         <td>EP04</td>
     </tr>
@@ -578,7 +576,7 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 
 ### Segmento 3:
 
-<img src="/assets/impact-mapping/Mecanico.png" alt="IM Mecanico" >
+<img src="/assets/impact-mapping/Mechanic.png" alt="IM Mecanico" >
 
 
 ## 3.4. Product Backlog.
@@ -597,7 +595,7 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
     <tr>
       <td>1</td>
       <td>US01</td>
-      <td>Inscripcion de vehiculos</td>
+      <td>Inscripcion de vehiculo</td>
       <td>Cómo Owner quiero inscribir los vehículos a la aplicación para poder ofrecerlos a potenciales usuarios</td>
       <td>8</td>
     </tr>
@@ -611,202 +609,195 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
     <tr>
       <td>3</td>
       <td>US03</td>
-      <td>Gestionamiento de vehiculos</td>
-      <td>Cómo Owner quiero gestionar mis vehículos para gestionar su renta</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>US04</td>
       <td>Visualización de tramites</td>
       <td>Cómo Owner quiero acceder a los estados de trámites de mis vehículos para estar al tanto del progreso de los trámites relacionados</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>US05</td>
+      <td>4</td>
+      <td>US04</td>
       <td>Visualización del recorrido</td>
-      <td>Cómo Owner quiero visualizar el recorrido y tiempo de uso de los vehículos a través de la API de google</td>
+      <td>Como Owner, quiero visualizar el recorrido y tiempo de uso de los vehículos.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>US06</td>
+      <td>5</td>
+      <td>US05</td>
       <td>Historial de reserva</td>
       <td>Cómo Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>US07</td>
+      <td>6</td>
+      <td>US06</td>
       <td>Historial de mantenimiento</td>
       <td>Cómo Owner quiero acceder al historial de mantenimiento y/o reparación realizados a mis vehículos para conocer las condiciones de mis vehículos</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>US08</td>
+      <td>7</td>
+      <td>US07</td>
       <td>Visualización del perfil de cliente</td>
       <td>Cómo Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>US09</td>
+      <td>8</td>
+      <td>US08</td>
       <td>Retiro de ingresos</td>
       <td>Cómo Owner quiero retirar los ingresos generados por los vehículos para ampliar mi flota</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>US10</td>
+      <td>09</td>
+      <td>US09</td>
       <td>Visualización de catalogo de vehiculos</td>
       <td>Como cliente quiero visualizar el catálogo de vehículos disponibles según tipo y disponibilidad para seleccionar el mejor ajuste a mis necesidades</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>US11</td>
+      <td>10</td>
+      <td>US10</td>
       <td>Reserva de vehiculo</td>
       <td>Como cliente quiero reservar un vehículo para desplazarme por la ciudad.</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>US12</td>
+      <td>11</td>
+      <td>US11</td>
       <td>Gestion del servicio</td>
       <td>Como cliente quiero gestionar el servicio para poder finalizarlo cuando lo requiera</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>US13</td>
+      <td>12</td>
+      <td>US12</td>
       <td>Visualizar tiempo y distancia de recorrido</td>
       <td>Como cliente quiero visualizar en tiempo real la distancia y tiempo recorrido para gestionar mejor mi uso del servicio</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>US14</td>
+      <td>13</td>
+      <td>US13</td>
       <td>Visualizar restricciones</td>
       <td>Como cliente quiero visualizar los límites de uso de mi vehículo reservado a través de la API de google maps para asegurarme de cumplir con las restricciones</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>US15</td>
+      <td>14</td>
+      <td>US14</td>
       <td>Alerta de vias</td>
       <td>Como cliente quiero recibir alertas del estado de vía a través de la API de google maps para conocer las condiciones de las vías</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>US16</td>
+      <td>15</td>
+      <td>US15</td>
       <td>Inscripcion de taller</td>
       <td>Cómo mecánico quiero inscribir mi taller a la aplicación, para ofrecer mis servicios</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>US17</td>
+      <td>16</td>
+      <td>US16</td>
       <td>Colocación de tarifas</td>
       <td>Cómo mecánico quiero establecer tarifas según el tipo de servicio y disponibilidad para brindar una estructura de precios clara</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>US18</td>
+      <td>17</td>
+      <td>US17</td>
       <td>Visualizar solicitudes de servicio</td>
       <td>Cómo mecánico quiero acceder a las solicitudes de servicio para poder revisar los detalles</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>US19</td>
+      <td>18</td>
+      <td>US18</td>
       <td>Envio de informe del mantenimiento</td>
       <td>Cómo mecánico quiero realizar y enviar un informe del servicio brindado para documentar los trabajos realizados</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>US20</td>
+      <td>19</td>
+      <td>US19</td>
       <td>Notificación de finalización del servicio</td>
       <td>Cómo mecánico quiero finalizar y notificar la culminación del servicio para informar al cliente que su vehículo está listo</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>US21</td>
+      <td>20</td>
+      <td>US20</td>
       <td>Gestión de ingresos</td>
       <td>Cómo mecánico quiero gestionar los ingresos generados por el servicio para llevar un registro preciso de los pagos recibidos</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>US22</td>
+      <td>21</td>
+      <td>US21</td>
       <td>Visualizar historial de mantenimiento</td>
       <td>Cómo mecánico quiero acceder al historial de mantenimiento realizado a los vehículos para tener un registro de las reparaciones anteriores</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>US23</td>
+      <td>22</td>
+      <td>US22</td>
       <td>Comunicación con soporte</td>
       <td>Cómo Owner quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>US24</td>
+      <td>23</td>
+      <td>US23</td>
       <td>Visualizar historial de reservas</td>
       <td>Como cliente quiero ver historial de reservas para llevar un seguimiento de uso</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US24</td>
+      <td>Comunicación con soporte</td>
+      <td>Como cliente quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>25</td>
       <td>US25</td>
       <td>Comunicación con soporte</td>
-      <td>Como cliente quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
+      <td>Como mecánico quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>26</td>
       <td>US26</td>
-      <td>Comunicación con soporte</td>
-      <td>Como mecánico quiero comunicarme con alguien de soporte a través del apartado de soporte para solicitar ayuda o presentar algún reclamo.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>US27</td>
       <td>Visualizacion de planes</td>
       <td>Como cliente quiero ver los planes del servicio para elegir uno adecuado.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>US28</td>
+      <td>27</td>
+      <td>US27</td>
       <td>Servicios</td>
       <td>Como cliente quiero saber los beneficios del servicio para elegir un plan de suscripción.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>US29</td>
+      <td>28</td>
+      <td>US28</td>
       <td>Conocer al equipo</td>
       <td>Como cliente quiero informarme sobre el equipo a cargo del proyecto para conocer sus objetivos.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>US30</td>
+      <td>29</td>
+      <td>US29</td>
       <td>Información del producto</td>
       <td>Como cliente quiero ver informacion general sobre el servicio.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>US31</td>
+      <td>30</td>
+      <td>US30</td>
       <td>Ingreso de cuenta</td>
       <td>Como cliente quiero ingresar a una cuenta para ver mi suscripción, mi información y la disponibilidad de vehiculos.</td>
       <td>8</td>
