@@ -269,15 +269,51 @@ Mecanico
 
 Para el planteamiento de las soluciones, se utilizo la herramienta affinity mapping
 
-| Owner                                                            | cliente                                                              | mecanico                                                |
-|------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| Plataforma de gestión de alquiler de vehículos menores	          | Aplicación de reserva de vehículos menores por suscripcion           | Plataforma de gestión de mantenimiento y reparacion     | 
-| Servicio de inspección y mantenimiento	                          | Aplicacion de reserva de bicitaxi	                                   | Servicio de recogida y entrega                        |  
-| Programa de seguro y asistencia en carretera	                    | Programa de fidelización y descuentos en buses de transporte publico	 | Programa de referidos y testimonios                     |
-| Sistema de alertas para mantenimiento preventivo	                | Servicio de asistencia en carretera	                                 | Servicio de diagnóstico remoto                          |
-| Herramientas de seguimiento de ingresos y gastos	                | Rastreo de buses en tiempo real	                                     | Programa de capacitación para propietarios de vehículos |
-| Programa de incentivos para arrendatarios 	                      | Aplicacion de trafico en tiempo real	                                | Sistema de gestión de clientes y seguimiento          |          
-| Asesoramiento legal y administrativo para alquiler de vehiculos	 | 	                                                                    | Herramientas de marketing digital                       |
+<table border="1px", align="center">
+    <tbody>
+        <tr>
+            <td>Owner</td>
+            <td>cliente</td>
+            <td>mecanico</td>
+        </tr>
+        <tr>
+            <td>Plataforma de gestión de alquiler de vehículos menores</td>
+            <td>Aplicación de reserva de vehículos menores por suscripción</td>
+            <td>Plataforma de gestión de mantenimiento y reparación</td>
+        </tr>
+        <tr>
+            <td>Servicio de inspección y mantenimiento</td>
+            <td>Aplicación de reserva de bicitaxi</td>
+            <td>Servicio de recogida y entrega</td>
+        </tr>
+        <tr>
+            <td>Programa de seguro y asistencia en carretera</td>
+            <td>Programa de fidelización y descuentos en buses de transporte público</td>
+            <td>Programa de referidos y testimonios</td>
+        </tr>
+        <tr>
+            <td>Sistema de alertas para mantenimiento preventivo</td>
+            <td>Servicio de asistencia en carretera</td>
+            <td>Servicio de diagnóstico remoto</td>
+        </tr>
+        <tr>
+            <td>Herramientas de seguimiento de ingresos y gastos</td>
+            <td>Rastreo de buses en tiempo real</td>
+            <td>Programa de capacitación para propietarios de vehículos</td>
+        </tr>
+        <tr>
+            <td>Programa de incentivos para arrendatarios</td>
+            <td>Aplicación de tráfico en tiempo real</td>
+            <td>Sistema de gestión de clientes y seguimiento</td>
+        </tr>
+        <tr>
+            <td>Asesoramiento legal y administrativo para alquiler de vehículos</td>
+            <td></td>
+            <td>Herramientas de marketing digital</td>
+        </tr>
+    </tbody>
+</table>
+
 
 Despues de la votacion las soluciones que se eligieron fueron:
 
@@ -317,12 +353,15 @@ Con nuestro sistema de gestión de reparaciones y mantenimientos a vehículos me
 <img src="../assets/Solution-Profile/Lean-Ux-Canvas.png" alt="Lean Ux Canvas">
 
 ## 1.3. Segmentos objetivo.
+
+Nuestro segmento objetivo del proyecto propuesto son tres, acontinuación los presentamos: 
+
 **Segmento 1**
-Segmento arrendatario (Owner): Se refiere a todos los individuos que posean algún vehículo ligero y deseen ponerlo en alquiler para ganar algo de dinero. 
+Segmento arrendatario (Owner): Aquellas personas interesadas formar parte de GlideGo, donde ellos podrán rentar su vehiculo disponible y optar algún ingreso extra de dinero, lo primero que ellos es importante contar con un vehiculo menor sea como bicicleta, Scooter, Skaboard o un moto eléctrico. Para ser parte de nuestra familia GlideGo, tendrán la opción de registrar sus caracteristicas y validar si el equipo cumple con las condiciones para nuestro servicio.  
 
 **Segmento 2**
-Segmento arrendador (User): Se refiere a todos los individuos que requieran movilizarse diariamente en Lima metropolitana ya sea por el trabajo, estudios o simplemente ocio.
+Segmento arrendador (User): Personas que desean optar un vehiculo menor para fines de transporte sea hacia sus labores, universidades, fines deportivos u otros. Donde podrán optar un vehiculo según su prefenrencia a un costo accesible y estar acompañado con el soporte técnico durante su uso. 
 
 **Segmento 3**
-Segmento mecánico (Mechanic): Se refiere a las personas capaces de reparar y dar mantenimiento a vehiculos menores
+Segmento mecánico (Mechanic): Personas que cuenta con profesión en mantenimiento de vehiculos especialmente en los vehiculos menores sea como bicicleta, Scooter, Skaboard entre otros. Ellos tendrán la oportunidad de contar con mayor empleo y trabajo durante la imcorporación a nuestro Startup. 
 
