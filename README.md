@@ -1,7 +1,7 @@
 
 <br/><br/>
 <center>
-<img src="assets/img/UPC.png" width="120">
+<img src="assets/img/UPC.png" width="100">
 </center>
 <br/>
 
@@ -42,35 +42,32 @@
 		</tr>
 		<tr>
 			<td>Hurtado Palomino, Francisco Juan</td>
-			<td>u202117498</td>
+			<td>U202117498</td>
 		</tr>
 		<tr>
 			<td>Omar Christian Berrocal Ramirez</td>
-			<td>u20201b529</td>
+			<td>U20201b529</td>
 		</tr>
 	</tbody>
 </table>
 
 <br/>
 
-## <center> **Junio, 2024** </center>
-
-<br/> <br/> <br/> 
-## <center> **Junio, 2024** </center>
-
-<br/> <br/> <br/> <br/> <br/> 
+##  <center>  **Junio, 2024** </center>
+ 
+<br/>
 
 # Registro de Versiones del Informe
+
 | Version | Fecha      | Autor                              | Descripcion de Modificacion                      |
 |---------|------------|------------------------------------|--------------------------------------------------|
-| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir       | Creé el documento                                |
-| 1.0     | 29/03/2024 | Velarde Gonzales Nestor            | Busqueda de antecendetes                         |
-| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer       | Entrevistas y analsiis competitivo               |
+| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir       | Creé el repositor MarkDown                       |
+| 1.0     | 29/03/2024 | Velarde Gonzales Nestor            | Busqueda de antecendetes y problemática          |
+| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer       | Entrevistas y analisis competitivo               |
 | 1.2     | 05/04/2024 | Sebastian Flores Manrique          | Agregué definición, antecedentes y problemática  |
 | 1.3     | 07/04/2024 | Velarde Gonzales Nestor            | Agregué el lean ux process                       |
 | 1.4     | 07/04/2024 | Sebastian Flores Manrique          | Agregué el segmento objetivo                     |
 | 2.0     | 07/04/2024 | Velarde Gonzales Nestor            | Agregué los competidores y el análisis           |
-| 2.1     | 07/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué las entrevistas y el análisis            |
 | 2.2     | 09/04/2024 | Jara Benites Quique Vladimir       | Agregué el needfinding y ubiquitous language     |
 | 2.3     | 09/04/2024 | Velarde Gonzales Nestor            | Agregué el Scenario mapping y user stories       |
 | 2.4     | 09/04/2024 | Sebastian Flores Manrique          | Agregué el impact mapping y product backlog      |
@@ -87,19 +84,33 @@
 | 4.2.4   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí el diseño de entrevistas                 |
 | 4.2.5   | 29/04/2024 | Jara Benites Quique Vladimir       | Corregí el needfinding                           |
 | 4.2.6   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí la redacción de algunas user storres     |
+| 5.0.    | 02/05/2024 | Jara Benites Quique Vladimir       | Creé un repositorio para el landing page         |
+| 5.0.1   | 02/06/2024 | Flores Manrique, Sebastian Enrique | Desarrollé la parte de about del landing page    |
+| 5.0.2   | 02/06/2024 | Velarde Gonzales Nestor            | Desarrollé los servicios y contactos en landing  |
+| 5.0.3   | 02/06/2024 | Hurtado Palomino, Francisco Juan   | Apoyé en los diseños del landing page            |
+| 5.1.1   | 02/06/2024 | Jara Benites Quique Vladimir       | Creé un repositorio para el Front-End en GitHub  |
+| 5.1.2   | 02/06/2024 | Hurtado Palomino, Francisco Juan   | Hice mi primera versión de header en front-end   |
+| 5.1.3   | 02/06/2024 | Flores Manrique, Sebastian Enrique | Desarrollé el Front del lado Owner               |
+| 5.1.4   | 02/06/2024 | Velarde Gonzales Nestor            | Mi colaboración fue en el desarrollo del mechanic|
+| 5.1.5   | 02/06/2024 | Jara Benites Quique Vladimir       | Realicé el deploy de primera version del App     |
+| 5.1.6   | 02/06/2024 | Flores Manrique, Sebastian Enrique | Validé los datos de Fake Api en App Web          |
+| 5.2.1   | 02/06/2024 | Velarde Gonzales Nestor            | Hice los requerimientos para el Sprint 3         |
+| 5.2.2   | 02/06/2024 | Jara Benites Quique Vladimir       | Creé el repositorio para el Back-End en GitHub   |
+| 5.2.3   | 02/06/2024 | Velarde Gonzales Nestor            | Implementé la primera versión del Back-End       |
 
 
 # **Project Report Collaboration Insights**
 
 Link de Repositorio: [Click Aquí](https://github.com/Innovatech-SV51-202401/ReportTF.git)
 
+Commits del reporte de avance del trabajo final: 
 
-Commits del reporte de avance del TP1:
-
-![img.png](img.png)
+![img.png](assets/Commit/mitere-1.png)
+![img.png](assets/Commit/mitere-2.png)
+![img.png](assets/Commit/mitere-3.png)
+![img.png](assets/Commit/mitere-4.png)
 
 # **Tabla de Contenido**
-
 
 - [Student Outcome](#student-outcome)
 
@@ -232,7 +243,11 @@ del ABET – EAC - Student Outcome 5.
             TB1</b><br/>
             Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo<br/>
             <b>TP1</b><br/>
-            Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend.
+            Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mojoras que dió mi equipo. <br/> </b>
+            <b>TB2</b> <br/>
+            Para la dicha entrega del TB2, me reuní con todos mis integrantes del equipo para realizar un trabajo eficiente, dicha reunión mis aportes fueron relevantes en ideas y opiniones para el desarrollo del Back-End.<br/> </b>
+            <b>TF</b> <br/>
+            Realicé los deploy del Back-End a un servidor de nuestro proyecto y las integranciones con el Front-End y Back-End, antes de la entrega final, hice mejoras del TB2 tanto el informe y el desarollo de código. 
           </li> <br>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -240,109 +255,176 @@ del ABET – EAC - Student Outcome 5.
             Organización y coordinación para el desarrollo del Lean UX junto con los miembros<br/>
             <b>TP1</b><br/>
             Implementación del las cards para la visualización de vehículos en vite y vue.
+            <br/> </b>
+            <b>TB2</b> <br/>
+            Realizé una parte de mejora en el Front de nuestra aplicación, las reuniones constantes con mi equipo ha dado algunas opiniones de mejoras. Por otro lado, desarrollé la primera versión de nuestro Back-End junto a mi equipo.
+            <br/> 
+            <b>TF</b> <br/>
+            Participé en las ultimas reuniones de nuestro equipo con el onjetivo nde terminar al 100%, mi participación fue en el desarrollo del Back-End y el deploy a un servidor.  
           </li> <br/>
           <li>
-            <b>Velarde Gonzales, Nestor Hernán<br/>TB1</b><br/>
-            Desarrollo de la landing page<br/>
+            <b>Velarde Gonzales, Nestor Hernán<br/>
+            TB1</b><br/>
+            Junto a todo mi equipo hice las primera pauta de reunirme y debatir sobre las técnicas a implementar en el landing page, mi participación fue el desarrollo del landing page y finalmente desplegado a la nube con fin de que se visualize para el público. <br/>
             <b>TP1</b><br/>
-            Desarrollo del front end
+            Desarrollo del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma). 
+            <br/> </b>
+            <b>TB2</b> <br/>
+            Realizé una parte de mejora en el Front de nuestra aplicación, participé en las reuniones acordadas por mi lider del equipo. Finalmente, apoyé en el desarrollo del Back-End. 
+            <br/> 
+            <b>TF</b> <br/>
+            Una primera parte mi colaboración con el equipo fue terminar al 100% el informe a presentar y convocar a una reunión exclusiva para revisar nuestro trabajo final del curso.   
           </li> <br/>
           <li>
-          <b>Aru Acevedo, Yair Christofer<br/>TB1</b><br/>
-          Participe en las reuniones del equipo para la asignación del trabajo.  Realice algunos puntos en el capítulo 4.<br/>
-          <b>TP1</b><br/>Se corrigió diferentes puntos del capítulo 4 y 5. Se añadió nuevas historias de usuario y otras se modificaron.
+            <b>Aru Acevedo, Yair Christofer<br/>
+            TB1</b><br/>
+            Participe en las reuniones del equipo para la asignación del trabajo.  Realice algunos puntos en el capítulo 4 del informe y colaboré en el desarrollo del landing page.<br/><b>
+            TP1</b><br/>
+            Corregí el informe según las indicaciones de la rúbrica, mis aportes del Front fue desarrollado la parte del diseños. <br>
+            <b>TB2 & TF</b><br/>
+            (No llegó a participar por retiro del curso)
           </li> <br/>
           <li>
-            <b>Hurtado Palomino, Francisco Juan<br/>TB1</b><br/>
-            Realice el desarrollo de las user stories, product backlog, impact maps y la sección about de el landing page <br/>
-            <b>TP1</b><br/>Realice la corrección completa del Sprint 1, ademas se colocó una versión temprana del Sprint 2
+            <b>Hurtado Palomino, Francisco Juan<br/>
+            TB1</b><br/>
+            Realice el desarrollo de las user stories, product backlog, impact maps en el informe y por otro lado realizé el desarrollo de la sección about en el landing page junto con colaboración con mi equipo.<br/><b>
+            TP1</b><br/>
+            Realice la corrección completa del Sprint 1, ademas realicé algunos cambios en el informe. <br>
+            <b>TB2 & TF</b><br/>
+            (No llegó a participar por retiro del curso)
+          </li> <br/>
+          <li>
+            <b>Omar Christian Berrocal Ramirez<br/>
+            TB2</b><br/>
+            Para la dicha entrega del TB2, me reuní con todos mis integrantes del equipo para realizar un trabajo eficiente, dicha reunión mis aportes fueron relevantes en ideas y opiniones para el desarrollo del Back-End. <br/>
+            <b>TF</b><br/>
+            Realicé los deploy del Back-End a un servidor de nuestro proyecto y las integranciones con el Front-End y Back-End, antes de la entrega final, hice mejoras del TB2 tanto el informe y el desarollo de código.
           </li> <br/>
         </ul>
       </td>
-      <td>Esta experiencia<br/> nos ha proporcionado<br/> una comprensión <br/>sólida de cómo <br/>trabajar en equipo<br/> para desarrollar<br/> software de alta <br/>calidad que satisfaga<br/> las necesidades <br/>de los usuarios<br/> y del negocio.</td>
+      <td>Durante el trabajo en <br/>equipo y multidisciplinario<br/> nos ha proporcionado<br/> una mejor comprensión <br/>sólida de cómo <br/>trabajar en equipo<br/> para desarrollar<br/> software de alta <br/>calidad que satisfaga<br/> las necesidades <br/>de los usuarios<br/> y del negocio.
+      </td>
     </tr>
     <tr>
       <td>Conoce al <br/>menos<br/> un sector <br/>empresarial o <br/>dominio de <br/>aplicación de <br/>soluciones de <br/>software.</td>
       <td>
         <ul>
-  <li>
-    <b>Flores Manrique, Sebastian Enrique<br/>
-    TB1</b><br/>
-    Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>
-    <b>TP1</b><br/>
-    Leí la documentación de las herramientas a usar como PrimeVue y PrimeFlex.
-  </li> <br/>
-  <li> 
-    <b>Jara Benites, Quique Vladimir<br/>
-    TB1</b><br/>
-    Estudié a los competidores para identificar mejores prácticas y oportunidades de mejora.<br/>
-    <b>TP1</b><br/>
-    Implementación de cards para mejorar la experiencia de usuario y seguir las tendencias de mercado
-  </li> <br/>
-  <li>
-    <b>Velarde Gonzales, Nestor Hernán<br/>
-    TB1</b><br/>
-    Organicé y participé en entrevistas con partes interesadas clave para recopilar información sobre requisitos y expectativas.<br/>
-    <b>TP1</b><br/>
-    Desarrollé y colaboré con mis compañeros en el capítulo 05, realicé mejoras en el Cap. 04 sobre los diseños de wireframes y Mock-Ups de landing y aplicaciones web.
-  </li> <br/>
-  <li>
-    <b>Aru Acevedo, Yair Christofer<br/>
-    TB1</b><br/>
-    Realicé las entrevistas a posibles usuarios de nuestro servicio.<br/>
-    <b>TP1</b><br/>
-    Realicé algunos puntos del landing page.
-  </li> <br/>
-  <li>
-    <b>Hurtado Palomino, Francisco Juan<br/>
-    TB1</b><br/>
-    Realicé una recolección de información para la creación de las 31 user stories presentadas.<br/>
-    <b>TP1</b><br/>
-    Estuve al tanto del desarrollo y la creación de los repositorios presentados para su correcta presentación, además corregí varios errores presentados en la anterior entrega.
-  </li>
-</ul>
-      </td>
-      <td>La experiencia en <br/>la investigación <br/>del negocio demostró<br/> nuestra capacidad <br/>para comprender y <br/>aplicar conocimientos <br/>específicos del sector<br/> en la creación<br/> de soluciones <br/>tecnológicas efectivas.</td>
-    </tr>
-  </tbody>
+        <li>
+          <b>Flores Manrique, Sebastian Enrique<br/>
+          TB1</b><br/>
+          Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.<br/>
+          <b>TP1</b><br/>
+          Para el desarrollo del front-End he investigado los frameword de VUE para realizar una aplicación eficas. <br/>
+          <b>
+          TB2</b><br/>
+          He analizado profundamente la programación de C# para implementar el desarrollo del Back-End de nuestro Proyecto. <br/>
+          <b>
+          TF</b><br/>
+          Validé nuestro software con nuestros usuarios finales, para ello nuestra aplicación cumple con los parametros de las funcionalidades del negocio. 
+        </li> <br/>
+        <li> 
+          <b>Jara Benites, Quique Vladimir<br/>
+          TB1</b><br/>
+          Realizé las entrevistas para buscar nesecidades de nuestro segmento objetivo, por ello basamos a investigar nuestro proyecto antes del desarrollo<br/>
+          <b>TP1</b><br/>
+          Implementación de cards en el Front para mejorar la experiencia de usuario y seguir las tendencias de mercado con los vehiculos. 
+          <br/>
+          <b>TB2</b><br/>
+          Analicé los parametros de negocio en los alquileres de vehiculos menores y finalmente nuestros usuarios finales puedan optar las diferentes suscripciones en nuestra aplicaciones web.  <br/>
+          <b>TF</b><br/>
+          Realizé los deploy de nuestro software para que esté disponible para nuestros usuarios finales.  
+        </li> <br/>
+        <li>
+          <b>Velarde Gonzales, Nestor Hernán<br/>
+          TB1</b><br/>
+          Organicé una reunión exclusiva para analizar sobre nuestro proyecto y las oportunidades en nuestro contexto real, tambien participé en entrevistas con partes interesadas y clave para recopilar información sobre requisitos y expectativas.<br/>
+          <b>TP1</b><br/>
+          Desarrollé y colaboré con mis compañeros en el capítulo 05, realicé mejoras en el Cap. 04 sobre los diseños de wireframes y Mock-Ups de landing y aplicaciones web, por otro lado implementamos el desarrollo de Front-End basado en nuestro negocio y las suscripciones. 
+          <br/><b>
+          TB2</b><br/>
+          Analicé los parametros de negocio en los alquileres de vehiculos menores y finalmente nuestros usuarios finales puedan optar las diferentes suscripciones en nuestra aplicaciones web.  <br/>
+          <b>
+          TF</b><br/>
+          Realizé los deploy de nuestro software para que esté disponible para nuestros usuarios finales.  
+        </li> <br/>
+        <li>
+          <b>Aru Acevedo, Yair Christofer<br/>
+          TB1</b><br/>
+          Realicé las entrevistas a posibles usuarios de nuestro servicio.<br/>
+          <b>TP1</b><br/>
+          Realicé algunos puntos del landing page.
+          <br/> <b>
+          TB2 & TF</b><br/>
+          (No llegó a participar por retiro del curso)  
+        </li> <br/>
+        <li>
+          <b>Hurtado Palomino, Francisco Juan<br/>
+          TB1</b><br/>
+          Realicé una recolección de información para la creación de las 31 user stories presentadas.<br/>
+          <b>TP1</b><br/>
+          Estuve al tanto del desarrollo y la creación de los repositorios presentados para su correcta presentación, además corregí varios errores presentados en la anterior entrega. <br/>
+          <b>TB2 & TF</b><br/>
+          (No llegó a participar por retiro del curso)
+        </li> <br/>
+        <li>
+          <b>Omar Christian Berrocal Ramirez<br/>
+          TB2</b><br/>
+          Mi primer paso fue validar nuestro negocio con los usuarios finales mediante entrevistas y conocer sus perspertivas de nuestros segmentos objetivos.<br/>
+          <b>TF</b><br/>
+          Realizé los deploy de nuestro software para que esté disponible para nuestros usuarios finales.
+        </li>
+      </ul>
+            </td>
+            <td>La experiencia en <br/>la investigación <br/>del negocio demostró<br/> nuestra capacidad <br/>para comprender y <br/>aplicar conocimientos <br/>específicos del sector<br/> en la creación<br/> de soluciones <br/>tecnológicas efectivas.</td>
+          </tr>
+        </tbody>
 </table>
 
+# Conclusiones
 
+Analizando nuestro progreso desde el inicio del proyecto, nuestro trabajo en equipo a reflejado buen resultado, de hecho hubo muchas dificultades que se afrontó pero con una comunicación constante entre los integrantes y el uso de múltiples herramientas nos hemos ayudado, durante el proceso de nuestro trabajo fue que nos fuimos conociendo de a poco a poco, las reuniones constantes nunca faltarón por que teniamos en objetivo de hacer buen trabajom final. 
+Finalmente, nuestro proyecto cumple con los parametros de negocio y el desarrollo del software está estructurada con buenas técnicas de implementación, el domain drive desing ha sido fundamental para este proceso de desarrollo y de hecho como equipo estamos muy acuerdo de seguír aprendiendo el vue y el back-End con C# & .NET. 
+
+# Video About-the-Team.
+
+- Video de about the team: [Ver aquí](https://upcedupe-my.sharepoint.com/:v:/r/personal/u20211c221_upc_edu_pe/Documents/About%20the%20team.mp4?csf=1&web=1&e=tG1Pc0)
 
 # Bibliografia 
-Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
 
-Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
+- Valdivieso Infante, J., & Sosa Delgado, D. (2011). La tecnología en los vehículos híbridos y su impacto ecológico (Doctoral dissertation, ESPOL. FADCOM).
 
-Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
+- Lucidchart (Lucid). (s.f.). Lucidchart: Diagramming and Visual
+Communication Made Easy. Lucid. Recuperado de
+https://www.lucidchart.com [Consulta: 02 de Marzo de 2024].
 
-Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
+- GitHub. (s.f.). Recuperado de https://github.com [Consulta: 24 de
+Marzo de 2024].
+
+- Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
+
+- Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
+
+- Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
+
+- Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD Medium. Medium. 
+
 
 
 # Anexos
-- Link gitHub Repositorio: [Click aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/) 
 
-- Link Github Landing page: [Click aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- Repositorio en GitHub: [Click aquí](https://github.com/Innovatech-SV51-202401) 
+
+- Repositorio del Landing Page: [Click aquí](https://github.com/Innovatech-SV51-202401/Innovatech-LandingPage.git)
 
 - Landing Page Desplegado: [Click aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
 
-- Repositorio de AppWeb: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- Repositorio de AppWeb: [Click Aquí](https://github.com/Innovatech-SV51-202401/innovatech-front-end.git)
 
-- AppWeb desplegada: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- AppWeb desplegada: [Click Aquí](https://innovatech-sv51-202401.github.io/innovatech-front-end/)
 
-- Repositorio Api: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- Repositorio del Back-End (API): [Click Aquí](https://github.com/Innovatech-SV51-202401/GlideGo-Backend.git)
 
-- Figma Landing Page: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
-
-- Figma App Web, Diseño wireframes, MockUps: [Click Aquí](https://www.figma.com/design/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?node-id=0-1&t=HhIKo6gl7vsqymcn-1)
-
-- PivotalTracker-ProductBacklog: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
-
-- Video EXPO TB1: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
-
-- VIDEO EXPO TP1: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
-
-- VIDEO EXPO TB2: [Click Aquí](https://innovatech-sv51-202401.github.io/Innovatech-LandingPage/)
+- Figma App Web, Diseño wireframes, MockUps: [Click Aquí](https://www.figma.com/design/zI2Ms3m44qqaav0cmkBFEp/INNOVATECH?node-id=0-1&t=au24yqRfkYJnaJ46-1)
 
 - VIDEO ABOUT THE TEAM: [Click Aquí](https://upcedupe-my.sharepoint.com/:v:/r/personal/u20211c221_upc_edu_pe/Documents/About%20the%20team.mp4?csf=1&web=1&e=tG1Pc0)
 
