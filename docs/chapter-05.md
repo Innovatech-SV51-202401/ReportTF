@@ -1276,7 +1276,7 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7">Sprint 3</td>
+			<td colspan="7">Sprint 4</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
