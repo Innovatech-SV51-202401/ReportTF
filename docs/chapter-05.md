@@ -1298,7 +1298,7 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 			<td>TA1</td>
 			<td>Implementar Endpoint POST - Registar vehículo</td>
 			<td>Crear el endpoint POST para la sección de registrar vehículo, donde el owner podrá registrar su vehículo</td>
-			<td>2</td>
+			<td>6</td>
 			<td>Omar Berrocal Ramirez</td>
 			<td>Done</td>
 		</tr>
@@ -1308,7 +1308,7 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 			<td>TA2</td>
 			<td>Implementar Endpoint GET - Lista de vehículos</td>
 			<td>Implementar el endpoint GET para la sección de vehículos, donde el cliente podrá obtener y visualizar la lista de vehículos que ofrecen los propietarios</td>
-			<td>2</td>
+			<td>4</td>
 			<td>Vladimir Jara Benites</td>
 			<td>Done</td>
 		</tr>
@@ -1318,7 +1318,7 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 			<td>TA3</td>
 			<td>Implementar Endpoint GET - Historial de servicios </td>
 			<td>Implementar el endpoint GET para la sección de servicios, donde el cliente podrá obtener y visualizar el historial de servicios de sus alquileres pasados.</td>
-			<td>2</td>
+			<td>4</td>
 			<td>Néstor Velarde Gonzales</td>
 			<td>Done</td>
 		</tr>
@@ -1328,7 +1328,7 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 			<td>TA4</td>
 			<td>Tiempo de uso</td>
 			<td>Crear el endpoint GET para la sección de vehículos, donde el owner podrá obtener y visualizar el tiempo de uso, distancia recorrido y dinero generado por su vehículo.</td>
-			<td>2</td>
+			<td>4</td>
 			<td>Sebastian Flores Manrique</td>
 			<td>To-Review</td>
 		</tr>
