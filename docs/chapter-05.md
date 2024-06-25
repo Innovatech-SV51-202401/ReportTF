@@ -1127,24 +1127,59 @@ La meta del sprint fue presentar una verison temprana del front end, el equipo u
 
 #### 5.2.3.3 Development Evidence for Sprint Review.
 
-| Repository                          | Branch                | Commit ID      | Commit Message                              | Commit Message body | Committed on(date) |
-|-------------------------------------|-----------------------|----------------|----------------------------------------------|---------------------|--------------------|
-| Innovatech-SV51-202401/GlideGo-Backend   | main    | a7ada4f7654b99369533f810e5221f2e54d12662              | Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor            |                     | 05/06/24           |
-| Innovatech-SV51-202401/GlideGo-Backend   | main    | 0bdafde0b8c3373bc9816047c0b80ef22cd31be5              | Merge branch 'user-profile-system' into development  |                     | 04/06/24           |
-| Innovatech-SV51-202401/GlideGo-Backend   | main    | 5fe20b8d2677051252100ace1f3635bf61e3fde7              | fix: fix vehicleusage files                                |                     | 04/06/24           |
-| Innovatech-SV51-202401/GlideGo-Backend   | main    | 5a443378483931e3150944ab3170360f31552269              | feat: added vehicleid, distancetousem durationtouse and location in ActiveServices.cs.                       |                     | 04/06/24           |
-| Innovatech-SV51-202401/GlideGo-Backend   | main    | af1551c84c2fc65039a878564273699c47c6816e              | feat: add base configuration.                                        |                     | 04/06/24           |
-| Innovatech-SV51-202401/GlideGo-Backend  |  main    | 9ee77642c3d1d355ad316ec79a8c300784a9f824             | feat: configuration of the program.cs and appsettings.json files.                                |                     | 04/06/24           |
-| Innovatech-SV51-202401/GlideGo-Backend  |  main     | 4d4e6616f62a47a110fac13bc4157ccef9935d2a            | feat: add vehicle usage functionalities.                         |                     | 04/06/24           |
+| Repository                             | Branch | Commit ID                                | Commit Message                                                                         | Commit Message body | Committed on(date) |
+|----------------------------------------|--------|------------------------------------------|----------------------------------------------------------------------------------------|---------------------|--------------------|
+| Innovatech-SV51-202401/GlideGo-Backend | main   | a7ada4f7654b99369533f810e5221f2e54d12662 | Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor            |                     | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 0bdafde0b8c3373bc9816047c0b80ef22cd31be5 | Merge branch 'user-profile-system' into development                                    |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 5fe20b8d2677051252100ace1f3635bf61e3fde7 | fix: fix vehicleusage files                                                            |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 5a443378483931e3150944ab3170360f31552269 | feat: added vehicleid, distancetousem durationtouse and location in ActiveServices.cs. |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | af1551c84c2fc65039a878564273699c47c6816e | feat: add base configuration.                                                          |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 9ee77642c3d1d355ad316ec79a8c300784a9f824 | feat: configuration of the program.cs and appsettings.json files.                      |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 4d4e6616f62a47a110fac13bc4157ccef9935d2a | feat: add vehicle usage functionalities.                                               |                     | 04/06/24           |
 
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
-Se desarrollo una version temprana de las secciones de login, register, visualizacion de perfiles, reservas y las listas de alquileres.
+
+| Repository                             | Branch      | Commit ID                                | Commit Message                                                                                 | Committed on(date) |
+|----------------------------------------|-------------|------------------------------------------|------------------------------------------------------------------------------------------------|--------------------|
+| Innovatech-SV51-202401/GlideGo-Backend | development | 33338b11ff7edc75726ebf687ef8f706b56ef966 | Merge pull request #6 from Innovatech-SV51-202401/feature/identify-access                      | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 8d0c02f1c01306fe3c70f6d80a59c725c921adb2 | fix: fixing the files.                                                                         | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 73a3a8e5a4d22029d6bde52c134134a88365560d | feat(iam): added resource and controller.                                                      | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 5a379b22804ff60f286daf0799502362ff93d329 | feat(iam): added hashing, persistence, pipeline and tokens                                     | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 96288e0b7c3146d92757ba0d2e1cbdeb46ed9f0d | feat(iam): added command, outbound and query services.                                         | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 83dd47777403a5d506fba50c943aa01b44122222 | feat(iam): added aggregates, queries, services and commands.                                   | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | c3b4b261d899d13d6da87302f506b6f98fb07d7c | feat: add dependencies.                                                                        | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 00f8939a8fbf0f733f3b9447bf759d179ed7e221 | Merge pull request #4 from Innovatech-SV51-202401/feature/execution-monitor                    | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 1ae80f02d8ee61beed579f943c95b04bea8e7217 | fix: fixing the files.                                                                         | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | c9f65d3a25fdacb74c803b196f5ce2af20c112b8 | feat(Execution&Monitor): added active services dto and active services command service.        | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | a7ada4f7654b99369533f810e5221f2e54d12662 | fix: fix vehicle usage id                                                                      | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 0bdafde0b8c3373bc9816047c0b80ef22cd31be5 | Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor                    | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 5fe20b8d2677051252100ace1f3635bf61e3fde7 | Merge remote-tracking branch 'origin/feature/execution-monitor' into feature/execution-monitor | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 5a443378483931e3150944ab3170360f31552269 | fix: fix vehicleusage files                                                                    | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | af1551c84c2fc65039a878564273699c47c6816e | feat: added vehicleid, distancetousem durationtouse and location in ActiveServices.cs.         | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 9ee77642c3d1d355ad316ec79a8c300784a9f824 | feat: add base configuration.                                                                  | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 69de7abdf1b66f8ee20ed3bfe153377fcf707ced | feat: configuration of the program.cs and appsettings.json files.                              | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | ede1d93495a6036cf2d9b09963a071dbc90e4191 | feat(Profiles): Added base table for profiles                                                  | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 4d4e6616f62a47a110fac13bc4157ccef9935d2a | feat: add vehicle usage functionalities.                                                       | 05/06/24           |
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-Para este sprint, logramos desplegar una version temprana de las secciones de login, register, visualizacion de perfiles, reservas y las listas de alquileres.
+Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
+
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Swagger*: Se utilizó para documentar la API RESTful.
+- *MySQL*: Se utilizó para la base de datos.
+
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="AgregarImagen" alt="Swagger" style="width:100%;">
+</div>
+
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="AgregarImagen" alt="Swagger" style="width:100%;">
+</div>
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
