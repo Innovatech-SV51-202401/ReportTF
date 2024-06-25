@@ -733,21 +733,21 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
       <td>1</td>
       <td>US01</td>
       <td>Inscripcion de vehiculo</td>
-      <td>Cómo Owner quiero inscribir los vehículos a la aplicación para poder ofrecerlos a potenciales usuarios</td>
+      <td>Como Owner quiero registrar los detalles de mi vehículo en la aplicación web para que mis potenciales clientes puedan elegirlo para el alquiler.</td>
       <td>8</td>
     </tr>
     <tr>
       <td>2</td>
       <td>US02</td>
       <td>Establecimiento de Tarifas</td>
-      <td>Cómo Owner quiero establecer tarifas y disponibilidad del vehículo para poder gestionar de manera efectiva la rentabilidad y accesibilidad de los vehículos.</td>
+      <td>Como Owner, quiero definir el precio de alquiler de mi vehículo para maximizar mis ingresos y asegurar una compensación justa por su uso.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>3</td>
       <td>US03</td>
       <td>Visualización de tramites</td>
-      <td>Cómo Owner quiero acceder a los estados de trámites de mis vehículos para estar al tanto del progreso de los trámites relacionados</td>
+      <td>Como Owner quiero acceder a los estados de trámites de mis vehículos para estar al tanto del progreso de los trámites relacionados.</td>
       <td>3</td>
     </tr>
     <tr>
@@ -761,14 +761,14 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
       <td>5</td>
       <td>US05</td>
       <td>Historial de reserva</td>
-      <td>Cómo Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso</td>
+      <td>Como Owner quiero acceder al historial de mis vehículos reservados para monitorear su uso.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>6</td>
       <td>US06</td>
       <td>Historial de mantenimiento</td>
-      <td>Cómo Owner quiero acceder al historial de mantenimiento y/o reparación realizados a mis vehículos para conocer las condiciones de mis vehículos</td>
+      <td>Como Owner quiero acceder al historial de mantenimiento y/o reparación realizados a mis vehículos para conocer las condiciones de mis vehículos.</td>
       <td>3</td>
     </tr>
     <tr>
