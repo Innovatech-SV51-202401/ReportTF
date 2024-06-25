@@ -660,6 +660,42 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         </td>
         <td>EP01</td>
     </tr>
+    <tr>
+        <td>US36</td>
+        <td>Sección About Us</td>
+        <td>Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.</td>
+        <td>
+            <b>Escenario 1:  Usuario accede a la sección "About Us"</b> <br/>
+            Dado que un usuario visita la landing page.<br/>
+            Cuando busca la sección "About Us".<br/>
+            Entonces, encuentra información detallada sobre la historia, misión, visión y valores de la empresa.<br/><br/>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US37</td>
+        <td>Sección Services</td>
+        <td>Como usuario, quiero encontrar la sección "Services" en la landing page para conocer los servicios que ofrece la empresa.</td>
+        <td>
+            <b>Escenario 1:  Usuario accede a la sección "Services"</b> <br/>
+            Dado que un usuario visita la landing page.<br/>
+            Cuando busca la sección "Service".<br/>
+            Entonces, encuentra información detallada sobre los servicios que ofrece la empresa a cada segmento obejtivo.<br/><br/>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US38</td>
+        <td>Sección Plans</td>
+        <td>Como usuario, quiero encontrar una sección "Plans" en la landing page para conocer los planes que ofrece la empresa.</td>
+        <td>
+            <b>Escenario 1:  Usuario accede a la sección "Plans"</b> <br/>
+            Dado que un usuario visita la landing page.<br/>
+            Cuando busca la sección "Plans".<br/>
+            Entonces, encuentra información detallada sobre los planes de subscripción que cuenta la empresa.<br/><br/>
+        </td>
+        <td>EP01</td>
+    </tr>
 </table>
 
 
