@@ -1319,7 +1319,7 @@ Link del Video-About-The-Product: https://drive.google.com/file/d/1JYJvPQa7Vl5Yj
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
-La meta del sprint fue presentar una verison temprana del Backend, el equipo utilizo las herramientas de C#, .NET, Entity Framework, SQL Server y Swagger
+La meta del sprint fue presentar una verison final del Backend, el equipo utilizo las herramientas de C#, .NET, Entity Framework, SQL Server y Swagger
 
 ![img.png](../assets/img/back1.png)
 ![img_1.png](../assets/img/back2.png)
