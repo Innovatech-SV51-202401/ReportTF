@@ -559,6 +559,107 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
         </td>
         <td>EP07</td>
     </tr>
+    <tr>
+        <td>US31</td>
+        <td>Reserva de vehículos</td>
+        <td>Como desarrollador,quiero permitir que un propietario registre un vehículo a través de una API para que el vehículo esté disponible para ser alquilado por los clientes</td>
+        <td>
+            <b>Escenario 1: Registrar vehículo con datos válidos</b> <br/>
+            Dado que el endpoint "/vehicles" está disponible<br/>
+            Cuando se envía una solicitud POST con valores para marca, modelo, año y matrícula<br/>
+            Entonces se recibe una respuesta con estado 201<br/>
+            Y un recurso de vehículo está incluido en el cuerpo de la respuesta, con un nuevo id y los valores registrados<br/><br/>
+            <b>Escenario 2: Registrar vehículo con matrícula existente</b> <br/>
+            Dado que el endpoint "/vehicles" está disponible<br/>
+            Cuando se envía una solicitud POST con valores para marca, modelo, año y matrícula<br/>
+            Y un recurso de vehículo con el mismo valor de matrícula ya está almacenado<br/>
+            Entonces se recibe una respuesta con estado 400<br/>
+            Y un mensaje está incluido en el cuerpo de la respuesta con el valor "la matrícula ya está registrada"<br/>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US32</td>
+        <td>Obtener lista de vehículos disponibles para alquilar</td>
+        <td>Como desarrollador,quiero permitir que un cliente obtenga una lista de vehículos registrados a través de una API para que el cliente pueda elegir uno para alquilar</td>
+        <td>
+            <b>Escenario 1: Obtener lista de vehículos registrados</b> <br/>
+            Dado que el endpoint "/vehicles/available" está disponible<br/>
+            Cuando se envía una solicitud GET<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y una lista de vehículos disponibles está incluida en el cuerpo de la respuesta, con detalles de cada vehículo<br/><br/>
+            <b>Escenario 2: No hay vehículos disponibles</b> <br/>
+            Dado que el endpoint "/vehicles/available" está disponible<br/>
+            Cuando se envía una solicitud GET<br/>
+            Y no hay vehículos registrados disponibles<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y un mensaje está incluido en el cuerpo de la respuesta con el valor "no hay vehículos disponibles"<br/>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US33</td>
+        <td>Obtener historial de servicios de un cliente</td>
+        <td>Como desarrollador, quiero permitir que un cliente obtenga su historial de servicios a través de una API para que el cliente pueda revisar sus alquileres pasados</td>
+        <td>
+            <b>Escenario 1: Obtener historial de servicios con datos válidos</b> <br/>
+            Dado que el endpoint "/services/history" está disponible<br/>
+            Y el cliente está autenticado<br/>
+            Cuando se envía una solicitud GET<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y una lista de servicios históricos está incluida en el cuerpo de la respuesta, con detalles de cada servicio<br/><br/>
+            <b>Escenario 2: Cliente sin historial de servicios</b> <br/>
+            Dado que el endpoint "/services/history" está disponible<br/>
+            Y el cliente está autenticado<br/>
+            Cuando se envía una solicitud GET<br/>
+            Y el cliente no tiene historial de servicios<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y un mensaje está incluido en el cuerpo de la respuesta con el valor "no hay servicios en el historial"<br/>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US34</td>
+        <td>Obtener tiempo de uso, distancia recorrida y dinero ganado por el propietario</td>
+        <td>Como desarrollador, quiero permitir que un propietario obtenga el tiempo de uso, distancia recorrida y dinero ganado a través de una API para que el propietario pueda ver el rendimiento de sus vehículos alquilados</td>
+        <td>
+            <b>Escenario 1: Obtener datos de rendimiento de los vehículos</b> <br/>
+            Dado que el endpoint "/owner/vehicles/performance" está disponible<br/>
+            Y el propietario está autenticado<br/>
+            Cuando se envía una solicitud GET<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y un resumen de tiempo de uso, distancia recorrida y dinero ganado está incluido en el cuerpo de la respuesta<br/><br/>
+            <b>Escenario 2: No hay datos de rendimiento disponibles</b> <br/>
+            Dado que el endpoint "/owner/vehicles/performance" está disponible<br/>
+            Y el propietario está autenticado<br/>
+            Cuando se envía una solicitud GET<br/>
+            Y no hay datos de rendimiento disponibles<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y un mensaje está incluido en el cuerpo de la respuesta con el valor "no hay datos disponibles"<br/>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US35</td>
+        <td> Obtener el servicio actual del vehículo que está siendo usado</td>
+        <td>Como desarrollador, quiero permitir que un cliente obtenga el servicio actual del vehículo que está utilizando a través de una API para que el cliente pueda ver los detalles del alquiler en curso</td>
+        <td>
+            <b>Escenario 1:  Obtener el servicio actual con datos válidos</b> <br/>
+            Dado que el endpoint "/services/current" está disponible<br/>
+            Y el cliente está autenticado<br/>
+            Cuando se envía una solicitud GET<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y los detalles del servicio actual están incluidos en el cuerpo de la respuesta<br/><br/>
+            <b>Escenario 2: No hay un servicio actual en curso</b> <br/>
+            Dado que el endpoint "/services/current" está disponible<br/>
+            Y el cliente está autenticado<br/>
+            Cuando se envía una solicitud GET<br/>
+            Y no hay un servicio actual en curso<br/>
+            Entonces se recibe una respuesta con estado 200<br/>
+            Y un mensaje está incluido en el cuerpo de la respuesta con el valor "no hay un servicio en curso"<br/>
+        </td>
+        <td>EP01</td>
+    </tr>
 </table>
 
 
