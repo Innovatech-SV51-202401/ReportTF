@@ -60,140 +60,33 @@
 
 <br/> <br/> <br/> <br/> <br/> 
 
-## Registro de Versiones del Informe
-<table border="1px">
-    <tr>
-        <th>Version</th>
-        <th>Fecha</th>
-        <th>Autor (es)</th>
-        <th>Descripcion de modificación</th>
-    </tr>
-    <tr>
-        <td>1.0</td>
-        <td>27/03/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Analisis del contexto real y definimos el proyecto basado en el negocio del contexto real. Por otro lado, realizamos las siguientes actividades actividades para el inicio del nuevo proyecto:  </br>
-        - Crear una organización en GitHub </br>
-        - Crear un repositorio para el informe y uno del Front-End. </br>
-        - crear ramas de trabajo. </br>
-        </td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>03/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>
-        Desarrollo de la primera version de diseños Mock-Up, para dicho tarea de implemento los diseños de landing page y aplicación web, usamos como herramienta principal el Figma. </br>
-        </td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>5/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Desarrollo del landing page del proyecto Movigestión con fin de promover nuestro servicio para nuestros segmentos potenciales. Se aplicó las buenas practicas de desarrollo con herramientas: </br>
-        - html </br>
-        - css </br>
-        - javascript </br>
-        - Bootstrap 5 </br>
-        </td>
-    </tr>
-    <tr>
-        <td>1.3</td>
-        <td>10/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Informe completado al 100% para la entrega del TB1, de desplegó el landing page por medio de GitHub, para dicha versión del informe se entregó los videos de nuestros segmentos intrevistados. 
-        </td>
-    </tr>
-    <tr>
-        <td>1.4</td>
-        <td>22/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Desarrollo de la primera versión del Front-End usando Angular y algunos framework de referencia para los interfaces, dicha implementación tiene como fake api para simular nuestra web.  
-        </td>
-    </tr>
-    <tr>
-        <td>1.5</td>
-        <td>30/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Presentación del trabajo parcial en donde de hizo las mejoras y correciones del TB1 y para la entrega del trabajao parcial el desarrollo del front-end fue desplegado.
-        </td>
-    </tr>
-    <tr>
-        <td>1.6</td>
-        <td>07/05/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Desarrollo del Sprint 3 con la primera versión del Back-End, para ello aplicamos la estructura y organización según domain drive desing, identificamos algunos parametros para implementar los atributos.  
-        </td>
-    </tr>  
-    <tr>
-        <td>1.7</td>
-        <td>30/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Presentación del TB2 donde finalizamos nuestro Sprint 3 y quedó como pendiente el despliegue de nuestra Back-End debido por errores en el deploy. 
-        </td>
-    </tr>
-    <tr>
-        <td>1.8</td>
-        <td>30/04/2024</td>
-        <td>
-            Jara Benites Quique Vladimir. </br>
-            Aru Acevedo, Yair Christofer </br>
-            Flores Manrique, Sebastian Enrique </br>
-            Velarde Gonzales Nestor </br>
-            Hurtado Palomino, Francisco Juan </br>
-        </td>
-        <td>Para el desarrollo del trabajo final del curso, realizamos el Sprint 4 y completamos el deploy de nuestro Back-End.  
-        </td>
-    </tr>
-</table>
+# Registro de Versiones del Informe
+| Version | Fecha      | Autor                              | Descripcion de Modificacion                      |
+|---------|------------|------------------------------------|--------------------------------------------------|
+| 0.0     | 29/03/2024 | Jara Benites Quique Vladimir       | Creé el documento                                |
+| 1.0     | 29/03/2024 | Velarde Gonzales Nestor            | Busqueda de antecendetes                         |
+| 1.1     | 04/04/2024 | Aru Acevedo, Yair Christofer       | Entrevistas y analsiis competitivo               |
+| 1.2     | 05/04/2024 | Sebastian Flores Manrique          | Agregué definición, antecedentes y problemática  |
+| 1.3     | 07/04/2024 | Velarde Gonzales Nestor            | Agregué el lean ux process                       |
+| 1.4     | 07/04/2024 | Sebastian Flores Manrique          | Agregué el segmento objetivo                     |
+| 2.0     | 07/04/2024 | Velarde Gonzales Nestor            | Agregué los competidores y el análisis           |
+| 2.1     | 07/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué las entrevistas y el análisis            |
+| 2.2     | 09/04/2024 | Jara Benites Quique Vladimir       | Agregué el needfinding y ubiquitous language     |
+| 2.3     | 09/04/2024 | Velarde Gonzales Nestor            | Agregué el Scenario mapping y user stories       |
+| 2.4     | 09/04/2024 | Sebastian Flores Manrique          | Agregué el impact mapping y product backlog      |
+| 3.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué los style guidelines                     |
+| 3.1     | 10/04/2024 | Aru Acevedo, Yair Christofer       | Agregué information architecture                 |
+| 3.2     | 10/04/2024 | Velarde Gonzales Nestor            | Agregué el landing page                          |
+| 3.3     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué los wireframes y mockups                 |
+| 3.4     | 10/04/2024 | Velarde Gonzales Nestor            | Agregué el diagrama de base de datos y de clases |
+| 4.0     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué el software configuration managment      |
+| 4.1     | 10/04/2024 | Hurtado Palomino, Francisco Juan   | Agregué sprint número 1                          |
+| 4.2.1   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí los Antecedentes y problemáticas         |
+| 4.2.2   | 29/04/2024 | Jara Benites Quique Vladimir       | Corregí parte del Lean Ux Process                |
+| 4.2.3   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí para del Lean UX Process                 |
+| 4.2.4   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí el diseño de entrevistas                 |
+| 4.2.5   | 29/04/2024 | Jara Benites Quique Vladimir       | Corregí el needfinding                           |
+| 4.2.6   | 29/04/2024 | Flores Manrique, Sebastian Enrique | Corregí la redacción de algunas user storres     |
 
 
 # **Project Report Collaboration Insights**
