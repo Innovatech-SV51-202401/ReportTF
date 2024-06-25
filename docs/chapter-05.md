@@ -1270,15 +1270,65 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 	</tbody>
 </table>
 
+#### 5.2.4.3 Development Evidence for Sprint Review.
+
+| Repository                             | Branch | Commit ID                                | Commit Message                                                                         | Commit Message body | Committed on(date) |
+|----------------------------------------|--------|------------------------------------------|----------------------------------------------------------------------------------------|---------------------|--------------------|
+| Innovatech-SV51-202401/GlideGo-Backend | main   | a7ada4f7654b99369533f810e5221f2e54d12662 | Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor            |                     | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 0bdafde0b8c3373bc9816047c0b80ef22cd31be5 | Merge branch 'user-profile-system' into development                                    |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 5fe20b8d2677051252100ace1f3635bf61e3fde7 | fix: fix vehicleusage files                                                            |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 5a443378483931e3150944ab3170360f31552269 | feat: added vehicleid, distancetousem durationtouse and location in ActiveServices.cs. |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | af1551c84c2fc65039a878564273699c47c6816e | feat: add base configuration.                                                          |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 9ee77642c3d1d355ad316ec79a8c300784a9f824 | feat: configuration of the program.cs and appsettings.json files.                      |                     | 04/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | main   | 4d4e6616f62a47a110fac13bc4157ccef9935d2a | feat: add vehicle usage functionalities.                                               |                     | 04/06/24           |
+
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+
+| Repository                             | Branch      | Commit ID                                | Commit Message                                                                                 | Committed on(date) |
+|----------------------------------------|-------------|------------------------------------------|------------------------------------------------------------------------------------------------|--------------------|
+| Innovatech-SV51-202401/GlideGo-Backend | development | 33338b11ff7edc75726ebf687ef8f706b56ef966 | Merge pull request #6 from Innovatech-SV51-202401/feature/identify-access                      | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 8d0c02f1c01306fe3c70f6d80a59c725c921adb2 | fix: fixing the files.                                                                         | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 73a3a8e5a4d22029d6bde52c134134a88365560d | feat(iam): added resource and controller.                                                      | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 5a379b22804ff60f286daf0799502362ff93d329 | feat(iam): added hashing, persistence, pipeline and tokens                                     | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 96288e0b7c3146d92757ba0d2e1cbdeb46ed9f0d | feat(iam): added command, outbound and query services.                                         | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 83dd47777403a5d506fba50c943aa01b44122222 | feat(iam): added aggregates, queries, services and commands.                                   | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | c3b4b261d899d13d6da87302f506b6f98fb07d7c | feat: add dependencies.                                                                        | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 00f8939a8fbf0f733f3b9447bf759d179ed7e221 | Merge pull request #4 from Innovatech-SV51-202401/feature/execution-monitor                    | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 1ae80f02d8ee61beed579f943c95b04bea8e7217 | fix: fixing the files.                                                                         | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | c9f65d3a25fdacb74c803b196f5ce2af20c112b8 | feat(Execution&Monitor): added active services dto and active services command service.        | 06/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | a7ada4f7654b99369533f810e5221f2e54d12662 | fix: fix vehicle usage id                                                                      | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 0bdafde0b8c3373bc9816047c0b80ef22cd31be5 | Merge pull request #3 from Innovatech-SV51-202401/feature/execution-monitor                    | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 5fe20b8d2677051252100ace1f3635bf61e3fde7 | Merge remote-tracking branch 'origin/feature/execution-monitor' into feature/execution-monitor | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 5a443378483931e3150944ab3170360f31552269 | fix: fix vehicleusage files                                                                    | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | af1551c84c2fc65039a878564273699c47c6816e | feat: added vehicleid, distancetousem durationtouse and location in ActiveServices.cs.         | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 9ee77642c3d1d355ad316ec79a8c300784a9f824 | feat: add base configuration.                                                                  | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 69de7abdf1b66f8ee20ed3bfe153377fcf707ced | feat: configuration of the program.cs and appsettings.json files.                              | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | ede1d93495a6036cf2d9b09963a071dbc90e4191 | feat(Profiles): Added base table for profiles                                                  | 05/06/24           |
+| Innovatech-SV51-202401/GlideGo-Backend | development | 4d4e6616f62a47a110fac13bc4157ccef9935d2a | feat: add vehicle usage functionalities.                                                       | 05/06/24           |
+
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Link del respositorio: https://github.com/Innovatech-SV51-202401/GlideGo-Backend
+
+Link del Video-About-The-Product: https://drive.google.com/file/d/1JYJvPQa7Vl5Yj8GnTHJ8YdK9NnsJ4NYm/view?usp=sharing
+
+![img.png](../assets/img/repositorio-backend.png)
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+La meta del sprint fue presentar una verison temprana del Backend, el equipo utilizo las herramientas de C#, .NET, Entity Framework, SQL Server y Swagger
+
+![img.png](../assets/img/back1.png)
+![img_1.png](../assets/img/back2.png)
+![img_2.png](../assets/img/back3.png)
+![img_3.png](../assets/img/back4.png)
+![img_4.png](../assets/img/back5.png)
 
 ## Conclusiones
 Nuestro equipo Innovatech ha identificado un nicho de mercado específico dentro del sector de transporte, centrándose en vehículos menores o ligeros como bicicletas, skateboards, scooters y motos eléctricas. Esta especialización puede ayudarles a diferenciarse y destacar en un mercado cada vez más competitivo y nuestra propuesta está orientada hacia la innovación y la calidad en el transporte.
 
 La misión de Innovatech es transformar la movilidad urbana y recreativa, mientras que su visión es convertirse en líderes en el mercado de movilidad sostenible. Estas declaraciones proporcionan una dirección clara y un propósito definido para nuestra startup, lo que puede ayudar a alinear a los miembros del equipo y a mantener el enfoque en los objetivos a largo plazo. Al centrarse en la movilidad sostenible y ofrecer una amplia gama de opciones de vehículos menores, Innovatech demuestra su compromiso con la sostenibilidad ambiental. Este enfoque puede atraer a consumidores conscientes del medio ambiente y respaldar la imagen de la empresa como una marca responsable.
 
-### Conclusiones preliminares:
-TB1:
-Concluimos que para desarrollar este proyecto de software vamos a necesitar hacer uso de nuevos conocimientos que adquiriremos a lo largo del curso. • Concluimos que el diseño de la base de datos, software y la UI que se implemente será fundamental para que cumpla con los estándares planteados para la plataforma LifeTravel. 
-
-TP:
-Conluimos que para el desarrollo de el nuevo front end necesitamos el feedback presentado tras esta presentacion.
