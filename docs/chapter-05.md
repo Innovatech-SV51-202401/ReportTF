@@ -1270,6 +1270,83 @@ La meta del sprint fue presentar una verison temprana del Backend, el equipo uti
 	</tbody>
 </table>
 
+#### 5.2.4.2 Sprint Backlog 4.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work-Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Tittle</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation(Hours)</td>
+			<td>Assigned To</td>
+			<td>Status(To-Do / In-Progress / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US31</td>
+			<td>Reserva de vehiculo</td>
+			<td>TA1</td>
+			<td>Implementar Endpoint POST - Registar vehículo</td>
+			<td>Crear el endpoint POST para la sección de registrar vehículo, donde el owner podrá registrar su vehículo</td>
+			<td>2</td>
+			<td>Omar Berrocal Ramirez</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US32</td>
+			<td>Obtener lista de vehiculos disponibles para alquilar</td>
+			<td>TA2</td>
+			<td>Implementar Endpoint GET - Lista de vehículos</td>
+			<td>Implementar el endpoint GET para la sección de vehículos, donde el cliente podrá obtener y visualizar la lista de vehículos que ofrecen los propietarios</td>
+			<td>2</td>
+			<td>Vladimir Jara Benites</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US33</td>
+			<td>Obtener historial de servicios de un cliente</td>
+			<td>TA3</td>
+			<td>Implementar Endpoint GET - Historial de servicios </td>
+			<td>Implementar el endpoint GET para la sección de servicios, donde el cliente podrá obtener y visualizar el historial de servicios de sus alquileres pasados.</td>
+			<td>2</td>
+			<td>Néstor Velarde Gonzales</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US34</td>
+			<td>Obtener tiempo de uso, distancia recorrida y dinero ganado por el propietario</td>
+			<td>TA4</td>
+			<td>Tiempo de uso</td>
+			<td>Crear el endpoint GET para la sección de vehículos, donde el owner podrá obtener y visualizar el tiempo de uso, distancia recorrido y dinero generado por su vehículo.</td>
+			<td>2</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>To-Review</td>
+		</tr>
+		<tr>
+			<td>US35</td>
+			<td>Obtener el servicio actual del vehiculo que esta siendo usado</td>
+			<td>TA5</td>
+			<td>Servicio activo</td>
+			<td>Crear el endpoint GET para la sección de mis servicios, donde el cliente podrá visualizar los detalles de su alquiler</td>
+			<td>4</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
 #### 5.2.4.3 Development Evidence for Sprint Review.
 
 | Repository                             | Branch | Commit ID                                | Commit Message                                                                         | Commit Message body | Committed on(date) |
