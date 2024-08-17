@@ -241,47 +241,43 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 ### Entrevistas segmento 1: Owners
 ### Entrevista 1:
 
-* Nombres: Francisco 
-* Apellidos: Mogollon Murray
-* Edad: 34
-* Distrito: Barranco
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 00:01 
-* Duración de la entrevista: 11:23 
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distrito: 
+* Enlace a la entrevista: 
+* Inicio de entrevista: 
+* Duración de la entrevista: 
     
-  <img src="../assets/entrevistas/entrevista-1.png" alt="Imagen de la entrevista"> 
+  
 
 **Informe del resumen de la entrevista:**
 
-Francisco Mogollon es un adulto de 34 años que vive en Barranco, actualmente trabaja en el sector empresarial, cumple la funcion de supervisor del area de logistica en tiendas metro. Sus sistemas operativos de preferencia son android en moviles y windows en ordenadores. El navegador que usa con mayor frecuencia es chrome, tiene preferencia por la marca samsung y lenovo. Sus canales informativos favoritos son television y facebook. Asimismo, para entretenimiento usa tiktok e instagram. El cuenta actualmente con un vehículo motorizado y una bicicleta, a el le gustaria alquilar vehiculos menores tomando en cuenta el precio de los vehículos y le gustaría cobrar por hora, el no cuenta con una experiencia previa pero le gustaría entrar en este sector. El nos comenta que sería bueno que la aplicación cuente con un sistema de tarifas que se ofrezcan a los owners por sus vehículos y que cuente con un sector de análisis de mercado, en el cual se muestre cuales son los vehículos con más demanda para quizás, en un futuro, poder invertir. Además, nos comenta que sería bueno que se limite el rango de uso del vehículo, osea, que este dentro de un límite de distancia al sector donde se alquila. El también estaría de acuerdo con que la aplicación cubra los gastos de mantenimiento y que la aplicación pueda mostrar quien es el cliente y cuál es su historial. A él le gustaría que la aplicación sea intuitiva para el owner y el usuario para su fácil manejo.
 
 ### Entrevista 2:
 
-* Nombres: David 
-* Apellidos: Beltran Burgos
-* Edad: 23
-* Distito: San Borja
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 11:24
-* Duración de la entrevista: 05:51
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distito: 
+* Enlace a la entrevista: 
+* Inicio de entrevista: 
+* Duración de la entrevista: 
 
-<img src="../assets/entrevistas/entrevista-2.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
-David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee una bicicleta y un patinete eléctrico como vehículos menores y no tiene experiencia previa en el alquiler de estos. Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin. Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima. En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa. Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes. Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito. No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento con el tiempo. Le gustaría alquilar sus vehículos a diario y considera útil tener un historial de mantenimiento y la capacidad de limitar el uso de ciertas rutas en la aplicación. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
 
 ### Entrevista 3:
 
-* Nombres: Erick 
-* Apellidos: Alfaro Meneses
-* Edad: 34
-* Distrito: San Borja
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 17:16
-* Duración de la entrevista: 09:12
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distrito: 
+* Enlace a la entrevista: 
+* Inicio de entrevista: 
+* Duración de la entrevista: 
 
-<img src="../assets/entrevistas/entrevista-3.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
@@ -291,88 +287,45 @@ La entrevista fue realizada a Eric Alfaro, residente de San Borja. Actualmente t
 ### Entrevistas segmento 2: Clientes
 ### Entrevista 1:
 
-* Nombres: Arturo 
-* Apellidos: Reyes Rodriguez
-* Edad: 21
-* Distrito: San Juan de Miraflores
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 26:28
-* Duración de la entrevista: 09:26
+* Nombres: 
+* Apellidos: 
+* Edad:
+* Distrito: 
+* Enlace a la entrevista: 
+* Inicio de entrevista: 
+* Duración de la entrevista: 
 
-<img src="../assets/entrevistas/entrevista-4.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
-Arturo es un joven estudiante de 21 años, él vive en San Juan de Miraflores. Sus sistemas operativos de preferencia son android para móviles y windows para ordenadores. Además, menciona que Microsoft Edge es el navegador que usa con mayor frecuencia. Nos comenta que usa de manera interdiaria el servicio de transporte público, ya que, es indispensable para él ya que es la única manera de llegar a su centro académico. Lamentablemente, nos comenta que el uso de este transporte, por más que sea económico, es realmente incómodo, por los tiempos de viaje y la falta de buenos modales de conducción de los choferes de los buses. El nos comenta que estaría muy interesado en el alquiler de motos eléctricas  por medio de nuestra app, ya que, aunque sea un costo mayor al que lleva hoy en día, se le haría mucho más cómodo el movilizarse de manera diaria a su centro académico.
 
 ### Entrevista 2:
 
-* Nombres: Aldahir 
-* Apellidos: Valenzuela Paredes
-* Edad: 20
-* Distrito: Villa el Salvador
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 35:54
-* Duración de la entrevista: 10:31
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distrito: 
+* Enlace a la entrevista: 
+* Inicio de entrevista: 
+* Duración de la entrevista: 
 
-<img src="../assets/entrevistas/entrevista-5.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
-Aldhair utiliza principalmente el transporte público y a veces una bicicleta para desplazarse. Sus sistemas operativos de preferencia son android para móviles y windows para ordenadores. Además, menciona que Google Chrome es el navegador que usa con mayor frecuencia. Dedica alrededor de 2 horas diarias al transporte público y enfrenta desafíos como la congestión del tráfico y la pérdida de tiempo. Gasta aproximadamente entre 200 y 300 soles al mes en transporte convencional y se siente neutral respecto a su satisfacción con este medio de transporte. Considera una buena idea contar con servicios de vehículos alternativos como bicicletas y scooters, prefiriendo el scooter por su practicidad pero la bicicleta por su seguridad. Valora aspectos como el precio y las condiciones del alquiler al elegir un servicio de vehículos. Estaría dispuesto a pagar una suscripción mensual que incluya el uso de bicicletas y scooters. Cree que este servicio podría ayudar a reducir sus costos mensuales de transporte y lo utilizará diariamente si estuviera disponible en varios distritos. Considera importante la disponibilidad de vehículos en distintos puntos de la ciudad. Sugiere que la aplicación sea intuitiva y que los vehículos reciban mantenimiento constante para garantizar una experiencia óptima para los usuarios. La entrevista concluyó con agradecimientos mutuos.
 
 ### Entrevista 3:
 
-* Nombres: Juan 
-* Apellidos: Mendivil Quispe
+* Nombres:  
+* Apellidos: 
 * Edad: 26
-* Distrito: Villa María del Triunfo
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 46:26
-* Duración de la entrevista: 5:20
+* Distrito: 
+* Enlace a la entrevista: 
+* Inicio de entrevista: 
+* Duración de la entrevista:
 
-<img src="../assets/entrevistas/entrevista-6.png" alt="Imagen de la entrevista"> 
-
-**Informe del resumen de la entrevista:**
-
-Sebastián Flores entrevistó a Juan, residente de José Gálvez Villa, María del Triunfo, quien trabaja en el sector del transporte. Juan mencionó que usa principalmente una laptop como dispositivo de escritorio y esta cuenta con el sistema operativo de windows, también nos comentó que cuenta con un dispositivo móvil con sistema operativo android, y utiliza Google Chrome como navegador principal.
-Juan depende principalmente de un automóvil para moverse y enfrenta desafíos cotidianos como el tráfico y los accidentes. Mensualmente, destina entre 300 y 400 soles al transporte convencional y se muestra insatisfecho debido a la abrumadora cantidad de pasajeros en el transporte público. Juan cree que sería ideal contar con servicios de vehículos alternativos como bicicletas o scooters, y estaría dispuesto a pagar una suscripción mensual por este tipo de servicio. Considera que incluir el mantenimiento del vehículo en dicha suscripción sería beneficioso, ya que ayudaría a reducir sus costos mensuales y el tiempo perdido en el tráfico.
-
----
-### Entrevistas segmento 3: Mecánicos
-### Entrevista 1:
-
-* Nombre: Rodrigo 
-* Apellidos: Loaiza Gallegos
-* Edad: 24
-* Distrito: San Borja
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 51:46
-* Duración de la entrevista: 5:56
-
-<img src="../assets/entrevistas/entrevista-7.png" alt="Imagen de la entrevista"> 
 
 **Informe del resumen de la entrevista:**
 
-La entrevista fue realizada a Rodrigo Loaiza, un residente de San Borja y trabajador en el mismo distrito. Sus sistemas operativos de preferencia son android para móviles y windows para ordenadores. Además, menciona que Google Chrome es el navegador que usa con mayor frecuencia. Él realiza mantenimiento y reparaciones de distintos tipos de vehículos. Atiende aproximadamente de 8 a 9 vehículos  menores por semana, principalmente realizando cambios de batería, parches de llantas, ajustes de cadenas y mantenimiento de frenos. El tiempo para estos servicios varía, con cambios de batería que dura alrededor de 10 minutos y parches de llantas que pueden tardar entre 15 y 20 minutos. Valora mantener informados a sus clientes sobre los problemas y el progreso de las reparaciones, ofreciendo tarifas de mantenimiento variables y accesibles. Comunica a los clientes cuando el mantenimiento ha finalizado y ofrece opciones de recogida. Consideraría atractivo en un programa de mantenimiento el acompañamiento en el uso de los vehículos. Sugiere implementar en la aplicación la posibilidad de tener diferentes direcciones de locales para referir a los clientes cuando un local esté lleno. La entrevista concluyó con la esperanza de volver a hacerla en el futuro con un prototipo y recibir feedback.
-
-### Entrevista 2:
-
-* Nombre: Santiago
-* Apellidos: Velarde Ninahuamán
-* Edad: 24
-* Distrito: San Juan de Lurigancho
-* Enlace a la entrevista: [Click aquí](https://upcedupe-my.sharepoint.com/personal/u202022365_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022365%5Fupc%5Fedu%5Fpe%2FDocuments%2FRegistr%2Dentrevistas%2Dinnovatech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E224149ab%2Dac1e%2D44c3%2Da777%2Dfece3bb200dd)
-* Inicio de entrevista: 57:42
-* Duración de la entrevista: 7:43
-
-<img src="../assets/entrevistas/entrevista-8.png" alt="Imagen de la entrevista"> 
-
-**Informe del resumen de la entrevista:**
-
-Santiago Velarde es un mecánico de mantenimiento con 24 años de edad y actualmente vive en San Juan de Lurigancho, Lima, actualmente trabaja en su taller propio y también trabaja en otros talleres si es que lo solicitan su servicio. Sus sistemas operativos de preferencia son android para móviles y windows para ordenadores. Además, menciona que Google Chrome es el navegador que usa con mayor frecuencia. Él tiene como experiencia 2 años en el rubro de mantenimiento de vehículos menores y su motivo de este trabajo es por su pasión y por salir adelante con su familia, Santiago trabaja de Lunes a Sábado desde las tempranas horas, él al día recibe de 5 a 12 motos para dar su mantenimiento o que algunos viene para reparar algunos daños a repara con mayor tiempo, en cuanto a los bicicletas o scooters suele recibir pocas veces, a la semana de 5 o 15 vehículos de estas.
-El para comunicarse con sus clientes usa la herramienta de whatsapp o llamadas telefónicas y en cuanto a las tarifas el cuenta con aplicaciones de yape o plin para obtener los pagos de servicios, Por otro lado él no cuenta con plataformas de marketing y muchos menos no usa una aplicación web para ofrecer su servicio, él maneja perfectamente los equipos sea laptop o celular android.
-Al proponer y presentar nuestro proyecto de GlideGo, él siente el interés de contar con nuestra aplicación web, ya que para él y para sus compañeros de rubro sería una herramienta de oportunidad para tener más oportunidades de trabajo.
 
 ---
 ### 2.2.3. Análisis de entrevistas.
